@@ -8,14 +8,21 @@ Open the **`finds/`** folder. Each day is one file:
 
 `finds/YYYY-MM-DD.md`
 
-Newest date = latest research run.
+Newest date = latest research run. Open that file for Live jobs, company watches, and apply order.
 
 ## Layout
 
 | Path | What it is |
 |------|------------|
-| `finds/YYYY-MM-DD.md` | That day's search (Live / watch / unverified) |
-| `context/` | Employer memory / learnings (grows over time) |
+| `finds/YYYY-MM-DD.md` | That day's coverage-machine search (Live / watch / unverified) |
+| `context/` | Brief notes, employer memory, learnings (grows over time) |
 | `README.md` | This page |
 
-**Write-only repo for Job Search bot:** `duvida13/GROK-BOT`.
+## Honesty rules (short)
+
+- **Live** = apply page opened and not closed
+- LinkedIn-only posts are **not** Live
+- Old/missing dates → Unverified
+- No invented URLs or jobs
+
+Maintained by the Job Search assistant. Tracker repo: `duvida13/GROK-BOT`.
