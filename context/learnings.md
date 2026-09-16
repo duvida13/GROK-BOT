@@ -1,5 +1,15 @@
 # Learnings log
 
+## 2026-09-16 (Wednesday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 16 Sep 2026** (again).
+2. **Wednesday long-tail** paid on re-verify: Sky-Work DK, C.R.I. BE (Dutch required), Zweiseil + Proworker AT evergreen Industriekletterer pages still open; FI/EE/HU/HR thin on dated L1 seats.
+3. **NEW query-layer seeds:** Nordic Access Oy (FI, projects@nordicaccess.fi), Infiniteam (HR, hello@infiniteam.hr), RT9 (DK, job@rt9.dk) — employers.md watch only until vacancy IDs exist.
+4. **Pendrich trap:** aggregator/search still indexes Newport 3-mo L1/L2; employer careers empty and detail **HTTP 410** → Company watch.
+5. **Brand Energy Den Helder** still **OFFLINE**; CGS Nordic deadline **30 Sep** still listed (vakanser.se when jobbsafari CF-blocked).
+6. **Norway:** StS UK English path remains the usable EU-passport route; pure NO ads need NS 9600 + Scandinavian.
+7. Best English + cert fit: Fender NL → High Torque UK → Swire/RAS blade 2026 → Gridinta → Bilfinger NL → StS Norway via UK → SPIE Wind → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → Nordic Access FI CV.
+
 ## 2026-09-15 (Tuesday)
 
 1. **Tuesday CH long-tail paid:** Bossard & Geiser Münchenstein **Installer L1 mandatory** is the best NEW Alpine fit if German is workable; VERTIC pro AG also explicitly hiring Seilzugangstechniker.
