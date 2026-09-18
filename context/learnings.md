@@ -1,5 +1,15 @@
 # Learnings log
 
+## 2026-09-18 (Friday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 18 Sep 2026** (fifth refresh).
+2. **Friday long-tail paid:** **DAAS Group PL** NEW evergreen kariera (funds IRATA; Europe projects); **RigZen Brașov** NEW ANOFM through 31 Dec; Alpinjet + AlpinMax + Util Alpin re-verified Live; WINTEG still no dated IRATA seat; Vertical Alpin form-only watch.
+3. **CGS Nordic deadline 30 Sep** still listed — **12 days left**.
+4. **7ocean** index `/all-vacancies/` **404** but RAT detail page still Live; Pendrich empty; Brand Energy OFFLINE; High Torque careers **fetch fail** (keep Live with caveat); GEV Recruitee still **404**.
+5. **Norway:** StS UK English path remains the usable EU-passport route; pure NO ads need NS 9600 + Scandinavian.
+6. **NEW employer seeds:** DAAS Group PL; RigZen Group RO.
+7. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK → Swire/RAS blade 2026 → Gridinta → Bilfinger NL → StS Norway via UK → SPIE Wind → **DAAS PL (NEW)** → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → RigZen/Alpinjet if PL-RO OK.
+
 ## 2026-09-17 (Thursday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 17 Sep 2026** (again).
