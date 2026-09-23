@@ -1,11 +1,42 @@
 # Learnings log
 
+## 2026-09-23 (Wednesday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 23 Sep 2026** (sixth consecutive refresh streak from mid-Sep).
+2. **Wednesday long-tail paid:** **BTH/Groupe NA Mouscron** NEW IRATA L1 CDI (French); **Davai DK** NEW EN unsolicited IRATA page (best EN path this long-tail); Kubus + Height Solutions BE evergreen (Dutch); Sky-Work DK + C.R.I. BE + AT cluster Still Live.
+3. **Core NEW:** **Abseiltechnieken NL** (trains IRATA; hard ≤15 min Sint Nicolaasga residence); Techniques Verticales Rennes cordiste Live.
+4. **CGS Nordic deadline 30 Sep** still listed — **7 days left**.
+5. **Morson UK Plater** still Live but start **25 Sep** (2 days) — urgent/may drop; heavy plater stretch.
+6. **Norway:** StS UK English path remains the usable EU-passport route; 7ocean / StS-ISONOR / KAEFER still need NS 9600 + Scandinavian.
+7. Watches confirmed: Brand BEIS 324+325 OFFLINE; Pendrich empty; GEV careers_not_hosted; RES pala still watch; Aerones Workable cookie/429 but campaign still indexed.
+8. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK → StS Norway via UK → Gridinta → Bilfinger NL → SPIE Wind → **Davai DK (NEW Wed)** → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → DAAS PL.
+
+## 2026-09-22 (Tuesday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 22 Sep 2026** (daily refresh).
+2. **Tuesday CH/AT long-tail paid:** **ACTUAL Geneva Cordiste/RAT** NEW (EN board title; French likely); **Allessauber** + **Seilwerker** NEW AT L1/IRATA; Bossard Installer still best CH L1 if German OK; SIMACEK Wien **410** closed.
+3. **NEW core:** Moretton Lyon cordiste; **GEARS** DE Handwerker→Industriekletterer train path; Morson UK offshore Plater short ticket (stretch).
+4. **CGS Nordic deadline 30 Sep** confirmed — **8 days left**.
+5. **Acrobatica Torino** su fune page **404** (Milano muratore still Live). Brand Energy still OFFLINE; Pendrich empty.
+6. **Samsic Roma** agency listing re-dated **22 Sep**. Pure NO ads still Scandinavian+NS9600; StS UK remains English path.
+7. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK → Gridinta → Bilfinger NL → StS Norway via UK → Swire/RAS blade → SPIE Wind → ACTUAL Geneva (if FR OK) → Aerones (stretch) → CGS (deadline 30 Sep) → GEARS train path → DAAS PL.
+
+## 2026-09-21 (Monday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 21 Sep 2026** (weekend refresh after 18 Sep).
+2. **Monday long-tail IT paid:** **2High Roma NEW**; Acrobatica Torino su fune + Milano muratore NEW; **InVerticale NEW**; Samsic Roma agency dated **21 Sep**; Rigger Italia + 2High Lombardia re-verified. Old Acrobatica `/lavora-con-noi/` **404** → use `posizioni-aperte`.
+3. **Vercon Lleida** NEW ES TTR detail Live; **TGH Éguilles** NEW FR France Travail cordiste; RES pala demoted to watch (epreselec gap).
+4. **CGS Nordic deadline 30 Sep** confirmed — **9 days left**.
+5. **High Torque** careers opened clean (prior CAPTCHA/fetch fails cleared). Brand Energy still OFFLINE; Pendrich empty.
+6. **Aerones** EU RAT Workable `C5AA4AA02F` Live (EN blade stretch). zlana `/volna-mista/` revived; `/kariera` still 404.
+7. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK → Gridinta → Bilfinger NL → StS Norway via UK → Swire/RAS blade → SPIE Wind → Aerones (stretch) → CGS (deadline 30 Sep) → DAAS PL → 2High IT if Italian OK.
+
 ## 2026-09-18 (Friday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 18 Sep 2026** (fifth refresh).
 2. **Friday long-tail paid:** **DAAS Group PL** NEW evergreen kariera (funds IRATA; Europe projects); **RigZen Brașov** NEW ANOFM through 31 Dec; Alpinjet + AlpinMax + Util Alpin re-verified Live; WINTEG still no dated IRATA seat; Vertical Alpin form-only watch.
 3. **CGS Nordic deadline 30 Sep** still listed — **12 days left**.
-4. **7ocean** index `/all-vacancies/` **404** but RAT detail page still Live; Pendrich empty; Brand Energy OFFLINE; High Torque careers **fetch fail** (keep Live with caveat); GEV Recruitee still **404**.
+4. **7ocean** index `/all-vacancies/` **404** but RAT detail page still Live; Pendrich empty; Brand Energy OFFLINE; High Torque careers **fetch fail**; GEV Recruitee still **404**.
 5. **Norway:** StS UK English path remains the usable EU-passport route; pure NO ads need NS 9600 + Scandinavian.
 6. **NEW employer seeds:** DAAS Group PL; RigZen Group RO.
 7. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK → Swire/RAS blade 2026 → Gridinta → Bilfinger NL → StS Norway via UK → SPIE Wind → **DAAS PL (NEW)** → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → RigZen/Alpinjet if PL-RO OK.
