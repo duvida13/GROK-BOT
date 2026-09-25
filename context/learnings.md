@@ -1,5 +1,26 @@
 # Learnings log
 
+## 2026-09-25 (Friday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 25 Sep 2026** (eighth consecutive refresh streak from mid-Sep).
+2. **Friday long-tail paid:** **AlpAccess RO** NEW eJobs hire (expires 11 Oct; **IRATA L2 min** stretch; GWO/BOSIET advantage); **Teton PL** NEW evergreen kariera (sobczak@teton.pl). DAAS + Alpinjet PL Still Live; RigZen + AlpinMax + Util Alpin RO Still Live.
+3. **Core:** no brand-new core firm beyond ANETVA refresh; Morson Plater still listed on start day (to 16 Oct); RTS Wind DE seed but L2+ gate.
+4. **CGS Nordic deadline 30 Sep** still listed — **5 days left**.
+5. **Norway:** StS UK English path remains the usable EU-passport route; 7ocean / StS-ISONOR / KAEFER still need NS 9600 + Scandinavian.
+6. Watches confirmed: Brand BEIS OFFLINE; Pendrich empty; GEV careers_not_hosted; WINTEG no L1 card; Dual Tactic inactive; Aerones Workable cookie-walled.
+7. Best English + cert fit: Fender NL → Bidvest IE → Agua-Clean IE → High Torque UK → StS Norway via UK → Gridinta → Bilfinger NL → **Alpinjet PL (EN page)** → SPIE Wind → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → DAAS PL (funds IRATA) → AlpAccess RO if L2 stretch OK.
+
+## 2026-09-24 (Thursday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 24 Sep 2026** (seventh consecutive refresh streak from mid-Sep).
+2. **Thursday long-tail paid:** **Agua-Clean Dublin** NEW EN IRATA L1 (info@aguaclean.ie; residency preference on LinkedIn); **PT Net-Empregos cluster** NEW — WORKALPINDUSTRY Coimbra (IRATA, board 24 Sep), ALTURA 77 Porto, AACT Lisboa, BestPlusGold, Solução Futuro Barreiro. Bidvest + zlana + Vertical Line Still Live.
+3. **Core NEW:** **Océlian / VINCI Construction Cordiste Saint-Nazaire** (CQP/IRATA, French, 3y stretch).
+4. **CGS Nordic deadline 30 Sep** still listed — **6 days left**.
+5. **Morson UK Plater** still Live with start **25 Sep** (tomorrow) — urgent/may drop; heavy plater stretch.
+6. **Norway:** StS UK English path remains the usable EU-passport route; 7ocean / StS-ISONOR / KAEFER still need NS 9600 + Scandinavian.
+7. Watches confirmed: Brand BEIS OFFLINE; Pendrich empty; GEV careers_not_hosted; TALUDIA aggregator expired (no employer URL); DZP blade seed no careers URL; Aerones Workable title Live but body JS-walled.
+8. Best English + cert fit: Fender NL → Bidvest IE → **Agua-Clean IE (NEW Thu)** → High Torque UK → StS Norway via UK → Gridinta → Bilfinger NL → SPIE Wind → Aerones (stretch) → CGS Nordic (deadline 30 Sep) → DAAS PL → WORKALPINDUSTRY PT if Portuguese OK.
+
 ## 2026-09-23 (Wednesday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 23 Sep 2026** (sixth consecutive refresh streak from mid-Sep).
