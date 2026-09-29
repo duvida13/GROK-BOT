@@ -1,5 +1,15 @@
 # Learnings log
 
+## 2026-09-29 (Tuesday)
+
+1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 29 Sep 2026**. Altura-S stuck on **8 Sep** → Unverified.
+2. **Tuesday CH/AT long-tail:** ACTUAL Geneva Cordiste/RAT **re-dated 27 Sep** (best English-tolerant CH card). Bossard / VERTIC / Allessauber / Seilwerker / Zweiseil / Proworker Still Live. SIMACEK Wien **410** Closed. Alkana cordiste deadline passed → seed only. CH work-permit / domicile flags remain.
+3. **Core NEW:** **Altrad NL** Uitvoerder Drachten (Dutch + supervisor stretch); **ALTISCENCE Annecy** 4× cordistes; **Panoramen** Futur Cordiste Eschau; **MOTIV** Paris + Le Havre (Publié hier); **OCEANE Cléon** start 12 Oct–6 Nov (+ Sancheville pay seat, one-firm digest lead = Cléon).
+4. **Recovered Live:** IKH Hamburg + High Torque UK (from Unverified/captcha watch).
+5. **CGS Nordic deadline 30 Sep** Still Live — **1 day left**.
+6. Watches: Brand BEIS OFFLINE; Abseiltechnieken 400; Pendrich 403; Agua-Clean no RA card; Aerones Closed; GEV no apply URL.
+7. Best English + cert fit: Fender NL → Bidvest IE → High Torque UK (recovered) → StS Norway via UK → Gridinta → Bilfinger NL → SPIE Wind → Swire/RAS blade → **ACTUAL Geneva (if FR OK)** → CGS Nordic (**deadline tomorrow**) → Redak NL (Dutch stretch) → Altrad NL if Dutch OK.
+
 ## 2026-09-28 (Monday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 28 Sep 2026** (weekend refresh after Friday 25 Sep).
