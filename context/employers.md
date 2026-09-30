@@ -1,19 +1,42 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-09-29.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-09-30.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Future Services Int. | BE | https://futureservices.eu/onoffshore-rope-access-technician/ — https://futureservices.eu/your-career/ — info@futureservices.eu | 2026-09-30 | NEW Wed; EN On/Offshore RAT Bredene; training offered |
+| MAD SERVICES | FR | https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-cdi-cdd/ — secretariat@mad-services.fr | 2026-09-30 | NEW Wed; Reims industrial cordiste CDI/CDD |
+| PROMAN / Cordial Thyez | FR | https://candidat.francetravail.fr/offres/recherche/detail/214NVGH | 2026-09-30 | NEW Wed; multi-site CQP1 interim Actualisé 29 Sep (one lead) |
+| Missions Interim Toulon | FR | https://candidat.francetravail.fr/offres/recherche/detail/214NRFG | 2026-09-30 | NEW Wed; CQP2 Clans start ~5 Oct |
+| Advance Emploi Corse | FR | https://candidat.francetravail.fr/offres/recherche/detail/214JZNJ | 2026-09-30 | NEW Wed; Cordiste TP Propriano; IRATA accepted |
+| Skyworkers BV | BE | https://www.skyworkers.be/ — info@skyworkers.be | 2026-09-30 | NEW seed Wed; Herentals spontaneous only |
+| Rebteknikeren ApS | DK | https://rebteknikeren.dk/job/ — jv@rebteknikeren.dk | 2026-09-30 | Recovered Watch→Live; Erhvervsklatrere L1–L3 |
+| BTH / Groupe NA | BE | https://groupena.teamtailor.com/jobs/8371043-technicien-cordiste-h-f — https://belgique-travaux-hauteur.be/ | 2026-09-30 | Still Live Wed; IRATA L1 CDI Mouscron |
+| Kubus Safety | BE | https://www.kubussafety.be/vacatures/touwtechnieker/ | 2026-09-30 | Still Live; Dutch; staleness risk |
+| Height Solutions BVBA | BE | https://www.heightsolutions.be/ — toon@heightsolutions.be | 2026-09-30 | Still Live Wed open hire |
+| Davai Bridge & Tunnel | DK | http://www.davai.dk/en/job/ — davai@davai.dk | 2026-09-30 | Still Live EN unsolicited IRATA |
+| Sky-Work | DK | https://skywork.dk/erhvervsklatring/job/ | 2026-09-30 | Still Live Wed rolling |
+| C.R.I. | BE | https://cri-ropeaccess.com/pages/en/vacature.html | 2026-09-30 | Still Live; Dutch required |
+| CGS Nordic | SE | jobb@cgsnordic.se — https://vakanser.se/jobb/vi+anstaller+fler+reptekniker/ — https://www.cgsnordic.se/sok-till-oss/ | 2026-09-30 | Deadline TODAY 2026-09-30 Still Live |
+| Descuelgue | ES | https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/ — dromero@descuelgue.com | 2026-09-30 | ANETVA 30 Sep Madrid |
+| Eix Grup | ES | administració@eixgrup.com — https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/ | 2026-09-30 | ANETVA 30 Sep Barcelona |
+| High Torque Rope Access | UK | https://hightorqueropeaccess.co.uk/careers/ | 2026-09-30 | Unverified watch; bot wall (HTTP 202 empty) |
+| StS Group | UK→NO | https://stsgroupuk.co.uk/work-us | 2026-09-30 | Unverified watch; HTTP 403 |
+| Vercon | ES | https://ttrinternational.com/ofertas-de-empleo/tecnico-trabajos-verticales-lleida/ | 2026-09-30 | Unverified watch; Imperva bot wall |
+| Vertigen | ES | https://ttrinternational.com/ofertas-de-empleo/tecnicos-trabajos-verticales-para-trabajar-en-barcelona/ | 2026-09-30 | Unverified watch; Imperva bot wall |
+| Moretton Travaux Acrobatique | FR | https://offres.emploi-cordiste.fr/listing/cordiste-electricien/ — recrutement@moretton-acro.com | 2026-09-30 | NEW Cordiste-Électricien + qualifié Still Live Lyon |
+| ACTUAL Switzerland SA | CH | https://www.jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82/ — actual.batindtec.geneve@actualgroup.com | 2026-09-30 | Geneva Cordiste/RAT Still Live (27 Sep) |
+| Fender BV | NL | https://fenderbv.com/vacancies/rope-access-technician/ | 2026-09-30 | English + IRATA + EU passport; housing |
+| MOTIV Intérim | FR | FT 214NVDS / 214NVCK / 213RGWJ / 214MRVZ / 214MRVB | 2026-09-30 | NEW Châtellerault+Tours+IDF; Paris+Le Havre Still |
+| ERAS | EE | https://eras.ee/wind-industry/ | 2026-09-30 | Watch; site Elementor fatal today |
 | Altrad Services B.V. | NL | https://bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten | 2026-09-29 | NEW Tue; Uitvoerder Rope Access Drachten; IRATA L1 or train; Dutch |
 | ALTISCENCE | FR | https://offres.emploi-cordiste.fr/listing/techniciens-cordistes-f-h-travaux-urbains-annecy-74/ — f.glemarec@altiscence.fr | 2026-09-29 | NEW Tue; 4 cordistes Annecy urban |
 | Panoramen | FR | https://candidat.francetravail.fr/offres/recherche/detail/214LQLT — https://www.panoramen.fr/ | 2026-09-29 | NEW Tue; Futur Cordiste CDI Eschau |
-| MOTIV Intérim Évreux | FR | evreux@motivinterim.fr — FT 214MRVZ / 214MRVB | 2026-09-29 | NEW Tue; cordiste interim Paris + Le Havre |
 | LPA – Lauragais Pyrénées Accès | FR | https://offres.emploi-cordiste.fr/listing/conducteur-de-travaux-travaux-sur-cordes-de-maconnerie-et-couverture-h-f/ — contact@lpa-acces.fr | 2026-09-29 | NEW seed; Conducteur de travaux stretch |
 | Alkana Sàrl | CH | https://alkana.ch/ — admin@alkana.ch | 2026-09-29 | NEW seed; St-Maurice; cordiste deadline 21 Jun passed |
 | Toprope GmbH | CH | https://www.toprope.ch/de/toprope/jobs — info@toprope.ch | 2026-09-29 | NEW seed; Worb; Projektleitung L3-stretch + blind CV |
 | Vertical Access Group SA | CH | https://vertical-access.ch/ | 2026-09-29 | NEW seed; Romandie; no dated vacancy |
 | IAV – Industrial Alpinists Vienna | AT | https://iav.at/ — office@iav.at | 2026-09-29 | NEW seed; no discrete careers page |
-| ACTUAL Switzerland SA | CH | https://www.jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82/ — actual.batindtec.geneve@actualgroup.com | 2026-09-29 | Geneva Cordiste/RAT re-dated 27 Sep |
 | Bossard & Geiser GmbH | CH | https://www.jobs.ch/en/vacancies/detail/e04a8e89-f655-4b12-8be7-3c4624c6e30f/ — https://bossard-geiser.ch/jobs | 2026-09-29 | Installer L1; German required |
 | VERTIC pro AG | CH | https://www.vertic.ch/Hoehenarbeiten/ — info@vertic.ch | 2026-09-29 | Seilzugangstechniker open call |
 | Allessauber | AT | https://www.allessauber.at/job-weinviertel-marchfeld-niederoesterreich-wien/ — job@allessauber.at | 2026-09-29 | FISAT L1+ Wien/NÖ |
@@ -28,9 +51,6 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | OCEANE Intérim | FR | https://candidat.francetravail.fr/offres/recherche/detail/214HWNR — dominique@oceaneinterim.fr | 2026-09-29 | NEW Cléon 12 Oct–6 Nov; Sancheville + Ustaritz Still |
 | Granada patrimoine SME | ES | https://offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee/ — +34672809967 | 2026-09-29 | heritage cordiste Granada Still Live |
 | Acrobatica (muratore cities) | IT | https://acrobaticagroup.com/lavora-con-noi/posizionisc/ — https://www.acrobaticagroup.com/posizioni-aperte/ | 2026-09-28 | Reggio Emilia/Latina/La Spezia/Milano; Torino su fune 404; not re-verified Tue |
-| Descuelgue | ES | https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/ — dromero@descuelgue.com | 2026-09-29 | ANETVA 29 Sep Madrid |
-| Eix Grup | ES | administració@eixgrup.com — https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/ | 2026-09-29 | ANETVA 29 Sep Barcelona |
-| Fender BV | NL | https://fenderbv.com/vacancies/rope-access-technician/ | 2026-09-29 | English + IRATA + EU passport; housing |
 | Sky-Access B.V. | NL | https://sky-access.com/vacatures/ | 2026-09-29 | Tech Live; Dutch+EN |
 | Bilfinger Height Specialists | NL | https://jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301/ | 2026-09-29 | Train IRATA; Rotterdam |
 | Abseiltechnieken | NL | https://www.abseiltechnieken.nl/vacatures/ — Info@abseiltechnieken.nl | 2026-09-29 | Watch; fetch 400 |
@@ -42,25 +62,19 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Techniques Verticales Grand Ouest | FR | https://offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44/ — recrutement@techniquesverticales.com | 2026-09-29 | Rennes cordiste Still Live |
 | ALTIFUSION International | FR | https://www.altifusion.com/ — contact@altifusion.com | 2026-09-29 | Lyon; IRATA or CQP |
 | ACCÈS SERVICE / asn-cordiste | FR | https://offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f/ — contact@asn-cordiste.fr | 2026-09-29 | emploi-cordiste Still Live |
-| Moretton Travaux Acrobatique | FR | lmoretton@moretton-acro.com | 2026-09-29 | Lyon Still Live |
 | SARL T.G.H | FR | https://candidat.francetravail.fr/offres/recherche/detail/214BZGN | 2026-09-29 | Éguilles Still Live |
 | Altura-S | ES | administracion@altura-s.com | 2026-09-29 | ANETVA still 8 Sep → Unverified |
-| Vertigen | ES | info@vertigen.es | 2026-09-29 | TTR Cataluña Live |
-| Vercon | ES | info@vercon.es | 2026-09-29 | TTR Lleida |
 | 2High | IT | https://2high.it/offerte-di-lavoro/ | 2026-09-28 | Roma + Lombardia + Emilia; not re-verified Tue |
 | Rigger Italia | IT | https://riggeritalia.com/jobs | 2026-09-28 | Assago evergreen; not re-verified Tue |
 | InVerticale | IT | https://www.inverticale.it/lavora-con-noi — info@inverticale.it | 2026-09-28 | funds rope quals; not re-verified Tue |
 | Bidvest Noonan | IE | https://careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html | 2026-09-29 | IRATA L1 industrial cleaning Dublin |
 | Agua-Clean Services | IE | https://aguaclean.ie/ — info@aguaclean.ie | 2026-09-29 | Watch; no discrete RA card |
-| High Torque Rope Access | UK | https://hightorqueropeaccess.co.uk/careers/ | 2026-09-29 | Recovered Live; EN CV intake |
-| StS Group | UK→NO | https://stsgroupuk.co.uk/work-us | 2026-09-29 | Norway English path |
 | Morson Edge | UK | https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater | 2026-09-29 | RA Plater listed thru 16 Oct |
 | Pendrich Height Services | UK | https://www.pendrich.com/careers/ | 2026-09-29 | Careers 403 → watch |
 | StS-ISONOR | NO | https://sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere | 2026-09-29 | NS 9600 + Scandinavian |
 | KAEFER Energy | NO | https://kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere/ | 2026-09-29 | Scandinavian; page open |
 | 7ocean | NO | https://www.7ocean.no/all-vacancies/rope-access-technicians | 2026-09-29 | NS 9600 + Scandinavian |
 | Swire Rope Access / RAS | SE | https://career.ropeaccess.se/ | 2026-09-29 | Blade 2026 season |
-| CGS Nordic | SE | jobb@cgsnordic.se — https://vakanser.se/jobb/vi+anstaller+fler+reptekniker/ | 2026-09-29 | Deadline 2026-09-30 (1 day) |
 | Gridinta | LT / Europe | https://gridinta.eu/careers/ | 2026-09-29 | RAT + WTT + RA electrician |
 | Aerones | LV / EU | https://apply.workable.com/j/C5AA4AA02F | 2026-09-29 | Workable Closed/Watch |
 | Teton Alpinistyka Przemysłowa | PL | https://teton.pl/kariera/ — sobczak@teton.pl | 2026-09-25 | Fri evergreen; not re-verified Tue |
@@ -77,15 +91,8 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Solução Futuro | PT | https://www.net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul/ | 2026-09-24 | Barreiro agency |
 | Vertical Line Rope Access | PT | https://verticalline.wixsite.com/vlropeaccess — verticalline.sede@gmail.com | 2026-09-24 | CV intake |
 | zlana.cz | CZ | https://www.zlana.cz/volna-mista/ — info@zlana.cz | 2026-09-24 | Continuous lanař |
-| BTH / Groupe NA | BE | https://groupena.teamtailor.com/jobs/8371043-technicien-cordiste-h-f — https://belgique-travaux-hauteur.be/ | 2026-09-23 | IRATA L1 CDI Mouscron |
-| Kubus Safety | BE | https://www.kubussafety.be/vacatures/touwtechnieker/ | 2026-09-23 | IRATA/SPRAT; Dutch |
-| Height Solutions BVBA | BE | https://www.heightsolutions.be/ — toon@heightsolutions.be | 2026-09-23 | evergreen open hire |
-| Davai Bridge & Tunnel | DK | http://www.davai.dk/en/job/ — davai@davai.dk | 2026-09-23 | EN unsolicited IRATA |
 | ICS Industrial Climbing Solutions | DK | https://klatrearbejde.dk/job-og-karriere/ — info@klatrearbejde.dk | 2026-09-23 | Watch; unsolicited only |
-| Rebteknikeren ApS | DK | https://rebteknikeren.dk/job/ — jv@rebteknikeren.dk | 2026-09-23 | Watch |
-| Sky-Work | DK | https://skywork.dk/erhvervsklatring/job/ | 2026-09-23 | Continuous |
 | RT9 Scandinavian Rope Access | DK | job@rt9.dk — https://rt9.dk/kontakt/ | 2026-09-23 | Rolling email only |
-| C.R.I. | BE | https://cri-ropeaccess.com/pages/en/vacature.html | 2026-09-23 | Dutch required |
 | Nordic Access Oy | FI | https://www.nordicaccess.fi/ — projects@nordicaccess.fi | 2026-09-23 | Watch; no dated vacancy |
 | RTS Wind AG | DE | https://jobs.rts-wind.de/stellenangebote/Offshore-Industriekletterer-m-w-d-Windenergie-Bremen-RTS-Wind-AG--783367583 | 2026-09-25 | Seed/watch; L2+ FISAT/IRATA |
 | Dual Tactic Grup | RO | https://www.bestjobs.eu/loc-de-munca/alpinist-utilitar-54 | 2026-09-25 | Watch; inactive junior IRATA path |
@@ -93,7 +100,6 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Kreativ Alpin | RO | https://kreativalpin.ro/ — office@kreativalpin.ro | 2026-09-25 | Seed; services only |
 | Rope Access Solutions | IE | https://ropeaccess.ie/ — niall@ropeaccess.ie | 2026-09-24 | Watch/seed; Galway |
 | DZP | LT | https://dzp.eu/ — info@dzprojects.eu | 2026-09-24 | Watch; blade IRATA; no careers URL |
-| ERAS | EE | https://eras.ee/wind-industry/ | 2026-09-23 | Watch / seed |
 | GEV Wind Power | UK/PL/IE/EU | https://gevwindpower.com/wind-turbine-technicians/ | 2026-09-29 | careers_not_hosted → watch |
 | WINTEG Sp. z o.o. | PL | https://winteg.com/careers.html — info@winteg.com | 2026-09-25 | Watch; no discrete L1 card |
 | TALUDIA Coop. V. | ES | (aggregator only; no employer apply URL) | 2026-09-24 | Watch; Valencia aggregator expired |

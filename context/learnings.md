@@ -1,5 +1,15 @@
 # Learnings log
 
+## 2026-09-30 (Wednesday)
+
+1. **CGS Nordic deadline TODAY** Still Live on vakanser.se (sista dag 2026-09-30) — apply `jobb@cgsnordic.se` before EOD; evergreen form also at cgsnordic.se/sok-till-oss/.
+2. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 30 Sep 2026**. Board index `/ofertas-de-empleo/` 404 → use `/bolsa-de-empleo/`. Vercon/Vertigen TTR → Imperva bot wall → Unverified.
+3. **Wednesday BE/DK long-tail paid:** **Future Services Int. Bredene** NEW EN On/Offshore RAT (best EN BE find); **Rebteknikeren DK** recovered Watch→Live (L1–L3 Danish). BTH Mouscron / Kubus / Height Solutions / CRI / Davai / Sky-Work Still Live. ERAS EE site down.
+4. **Core NEW (FR burst):** MAD SERVICES Reims; PROMAN/Cordial multi-site (**one lead** Lyon); MOTIV Châtellerault + Tours + IDF; Missions Interim Clans CQP2; Advance Corse Propriano (IRATA OK); Moretton Cordiste-Électricien (stretch).
+5. **Dropped to Unverified/Watch:** High Torque UK (bot), StS Group UK→NO (403), Abseiltechnieken (bot), Pendrich 404, Brand BEIS still wall.
+6. **ACTUAL Geneva** Still Live (jobs.ch “3 days ago” / 27 Sep). Bossard/VERTIC not body-reverified today → omitted from digest.
+7. Best English + cert fit: **CGS Nordic (deadline today)** → Fender NL → Future Services BE (NEW) → Bidvest IE → Bilfinger NL → Gridinta → Davai DK → Sky-Access NL → Swire/RAS blade → SPIE Wind → ACTUAL Geneva (if FR OK) → Morson Plater (thru 16 Oct).
+
 ## 2026-09-29 (Tuesday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 29 Sep 2026**. Altura-S stuck on **8 Sep** → Unverified.
