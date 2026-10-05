@@ -1,5 +1,15 @@
 # Learnings log
 
+## 2026-10-05 (Monday)
+
+1. **ANETVA** is still the ES yield engine: Descuelgue + Eix cards **re-dated 5 Oct 2026** (weekend refresh). No new ANETVA card since Garsansi (1 Oct). Sort by the Fecha on each card page; the bolsa holds ~400 historical cards.
+2. **Italy: "rocciatore" is the key query** next to "operatore su fune". It surfaced 3 of 6 IT NEW (Gi Group Cuneo, Altameta Cadore, MA.RI. Trentino), mostly slope/rockfall firms that train beginners. **Acrobatica WP REST feed** (`https://acrobaticagroup.com/wp-json/wp/v2/posizionisc?per_page=100&page=N&_fields=date,modified,slug,link`) gives exact publish/edit dates for ~158 postings (today: NEW Valdarno, 2 Oct). Samsic HR re-posts under new AppLavoro IDs (27670 → 27920); a 410 page points to the successor. TOPrope IT added a careers page; 2High Emilia is dated Jun 2025 → Unverified.
+3. **FairWind** is a new EN blade employer with an explicit **Level I entry tier** (GWO + rope access are advantages) and a **Portugal** posting. Better blade fit than Swire/SPIE/RTS for a GWO Blade Repair holder without blade hours. Greece IRATA L1 blade post (Experts Group, LinkedIn) is EN but ~2 months old.
+4. **France Travail: scan pages 2–3 (60 IDs), not 20.** The Friday-afternoon wave (ALTIBAT train-to-cordiste, VCSP/Vinci Corse, PNS Nice, SOLUCES RH) landed after Friday's run, and pages 2–3 surfaced ~22 Sep cards never logged (CRIT débutant, CAN CQP alternance → deadline 22 Oct, ALTI PLUS, IMOTEP). FT detail bodies are JS-rendered; use list cards for date/contract and the detail page only for 200 + Postuler.
+5. **Closures:** Bilfinger Stavanger TT2–3 filled; Jobijoba WISAG/Ludwigshafen + ES cards 410; RAS LM blade project window ended 30 Sep; Malta Rope Access ad expired; IT Lavoropiù/Samsic old IDs/FRI-EL mirror 410. Pendrich careers now hard 404. Recoveries: **Sky-Work DK** and **Panoramen 214LQLT**.
+6. KAEFER Technik Hamburg FISAT/IRATA L1/2 keeps getting re-dated on Rapidjob (4 Oct) but has no first-party card. Potential DE L1 seat; direct portal/email check worth it.
+7. Best English + cert fit: **Fender NL** → **FairWind PT Level I blade (NEW)** → Future Services BE → Bidvest IE → Gridinta → StS UK→NO → Sky-Access NL → Swire/RAS blade → ACTUAL Geneva (if FR OK) → Davai DK → Rebteknikeren DK → SPIE Wind → Morson Plater (until 16 Oct). Local-language L1 entry standouts: Descuelgue/Eix (ES), ALTIBAT train-path, CRIT débutant, CAN (deadline 22 Oct), Gi Group Cuneo rocciatore, MA.RI., TOPrope.
+
 ## 2026-10-02 (Friday)
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 2 Oct 2026**; NEW **Garsansi Anor** líneas de vida (1 Oct, adjacent — IRATA not named).
