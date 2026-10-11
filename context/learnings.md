@@ -1,5 +1,19 @@
 # Learnings log
 
+## 2026-10-12 (Monday, IT rotation)
+
+1. **First run on the ledger + process.md spec.** All 246 ledger rows were re-checked (232 unique URLs). Result: 188 live, 41 unverified, 32 closed, 3 expired-deadline. The 116 `unknown-not-in-latest` seed rows are now resolved: 29 closed (mostly old France Travail 404s), 26 generic careers or home pages set to unverified with the flag `seed-page`, LinkedIn posts set to unverified, and duplicate `#` keys flagged `duplicate-row`.
+2. **False positive to avoid:** every France Travail detail page has the phrase "L'offre n'existe plus sur le site partenaire" in its report-abuse form. Do not treat it as a closed phrase. The real closed signal on FT is HTTP 404 with "n'est plus en ligne".
+3. **python-requests gets blocked where curl works:** OLX (CloudFront 403), davai.dk over http, and publi24 timeouts all returned 200 with curl and the same User-Agent. Retry with curl before marking a row unverified.
+4. **Germany has a machine-readable source:** the Bundesagentur API v6 (`/pc/v6/jobs`, X-API-Key jobboerse-jobsuche, app User-Agent) works, while v4 now returns 403. Queries: Industriekletterer, Seilzugangstechniker, Höhenarbeiter, FISAT, IRATA. NEW: DYWIDAG Munich (FISAT L1), Hößl (trains to FISAT 1), ACB/WISAG Schwarzheide. The Deutsche Windtechnik Berlin blade ad (8 Oct) needs L2, so it stays on watch.
+5. **The Groupe NA Teamtailor list is a yield source.** Diffing it found 5 unlogged cordiste ads (Lillebonne, Cassis, Monaco, Cannes, OCO/Explotech BE with IRATA accepted). Diff it every run.
+6. **Muehlhan Teamtailor:** two English entry-level wind installation ads (Vestas and ENERCON, 6/2 rotation, they train on site). These are today's Top picks.
+7. **Italy (Monday):** the Acrobatica WP feed and the 2High list had no new rope seats. The 2High Emilia-Romagna edile page dates from Jun 2025. Indeed IT and subito return 403, careerjet shows a captcha, the jobijoba search returns 404, and applavoro search redirects to the generic list. Web search surfaced EdilAlto Roma, Consorzio Triveneto Rocciatori and a Rigger Italia elettricisti card. The Acrobatica Romano di Lombardia trainee ad sits on a Cloudflare-blocked aggregator, so it is watch only.
+8. **France Travail:** 4 cards were posted 8–9 Oct that the weekend runs missed (CAPEB Volvic, EdiliziAcrobatica Lattes, Nature Bois Élagage, ACTUAL Rennes chef). The rest of pages 1–4 were already logged or are old seeds.
+9. **No change:** ANETVA (Descuelgue and Eix still dated 11 Oct; newest real card is 8 Oct, Mundaka). Net-Empregos (7 keywords, no new rope ad). TTR (only old Mar–May cards plus the RigPro marine rigger, which is not a fit). irata.org/jobs (IRATA staff jobs only). CareerStructure (no rope cards today).
+10. **Closed since 11 Oct:** AlpAccess publi24 (deadline 11 Oct passed). Agua-Clean moved to watch because the only vacancy evidence is LinkedIn. Today's deadlines: Ultra Wind LV closes today; CAN FR 22 Oct; Hytech NO 28/31 Oct; CGS Nordic 29 Nov.
+11. **Still open from earlier days: 154.** This is high because seed rows that were re-verified as live now count. Over the next week, re-date-check aging ads, e.g. 2High ER (Jun 2025) and Kubus (Aug 2025).
+
 ## 2026-10-11 (Sunday)
 
 1. **Daily cadence is now every day incl. weekends (midnight Amsterdam).** Sunday = light catch-up over thin countries (CH, IE, PT, SE) plus full re-verification of Friday's digest.
