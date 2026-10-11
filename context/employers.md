@@ -1,9 +1,24 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-11.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-12.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Muehlhan Wind Service (EU installation) | DK/EU | https://career.muehlhan.com/jobs (Teamtailor) — 8406285 Vestas entry-level, 8406332 ENERCON rookie | 2026-10-12 | NEW Mon; English entry-level onshore installation techs, 6/2, train on site; also IRATA 3 RAT (8516863, FR) = above level |
+| Groupe NA (Teamtailor feed) | FR/BE/MC | https://groupena.teamtailor.com/jobs | 2026-10-12 | Diff the list each run: NEW Mon Nord Access Lillebonne 8472750, NATS Cassis 8479725, Monaco 8371045, Cannes 8371086, OCO/Explotech BE CDD 8492607; BTH Mouscron re-posted as 8484577 (same lead as 8371043); several chef d'équipe / chargé d'affaires cards = stretch |
+| DYWIDAG-Systems International | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003822870-S | 2026-10-12 | NEW Mon; Munich landmark project, FISAT L1 min, ~2-yr contract from spring 2027; German; employer ATS not found yet |
+| Hößl Personal GmbH (agency) | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208170585-S | 2026-10-12 | NEW Mon; trains to FISAT 1 (Speichersdorf); fluent German |
+| ACB Job Agentur Cottbus (agency) / WISAG Schwarzheide | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003809419-S | 2026-10-12 | NEW Mon; FISAT L1 rope cleaning, battery plant; WISAG's own ad (Kennziffer 424675) seen on jobijoba only |
+| Bundesagentur für Arbeit API (source) | DE | https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs?was=Industriekletterer (header X-API-Key: jobboerse-jobsuche + app User-Agent) | 2026-10-12 | Machine-readable DE source; v4 now 403, v6 works; detail page /jobsuche/jobdetail/<refnr> is server-rendered |
+| CAPEB Puy-de-Dôme (for a member firm) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215BHBL | 2026-10-12 | NEW Mon; cordiste CDI Volvic |
+| SAS Nature Bois Elagage | FR | https://candidat.francetravail.fr/offres/recherche/detail/214ZVSV | 2026-10-12 | NEW Mon; bûcheron cordiste (stretch) |
+| Service & Corde | FR | https://candidat.francetravail.fr/offres/recherche/detail/214WRGM | 2026-10-12 | NEW Mon; chef d'équipe cordiste Paris (stretch) |
+| EdilAlto S.r.l. | IT | https://www.edilalto.it/lavora-con-noi/ — edilaltoroma@gmail.com | 2026-10-12 | NEW Mon; operatore su fune (2+ yrs) San Cesareo RM |
+| Consorzio Triveneto Rocciatori | IT | https://www.consorziotrivenetorocciatori.it/ — ctr@consorziotrivenetorocciatori.it | 2026-10-12 | NEW Mon; open hire personale da cantiere (rockfall/slope) |
+| Rigger Italia (elettricisti card) | IT | https://riggeritalia.com/rigger-italia/jobs-at-rigger-italia | 2026-10-12 | NEW card elettricisti su fune (stretch); rope access/tecnico card still open |
+| EdiliziAcrobatica Seregno (Romano di Lombardia) | IT | https://lavori.co.it/operatore_romano-di-lombardia-c283049/2026-10-acrobatica-seregno_i4236213502 | 2026-10-12 | Watch; "no experience, we train" operatore su fune (9 Oct) but aggregator is Cloudflare-blocked and the ad is not on acrobaticagroup.com WP feed → unverified |
+| RigPro (NTG Mast Group) | ES | https://ttrinternational.com/ofertas-de-empleo/rigger/ — monika.gadzinska@rig-pro.com | 2026-10-12 | Seed; marine yacht rigger (5 yrs + sailing) and composite tech (3–5 yrs) — not a fit |
+| Interserv Lda | PT | https://www.net-empregos.com/16098229/pintor-pistola-airless/ | 2026-10-12 | Seed; Fernão Ferro firm doing rope access + anticorrosion; current ads are painter/blaster, not rope |
 | Bellini Personal AG (agency) | CH | https://www.jobscout24.ch/de/job/78e7c036-9015-4acd-8556-d3012d5f5197/ | 2026-10-11 | NEW Live Sun; Chur Industriekletterer direct hire (rated 27 Sep); German; two further Bellini cards (Bern, Brugg) via jobscout24 — Bern card 4209843f returned 410 today |
 | VERTIC | CH | https://www.vertic.ch/Hoehenarbeiten/ — info@vertic.ch | 2026-10-11 | Seed; Winterthur rope-access firm + FISAT courses; says it seeks Seilzugangstechniker (no job page opened) |
 | Nuvem Matizada Lda (3Up Vertical) | PT | https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/ | 2026-10-11 | NEW Live Sun (11 Oct); Lisboa façade painting by rope; PT-valid cert + facade experience |
