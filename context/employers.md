@@ -1,9 +1,21 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-09.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-11.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Bellini Personal AG (agency) | CH | https://www.jobscout24.ch/de/job/78e7c036-9015-4acd-8556-d3012d5f5197/ | 2026-10-11 | NEW Live Sun; Chur Industriekletterer direct hire (rated 27 Sep); German; two further Bellini cards (Bern, Brugg) via jobscout24 — Bern card 4209843f returned 410 today |
+| VERTIC | CH | https://www.vertic.ch/Hoehenarbeiten/ — info@vertic.ch | 2026-10-11 | Seed; Winterthur rope-access firm + FISAT courses; says it seeks Seilzugangstechniker (no job page opened) |
+| Nuvem Matizada Lda (3Up Vertical) | PT | https://www.net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura/ | 2026-10-11 | NEW Live Sun (11 Oct); Lisboa façade painting by rope; PT-valid cert + facade experience |
+| Muehlhan Wind Service (PT) | PT | https://career.muehlhan.com/jobs/8150264-tecnico-de-energia-eolica-sgre-portugal | 2026-10-11 | NEW to log; wind-turbine service technician (SGRE) north/centre PT; electro-mechanical profile; blade repair among services; adjacent stretch |
+| GSSP coating inspector | PT/EU | https://www.net-empregos.com/16037324/coating-inspector-rope-access-technician/ | 2026-10-11 | Watch; same firm as IRATA L1 ad; this card needs NACE/FROSIO L2 + 2 yrs inspection; L3 supervisor card 16037312 also watch |
+| Deutsche Windtechnik | DE | https://jobs.deutsche-windtechnik.com | 2026-10-11 | Watch; Bremen/Hannover Seilzugangstechniker Rotorblattservice needs FISAT/IRATA L2 (ZipRecruiter 9 Oct); portal is JS-rendered |
+| Brand Energy (BEIS) Den Helder offshore | NL | https://baan24.nl/rope-access_amsterdam-c353726/2026-10-brand-energy-infrastructure-services-inc_i4225251427 | 2026-10-11 | Watch; offshore rope-access painter/blaster L1/2, 14/14, €39–58k, 3 yrs painting/blasting; aggregator Cloudflare-blocked = unverified |
+| TTR International / Valencia IRATA autónomos | ES | https://ttrinternational.com/ofertas-de-empleo/tecnicos-irata-valencia/ | 2026-10-11 | Watch; page 200 but dated 11/05/2026 and autónomo-only; not listed |
+| Skyline Vertical | ES | https://es.linkedin.com/posts/skvertical_empleobarcelona-trabajoenplantilla-irata-activity-7500525611480895488-erJp | 2026-10-11 | Watch; LinkedIn-only (1 Sep); tecnico@skvertical.es |
+| BASF Mannheim | DE | https://jobborse24.de/logistics_mannheim-c132321/2026-10-basf_i4227733326 | 2026-10-11 | Watch; Industriekletterer/Seilzugangstechniker needs L3 / L2 + experience (supervisory) |
+| Flex Wind | DK | https://www.linkedin.com/posts/flex-wind_we-are-hiring-rope-access-blade-technicians-activity-7422609060987985921-Sn5R | 2026-10-11 | Watch; LinkedIn-only IRATA L1–3 blade technicians, Europe on/offshore (older post); flexwind.dk careers not reachable |
+| LinkedIn-only UK (EnerMech Aberdeen, KAEFER Sellafield, Stratum Somerset) | UK | see rows above | 2026-10-11 | Moved out of the Live digest Sun — LinkedIn-only is not Live; still valid leads (EnerMech mobilises 15 Oct; Stratum starts ~12 Oct, painting/coatings + CSCS; KAEFER needs UK right to work) |
 | Nettoyage Vitresol | FR | https://candidat.francetravail.fr/offres/recherche/detail/214YQXY | 2026-10-09 | NEW Fri; Nice cordiste laveur de vitres CDD (06/83); CQP or IRATA; permis B |
 | SOLANO (Solano Multitech Salon) | FR | https://candidat.francetravail.fr/offres/recherche/detail/214YLSL | 2026-10-09 | NEW Fri; agency; couvreur cordiste intérim, Lançon-Provence (13) |
 | Aprolan21 | ES | https://www.anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2/ — info@aprolan21.eus | 2026-10-09 | NEW Fri; Mundaka (Bizkaia) peón especialista TV, indefinido; ANETVA 8 Oct re-post of 10 Jun card (/peon-especialista-en-trabajos-verticales/) |
@@ -32,7 +44,7 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | UnionGrid (Divize Venkovní vedení) | CZ / DE | https://cz.linkedin.com/posts/uniongrid_divize-venkovn%C3%AD-veden%C3%AD-obsazujeme-pozici-activity-7489337982420819968-Qwji | 2026-10-08 | Seed; Brno-based HV line climber (Montér VVN lezec), CZ + DE, they provide climbing certs; LinkedIn 1 Aug only |
 | ADEQUAT 430 (Pierrelatte) | FR | https://candidat.francetravail.fr/offres/recherche/detail/214DNTW | 2026-10-08 | Seed; cordiste nucléaire 3 months (21 Sep) — old date, not listed |
 | 7 EME CIEL | FR | https://candidat.francetravail.fr/offres/recherche/detail/214DFZR — chef 214JFSG | 2026-10-08 | Seed; La Farlède ouvrier cordiste urbain CDI (21 Sep) — old date, not listed |
-| 3D MOBILITY | FR | https://candidat.francetravail.fr/offres/recherche/detail/213ZJXD | 2026-10-08 | Seed; Passy cordiste CDI, débutant accepted (17 Sep) — re-check for re-date |
+| 3D MOBILITY | FR | https://candidat.francetravail.fr/offres/recherche/detail/213ZJXD | 2026-10-08 | Seed; Passy cordiste CDI, débutant accepté (17 Sep) — re-check for re-date |
 | ACTRIUM Evreux | FR | https://candidat.francetravail.fr/offres/recherche/detail/214CGZG | 2026-10-08 | Seed; technicien cordiste / window cleaner intérim (18 Sep) |
 | Les Cordistes Rhodaniens (Groupe LTR) | FR | https://candidat.francetravail.fr/offres/recherche/detail/213WNCQ | 2026-10-08 | Watch; Feyzin second d'équipe CQP1 CDI (15 Sep) — old date |
 | ACCES DIRECT AMIANTE | FR | https://candidat.francetravail.fr/offres/recherche/detail/213WTZG | 2026-10-08 | Seed; Cissé (86) cordiste CDI asbestos sites (15 Sep) |
@@ -57,7 +69,7 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Verticstep | PT | https://www.net-empregos.com/16087185/tecnicos-de-acesso-em-rapel/ | 2026-10-08 | Still Live Thu; Lisboa rapel technicians (6 Oct) |
 | M M Branco Unipessoal Lda | PT | https://www.net-empregos.com/15956178/pedreiros-serventes-barradores-pintores-e-tecnico-de-acesso-por-cordas-alpinista/ | 2026-10-08 | Still Live Thu; Lisboa trades + alpinista (1 Oct) |
 | Confidential façade-rehab firm (Lisboa) | PT | https://www.net-empregos.com/15866047/montador-de-andaimes-alpinista/ | 2026-10-08 | Still Live Thu; montador de andaimes/alpinista (22 Sep) |
-| Oostendorp Apparatenbouw | NL | https://nl.joblum.com/job/rope-access-technicus/885549 (expired) — https://www.oostendorp.nl/ | 2026-10-07 | NEW seed; Tiel RVS tanks; trains rope techs; Dutch; ad from 17 Jul expired; own site TLS error |
+| Oostendorp Apparatenbouw | NL | https://nl.joblum.com/job/rope-access-technicus/925666 — https://www.oostendorp.nl/ | 2026-10-11 | NEW Live Sun; Tiel RVS tanks; joblum ad posted 15 Sep fetched 200; trains beginners; Dutch required |
 | Bilfinger Height Specialists (heightspecialists.com) | NL | https://heightspecialists.com/vacatures/irata-l1-2-of-3-zzp/ — https://heightspecialists.com/vacatures/rope-access-technician/ | 2026-10-07 | Watch; ZZP IRATA L1–3 + RAT pages date from 2022 (NL residents only); jobs.bilfinger Rotterdam card filled 2 Oct; contact already known to Luis |
 | BASF SE | DE | https://www.jobijoba.de/detailanzeige/9/722c34cbfab8d336c32747071ee6eb8b | 2026-10-07 | Seed/watch; Ludwigshafen Industriekletterer FISAT L3 (or L2 + hours) supervisory — above level |
 | 2W RH (agency) | BE | https://offres.emploi-cordiste.fr/listing/cordiste-f-h-irata-1-ou-2/ — contact@2w-rh.fr | 2026-10-07 | Seed/Unverified; Liège IRATA 1–2 intérim; listing has no date |
@@ -76,7 +88,7 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | IMOTEP | FR | https://candidat.francetravail.fr/offres/recherche/detail/214DTFB | 2026-10-08 | Still Live Thu (200 re-verified) |
 | STS (La Valette-du-Var) | FR | https://candidat.francetravail.fr/offres/recherche/detail/214DZPL — dup 214DYQF | 2026-10-08 | Still Live Thu (200 re-verified) |
 | HAD OC Solutions | FR | https://candidat.francetravail.fr/offres/recherche/detail/214NQGH | 2026-10-08 | Still Live Thu (200 re-verified) |
-| BIRD Intérim Lyon Centre | FR | https://candidat.francetravail.fr/offres/recherche/detail/214LYML | 2026-10-08 | Still Live Thu (200 re-verified) |
+| BIRD Intérim Lyon Centre | FR | https://candidat.francetravail.fr/offres/recherche/detail/214LYML | 2026-10-11 | Closed Sun — FT 214LYML "n'est plus en ligne (offre clôturée)" |
 | NET CONCEPT | FR | https://candidat.francetravail.fr/offres/recherche/detail/214HCQV | 2026-10-08 | Still Live Thu (200 re-verified) |
 | FairWind | PT / EU | https://fairwind.com/en/open-positions/ — https://fairwind.com/en/job-opening/blade-technician-all-experience-levels/ — https://fairwind.com/en/job-opening/blade-repair-technicians/ | 2026-10-08 | Still Live Thu (200 re-verified) |
 | PolyTALENT GmbH | DE | https://jobs.polytalent.de/o/industriekletterer-hohenarbeiter-mwd | 2026-10-08 | Still Live Thu (200 re-verified) |
@@ -126,10 +138,10 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Davai Bridge & Tunnel | DK | https://www.davai.dk/en/job/ — davai@davai.dk | 2026-10-08 | Still Live Thu (200 re-verified) |
 | Sky-Work | DK | https://skywork.dk/erhvervsklatring/job/ | 2026-10-08 | Still Live Thu (200 re-verified) |
 | C.R.I. | BE | https://cri-ropeaccess.com/pages/en/vacature.html | 2026-10-08 | Still Live Thu (200 re-verified) |
-| CGS Nordic | SE | jobb@cgsnordic.se — https://www.cgsnordic.se/sok-till-oss/ (vakanser timed ad 404) | 2026-10-07 | Watch; evergreen sok-till-oss form only |
+| CGS Nordic | SE | https://jobbland.se/jobb/vi-anstaller-fler-reptekniker-till-vart-goteborgsteam-sasrb-20625230 — jobb@cgsnordic.se | 2026-10-11 | NEW Live Sun; re-posted ad 4 Oct, closes 29 Nov; SPRAT L1–3 or equivalent, trains uncertified; Göteborg; Swedish. Old vakanser ad (30 Sep) closed |
 | Descuelgue | ES | https://www.anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35/ — dromero@descuelgue.com | 2026-10-09 | ANETVA re-dated 9 Oct; Madrid; 2 vacantes; IRATA/ANETVA L1 |
 | Eix Grup | ES | administració@eixgrup.com — https://www.anetva.org/oferta-de-empleo/operario-trabajos-verticales-3/ | 2026-10-09 | ANETVA re-dated 9 Oct; Barcelona; 2 vacantes |
-| High Torque Rope Access | UK | https://hightorqueropeaccess.co.uk/careers/ | 2026-10-08 | Still Live Thu; Recovered Live Wed (200 + content): IRATA L1 & L2 operatives, CSCS; L3 supervisor card too |
+| High Torque Rope Access | UK | https://hightorqueropeaccess.co.uk/careers/ | 2026-10-11 | Live Sun (curl 403 but WebFetch OK); L1/L2 operatives + L3 supervisor; CSCS + UK licence; CV form |
 | StS Group | UK→NO | https://stsgroupuk.co.uk/work-us | 2026-10-08 | Still Live Thu (200 re-verified) |
 | Vercon | ES | https://ttrinternational.com/ofertas-de-empleo/tecnico-trabajos-verticales-lleida/ | 2026-09-30 | Unverified watch; Imperva bot wall |
 | Vertigen | ES | https://ttrinternational.com/ofertas-de-empleo/tecnicos-trabajos-verticales-para-trabajar-en-barcelona/ | 2026-10-08 | Unverified; TTR card is dated 12/11/2025 (stale) |
@@ -157,7 +169,7 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | TOPrope di Franzo Marco | IT | https://www.toprope.it/lavora-con-noi/ — info@toprope.it | 2026-10-08 | Still Live Thu (200 re-verified) |
 | Fly Original / Lavori Verticali | IT | https://www.lavoriverticalisucorda.it/ | 2026-10-05 | Back up (200) Mon; still no careers page; watch |
 | DFI Intérim | FR | https://offres.emploi-cordiste.fr/listing/cordiste-h-f-197/ | 2026-10-08 | Still Live Thu (200 re-verified) |
-| OCEANE Intérim | FR | https://candidat.francetravail.fr/offres/recherche/detail/214HWNR — dominique@oceaneinterim.fr | 2026-10-08 | Still Live Thu 214HWNR (Cléon 12 Oct–6 Nov); NEW 214XTHN Paris tower window cleaning/film 14 days (7 Oct; rope experience required); older Ustaritz 214KBFH + Sancheville 214HWBG on FT |
+| OCEANE Intérim | FR | https://candidat.francetravail.fr/offres/recherche/detail/214HWNR — dominique@oceaneinterim.fr | 2026-10-11 | 214HWNR "en cours d'actualisation" Sun = unverified, dropped from digest (Cléon 12 Oct–6 Nov); NEW 214XTHN Paris tower window cleaning/film 14 days (7 Oct; rope experience required); older Ustaritz 214KBFH + Sancheville 214HWBG on FT |
 | Granada patrimoine SME | ES | https://offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee/ — +34672809967 | 2026-10-08 | Still Live Thu (200 re-verified) |
 | Acrobatica (muratore cities) | IT | https://acrobaticagroup.com/lavora-con-noi/posizionisc/ — WP API https://acrobaticagroup.com/wp-json/wp/v2/posizionisc | 2026-10-07 | Wed: NEW Sanremo + Pistoia muratore (6 Oct); Valdarno edited 6 Oct; Reggio Emilia/Latina/La Spezia/Milano Still Live; WP API still works |
 | Sky-Access B.V. | NL | https://sky-access.com/vacatures/ | 2026-10-08 | Still Live Thu (200 re-verified) |
@@ -176,9 +188,9 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | 2High | IT | https://2high.it/offerte-di-lavoro/ | 2026-10-07 | Still Live Wed (200 re-verified) |
 | Rigger Italia | IT | https://riggeritalia.com/jobs | 2026-10-08 | Still Live Thu (200 re-verified) |
 | InVerticale | IT | https://www.inverticale.it/lavora-con-noi — info@inverticale.it | 2026-10-08 | Still Live Thu (200 re-verified) |
-| Bidvest Noonan | IE | https://careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html | 2026-10-08 | Closed (410 since Wed); still mirrored on ZipRecruiter IE (stale) — do not list |
-| Agua-Clean Services | IE | https://aguaclean.ie/ — info@aguaclean.ie | 2026-10-08 | Watch Thu; only Jul 2026 LinkedIn L1 posts (Ireland residents only) |
-| Morson Edge | UK | https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater | 2026-10-08 | Still Live Thu (200 re-verified) |
+| Bidvest Noonan | IE | https://careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html | 2026-10-11 | Closed Sun — HTTP 410 Vacancy Not Found; watch for re-post |
+| Agua-Clean Services | IE | https://www.aguaclean.ie/ — info@aguaclean.ie | 2026-10-11 | Employer page 200 (window cleaning + rope access services); LinkedIn L1 recruiting posts only; listed as CV intake |
+| Morson Edge | UK | https://www.morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater | 2026-10-11 | Closed Sun — 'Jobs Archived, the searched job no longer exists'; Sevenoaks/Dartford L1 night contract ended 2 Oct |
 | Pendrich Height Services | UK | https://www.pendrich.com/careers/ | 2026-10-07 | Watch; careers 404 |
 | StS-ISONOR | NO | https://sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere | 2026-10-08 | Still Live Thu (200 re-verified) |
 | KAEFER Energy | NO | https://kaeferenergy.no/ledige-stillinger/ | 2026-10-07 | Watch; no tilkomsttekniker card |
@@ -202,7 +214,7 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | ICS Industrial Climbing Solutions | DK | https://klatrearbejde.dk/job-og-karriere/ — info@klatrearbejde.dk | 2026-09-23 | Watch; unsolicited only |
 | RT9 Scandinavian Rope Access | DK | job@rt9.dk — https://rt9.dk/kontakt/ | 2026-09-23 | Rolling email only |
 | Nordic Access Oy | FI | https://www.nordicaccess.fi/ — projects@nordicaccess.fi | 2026-09-23 | Watch; no dated vacancy |
-| RTS Wind AG | DE | https://jobs.rts-wind.de/stellenangebote/Offshore-Industriekletterer-m-w-d-Windenergie-Bremen-RTS-Wind-AG--783367583 | 2026-10-07 | Seed/watch; Offshore Industriekletterer needs FISAT/IRATA L2 |
+| RTS Wind AG | DE | https://jobs.rts-wind.de/stellenangebote/Seilzugangstechniker-m-w-d-Rotorblattreparaturen-Bremen-RTS-Wind-AG--845269753 | 2026-10-11 | NEW Live Sun; Bremen Seilzugangstechniker Rotorblattreparaturen — FISAT/IRATA cert + first rope experience (L1 fits); permanent; German. (Offshore Industriekletterer ad 783367583 needs L2 = watch) |
 | Dual Tactic Grup | RO | https://www.bestjobs.eu/loc-de-munca/alpinist-utilitar-54 | 2026-09-25 | Watch; inactive junior IRATA path |
 | Tundra | PL | https://tundra.com.pl/ — tundra@tundra.com.pl | 2026-09-25 | Seed; no careers page |
 | Rope Access Solutions | IE | https://ropeaccess.ie/ — niall@ropeaccess.ie | 2026-10-01 | Watch/seed; Galway; no dated vacancy |
