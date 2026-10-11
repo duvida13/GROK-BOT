@@ -1,6 +1,8 @@
 # Daily finds
 
-One file per weekday: `YYYY-MM-DD.md`
+One file per day: `YYYY-MM-DD.md`
+
+**Rules and dedup:** the authoritative process (ledger/repost rules, liveness gates, digest format) is in [`context/process.md`](../context/process.md); the dedup ledger is [`context/ledger.csv`](../context/ledger.csv). Read both before writing a digest.
 
 ## Format (keep it clean)
 
