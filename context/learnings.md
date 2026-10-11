@@ -1,5 +1,19 @@
 # Learnings log
 
+## 2026-10-11 (Sunday)
+
+1. **Daily cadence is now every day incl. weekends (midnight Amsterdam).** Sunday = light catch-up over thin countries (CH, IE, PT, SE) plus full re-verification of Friday's digest.
+2. **Re-verification by curl beats keyword greps:** words like "404"/"closed" appear in every page's JS/CSS. Strip script/style, then match phrases (France Travail: "n'est plus en ligne" = closed, "en cours d'actualisation" = unverified; Morson: "no longer exists"; Bidvest: HTTP 410 "Vacancy Not Found"; Cloudflare 403 on baan24/emprego24 = unverified).
+3. **High Torque** returns curl 403 but WebFetch loads the page — try WebFetch before dropping a known URL.
+4. **CGS Nordic re-posted** on jobbland.se (published 4 Oct, closes 29 Nov, SPRAT L1–3 or equivalent, trains) — the old 30 Sep vakanser ad is dead. jobbland / jobbsafari mirror Swedish ads.
+5. **Net-Empregos keyword pages** (`pesquisa-empregos.asp?chaves=rapel|irata|alpinista`) parse cleanly: re-dated 11 Oct C.A. Equilíbrio, Verticstep, ALTURA 77; Tinta Viva 10 Oct. NEW: Nuvem Matizada Lisboa (11 Oct). GSSP posted two more cards (coating inspector needs NACE; L3 supervisor) — watch only.
+6. **ANETVA** Descuelgue + Eix re-dated **11 Oct** again (card shows "11 de octubre de 2026").
+7. **Germany:** RTS Wind Bremen blade-repair Seilzugangstechniker (FISAT/IRATA + first rope experience) is a real L1-friendly blade seat — NEW. Deutsche Windtechnik and BASF need L2/L3.
+8. **Switzerland:** jobscout24.ch carries Bellini Personal Industriekletterer cards (Chur live; Bern 410). VERTIC Winterthur is a seed.
+9. **Closed since Friday:** Morson UK plater (archived), France Travail 214LYML (closed) and 214HWNR (updating), Bidvest Noonan Dublin (410 gone).
+10. **LinkedIn-only leads (EnerMech, KAEFER, Stratum) are no longer counted Live** — kept in employers.md as watch.
+11. **Deadlines:** AlpAccess RO eJobs expires today (11 Oct); Ultra Wind LV 12 Oct; CAN FR 22 Oct; Hytech NO 28/31 Oct; CGS Nordic 29 Nov.
+
 ## 2026-10-09 (Friday)
 
 1. **Repo context sync:** the repo copies of context/employers.md and context/learnings.md were still the 5 Oct versions (blob SHAs 1bd49264 / b869f6f8). The 8 Oct box versions were supersets (every repo row survives, some with newer dates), so today's files were built on top of those.
@@ -118,7 +132,7 @@
 
 1. **ANETVA** still the ES yield engine: Descuelgue + Eix cards **re-dated 24 Sep 2026** (seventh consecutive refresh streak from mid-Sep).
 2. **Thursday long-tail paid:** **Agua-Clean Dublin** NEW EN IRATA L1 (info@aguaclean.ie; residency preference on LinkedIn); **PT Net-Empregos cluster** NEW — WORKALPINDUSTRY Coimbra (IRATA, board 24 Sep), ALTURA 77 Porto, AACT Lisboa, BestPlusGold, Solução Futuro Barreiro. Bidvest + zlana + Vertical Line Still Live.
-3. **Core NEW:** **Océlian / VINCI Construction Cordiste Saint-Nazaire** (CQP/IRATA, French, 3y stretch).
+3. **Core NEW:** **Ócelian / VINCI Construction Cordiste Saint-Nazaire** (CQP/IRATA, French, 3y stretch).
 4. **CGS Nordic deadline 30 Sep** still listed — **6 days left**.
 5. **Morson UK Plater** still Live with start **25 Sep** (tomorrow) — urgent/may drop; heavy plater stretch.
 6. **Norway:** StS UK English path remains the usable EU-passport route; 7ocean / StS-ISONOR / KAEFER still need NS 9600 + Scandinavian.
