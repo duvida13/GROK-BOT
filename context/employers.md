@@ -1,9 +1,14 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-12.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-13.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| ALPI | FR | https://candidat.francetravail.fr/offres/recherche/detail/215CNSV | 2026-10-13 | NEW Tue; Technicien cordiste CDI Drap (06); masonry/roof on ropes |
+| Revestepinta | PT | https://www.net-empregos.com/16111228/montador-de-andaimes-alpinista/ — twin Mafra 16111203 | 2026-10-13 | NEW Tue; Lisboa/Mafra montador andaimes/alpinista; scaffold-primary stretch |
+| Bossard & Geiser (Project Manager) | CH | https://www.jobs.ch/en/vacancies/detail/91cb04a9-efed-4f37-9c66-96b1b877a923/ | 2026-10-13 | NEW Tue stretch; Münchenstein Project Manager Rope Access L3; installer card e04a8e89 already logged |
+| Groupe NA (12 Oct Teamtailor wave) | FR/MC | https://groupena.teamtailor.com/jobs — 8529414 Voltige St-Médard, 8529409/8529410 Monaco tech+chef, 8529287 Nord Access Lillebonne, chefs 8529406/8529400/8529399 | 2026-10-13 | Diff Tue: overnight 410 on yesterday's 8472750/8479725/8371045/8371086/8371065/8371067/8371043; OCO 8492607 + BTH 8484577 still live; Vestas Muehlhan 8406285 closed, ENERCON 8406332 still live |
+| SIMACEK GmbH (Wien) | AT | https://job.simacek.at/Industriekletterer-kletterin-mwd-in-WIEN-de-j548.html | 2026-10-13 | Watch; web hit for Industriekletterer Taubenabwehr IRATA L1–3, but page returned 410 today |
 | Muehlhan Wind Service (EU installation) | DK/EU | https://career.muehlhan.com/jobs (Teamtailor) — 8406285 Vestas entry-level, 8406332 ENERCON rookie | 2026-10-12 | NEW Mon; English entry-level onshore installation techs, 6/2, train on site; also IRATA 3 RAT (8516863, FR) = above level |
 | Groupe NA (Teamtailor feed) | FR/BE/MC | https://groupena.teamtailor.com/jobs | 2026-10-12 | Diff the list each run: NEW Mon Nord Access Lillebonne 8472750, NATS Cassis 8479725, Monaco 8371045, Cannes 8371086, OCO/Explotech BE CDD 8492607; BTH Mouscron re-posted as 8484577 (same lead as 8371043); several chef d'équipe / chargé d'affaires cards = stretch |
 | DYWIDAG-Systems International | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003822870-S | 2026-10-12 | NEW Mon; Munich landmark project, FISAT L1 min, ~2-yr contract from spring 2027; German; employer ATS not found yet |
