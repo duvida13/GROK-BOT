@@ -1,5 +1,19 @@
 # Learnings log
 
+## 2026-10-13 (Tuesday, CH + AT rotation)
+
+1. **Groupe NA Teamtailor churn overnight:** jobs.json lost yesterday’s Nord Access 8472750, NATS 8479725, Monaco 8371045, Cannes 8371086, Voltige nucléaire 8371065, La Rochelle 8371067, and old BTH 8371043 (all HTTP 410). Same-day replacements appeared as NEW IDs (8529287 Lillebonne, 8529409 Monaco tech, 8529414 St-Médard, plus several chef cards). Diff the JSON feed every run; treat new IDs as NEW keys, not silent updates.
+2. **Muehlhan Vestas entry-level (8406285) closed** (“this position is no longer” + gone from jobs.json). ENERCON sister 8406332 still live — do not re-list.
+3. **Ultra Wind LV deadline 12 Oct passed** → expired-deadline. CAN FR still 22 Oct (9 days — not yet a 7-day reminder). Hytech FINN ads still 200.
+4. **Tuesday CH/AT deep:** Bellini Chur still live (already listed). Bossard Project Manager (91cb04a9) NEW stretch L3. Bossard Installer already in ledger. VERTIC/seilwerker/allessauber/griehser/zweiseil evergreen unchanged. karriere.at Industriekletterer = zero current ads. SIMACEK Wien web hit → 410. seilkletterarbeiten.at historically bot-walled.
+5. **France:** FT page1 NEW ALPI 215CNSV Drap (Publié hier). emploi-cordiste added Conducteur de travaux + Chef maçon cordiste (stretch). ANETVA Descuelgue/Eix re-dated 12 Oct (board re-dates only).
+6. **Portugal:** Net-Empregos NEW Revestepinta 16111228/16111203 montador andaimes/alpinista (scaffold-primary). ALTURA 77 re-dated 12 Oct — do not re-list.
+7. **False REPOST traps:** morson Archived still 200 with “no longer”; BEIS detail still says OFFLINE; AlpAccess eJobs still loads but expired; vakanser CGS mirror 200 but jobbland keyword 404 — always re-check CGS by direct ledger URL (still live to 29 Nov).
+8. **BA API v6** still works with X-API-Key; field names are stellenangebotsTitel / referenznummer / firma.name (not titel/arbeitgeber). Many Schwarzheide agency clones already covered by ACB/WISAG — skip duplicates unless new employer.
+9. **Sources dry/blocked:** irata.org staff-only; TTR no new Sep+ cards; Indeed/Jooble/LinkedIn blocked; volnamista/jobbland/vakanser keyword URLs 404 (use direct).
+
+## 2026-10-12 (Monday, IT rotation)
+
 ## 2026-10-12 (Monday, IT rotation)
 
 1. **First run on the ledger + process.md spec.** All 246 ledger rows were re-checked (232 unique URLs). Result: 188 live, 41 unverified, 32 closed, 3 expired-deadline. The 116 `unknown-not-in-latest` seed rows are now resolved: 29 closed (mostly old France Travail 404s), 26 generic careers or home pages set to unverified with the flag `seed-page`, LinkedIn posts set to unverified, and duplicate `#` keys flagged `duplicate-row`.
