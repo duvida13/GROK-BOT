@@ -1,5 +1,16 @@
 # Learnings log
 
+## 2026-10-14 (Wednesday, BE/DK/AT light rotation)
+
+1. **StepStone DE is a real yield source:** `stepstone.de/jobs/industriekletterer` gave 7 unlogged DE rope ads (Ventotec Rostock blade, Vogtmann Mönchengladbach, Harbig Troisdorf, Sapiatz Berlin, Piepenbrock/3KER Hamburg, Supianek Hilden, Scherbaum Kassel). Detail pages carry JSON-LD datePosted/validThrough/hiringOrganization; curl works where python-requests timed out. StepStone validThrough is rolling (renewed), so only a past date matters.
+2. **StepStone BE `jobs/cordiste`** surfaced Accent NV touwtechnieker (Boom, telecom masts, 13 Oct). stepstone.at is noise for Industriekletterer (generic trades only).
+3. **Re-verification (all 281 rows):** closed today: Altrad Uitvoerder Drachten (Recruitee 404), five MOTIV France Travail cards (404), Gi Group Cuneo rocciatore (redirects to listing). Altrad Rope Access Supervisor L3 Recruitee -21 also 404. Davai DK and Seilwerker AT timed out (unverified, not closed). OLX needs curl (python 403).
+4. **Blade Power RO** careers page was 404 on 13 Oct and is back on 14 Oct with the same blade/rope technician form → listed once as REPOSTED (likely outage). Its /en/career is 404; use /ro/career.
+5. **France Travail search page** still lists older Oceane/Batibig/Mistras/Solgaleon cards that no earlier run logged; they are now in the ledger. Use the "Publié il y a N jours" text on the detail page for dating.
+6. **Muehlhan jobs.json** has many experienced-only wind roles; only 8478150 (Vestas WTT, English, experience required) and 8516863 (IRATA 3, FR) were logged today as stretch. ENERCON rookie 8406332 still live.
+7. **No change:** ANETVA (Eix + Descuelgue re-dated 13 Oct only), Net-Empregos (no new rope cards), Groupe NA Teamtailor (no new IDs), CareerStructure (no rope-specific new cards), finn.no (Hytech already logged; Kårstø scaffolding local-only), jobindex.dk (no rope results), karriere.at (zero).
+8. **Blocked:** jobat.be (Cloudflare), werkzoeken.nl 403, nationalevacaturebank consent wall, Indeed/Jooble/LinkedIn as usual. Tomorrow CAN FR (22 Oct) is the 7-day deadline reminder.
+
 ## 2026-10-13 (Tuesday, CH + AT rotation)
 
 1. **Groupe NA Teamtailor churn overnight:** jobs.json lost yesterday’s Nord Access 8472750, NATS 8479725, Monaco 8371045, Cannes 8371086, Voltige nucléaire 8371065, La Rochelle 8371067, and old BTH 8371043 (all HTTP 410). Same-day replacements appeared as NEW IDs (8529287 Lillebonne, 8529409 Monaco tech, 8529414 St-Médard, plus several chef cards). Diff the JSON feed every run; treat new IDs as NEW keys, not silent updates.
