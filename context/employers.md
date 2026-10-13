@@ -1,9 +1,24 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-13.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-14.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| StepStone DE (source) | DE | https://www.stepstone.de/jobs/industriekletterer — detail pages carry JSON-LD datePosted/validThrough + hiringOrganization | 2026-10-14 | NEW source Wed; curl works (python-requests timed out); 8 new DE rope ads first run; diff it every run |
+| Ventotec Solution | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html | 2026-10-14 | NEW Wed; Rostock blade rope access; text asks SZP L2/3 = stretch |
+| Vogtmann Montage- & Klettertechnik | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html | 2026-10-14 | NEW Wed; Mönchengladbach Industriekletterer; German + trade training |
+| Industriekletterer Bonn (Toni Harbig) | DE | https://www.stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Industriekletterer-Bonn-Inh-Toni-Harbig--14117841-inline.html | 2026-10-14 | NEW Wed; Troisdorf foreman = stretch |
+| Sapiatz GmbH | DE | https://www.stepstone.de/stellenangebote--Dachdecker-Industriekletterer-m-w-d-Berlin-Sapiatz-GmbH--14493016-inline.html | 2026-10-14 | NEW Wed; Berlin roofer-climber; German B2 |
+| Piepenbrock / 3KER RAS Group | DE | https://www.stepstone.de/stellenangebote--Dachdecker-als-Industriekletterer-m-w-d-bei-3KER-RAS-GROUP-Altona-Hamburg-Hamburg-Piepenbrock-Unternehmensgruppe-GmbH-Co-KG--14594126-inline.html | 2026-10-14 | NEW Wed; Hamburg roofer-climber |
+| Supianek Baugesellschaft | DE | https://www.stepstone.de/stellenangebote--Monteur-m-w-d-fuer-Sanierungsprojekte-im-Bereich-Windkraftanlagen-Hilden-Supianek-Bauges-mbH--14517977-inline.html | 2026-10-14 | NEW Wed; Hilden wind-foundation concrete repair; ground-crew sister 14517867 not listed |
+| Dipl.-Ing. Uwe Scherbaum | DE | https://www.stepstone.de/stellenangebote--Sachverstaendige-r-fuer-Windenergieanlagen-Kassel-Hessen-Dipl-Ing-Uwe-Scherbaum--14325180-inline.html | 2026-10-14 | NEW Wed; Kassel WEA inspection, Quereinsteiger OK, German |
+| SPIE Wind (StepStone mirror) | DE | https://www.stepstone.de/stellenangebote--Servicetechniker-Rotorblatt-Windkraft-Industriekletterer-m-w-d-Bremen-Spie-Wind-GmbH--14532685-inline.html | 2026-10-14 | Treated as same lead as ledger spie.de 2026-1495 (Bremen rotor blades, English text, FISAT/IRATA) — not re-listed |
+| Höhenpass GmbH | DE | https://www.stepstone.de/stellenangebote--Monteur-m-w-d-Koblenz-Hoehenpass-GmbH--14088916-inline.html | 2026-10-14 | Seed; Koblenz Monteur card, body not parsed — check next run |
+| Accent NV (agency) | BE | https://www.stepstone.be/jobs--Touwtechnieker-BOOM-Accent-NV--2250561-inline.html | 2026-10-14 | NEW Wed; Boom telecom-mast touwtechnieker, Dutch + English |
+| Capaxis | BE | https://www.capaxis.com/en/about/jobs-at-capaxis | 2026-10-14 | Seed; Brussels/Wavre evergreen intake (gofers to L3, will certify trade people); no dated vacancy |
+| Oceane Intérim (more FT cards) | FR | https://candidat.francetravail.fr/offres/recherche/detail/214WBQZ — also 215DRJV Ustaritz | 2026-10-14 | NEW Wed; Pontault-Combault CDI + Ustaritz interim (sister of 214KBFH) |
+| LPA Lauragais Pyrénées Accès | FR | https://offres.emploi-cordiste.fr/listing/charge-daffaires-travaux-dacces-difficile-h-f/ | 2026-10-14 | NEW Wed; Toulouse chargé d'affaires = stretch |
+| Swire Renewable Energy (NDT DK) | DK | https://ecoroles.com/jobs/rope-access-ndt-technicians-at-swire-renewable-energy-a3ef | 2026-10-14 | Watch only (aggregator; UT/DFT NDT certs essential; closes 19 Nov) |
 | ALPI | FR | https://candidat.francetravail.fr/offres/recherche/detail/215CNSV | 2026-10-13 | NEW Tue; Technicien cordiste CDI Drap (06); masonry/roof on ropes |
 | Revestepinta | PT | https://www.net-empregos.com/16111228/montador-de-andaimes-alpinista/ — twin Mafra 16111203 | 2026-10-13 | NEW Tue; Lisboa/Mafra montador andaimes/alpinista; scaffold-primary stretch |
 | Bossard & Geiser (Project Manager) | CH | https://www.jobs.ch/en/vacancies/detail/91cb04a9-efed-4f37-9c66-96b1b877a923/ | 2026-10-13 | NEW Tue stretch; Münchenstein Project Manager Rope Access L3; installer card e04a8e89 already logged |
