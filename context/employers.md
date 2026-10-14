@@ -1,9 +1,21 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-14.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-15.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Windfield | LV | https://www.ss.lv/msg/lv/work/are-required/climber/blhnfj.html | 2026-10-15 | NEW Thu; Rīga industrial climbers, beginners OK; RU/LV ad 13 Oct |
+| Andre Erdmann Special Rope Access | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001550102-S | 2026-10-15 | NEW Thu; Reddelich Quereinstieg with accompanying rope cert |
+| Tobias Holl Industriekletterer | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003292785-S | 2026-10-15 | NEW Thu; Rosengarten; Quereinstieg; ~€21.50/h |
+| Griesemann Anlagentechnik | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002776213-S | 2026-10-15 | NEW Thu; Wesseling; IRATA optional |
+| Kompetenz im Seil Thorsten Schröder | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202281320-S | 2026-10-15 | NEW Thu; Kaltenholzhausen; trains Industriekletterer |
+| AP Worx | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206378458-S | 2026-10-15 | NEW Thu; Mettmann montage Industriekletterer |
+| MittelDeutscheSeiltechnik GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207438755-S | 2026-10-15 | NEW Thu; Ludwigshafen; FISAT; housing |
+| Vertikalis GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003382565-S | 2026-10-15 | NEW Thu; Freital; Dachdecker/Tischler Quereinstieg |
+| INFRAD&D | PL | https://www.olx.pl/oferta/praca/alpinista-przemyslowy-praca-na-wysokosci-zatrudnie-CID4-ID1cuBQC.html | 2026-10-15 | NEW Thu; Skrzeszew alpinista 8–16k PLN; curl for OLX |
+| MOTIV Intérim (Falaise) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215FSGX | 2026-10-15 | NEW Thu; Cordiste Falaise €13–14/h |
+| Groupe NA (chargé d'affaires) | FR | https://groupena.teamtailor.com/jobs/8547407-charge-e-d-affaires-travaux-en-hauteur-h-f | 2026-10-15 | NEW Thu stretch; twin 8547396 |
+| Höhenpass GmbH | DE | https://www.stepstone.de/stellenangebote--Monteur-m-w-d-Koblenz-Hoehenpass-GmbH--14088916-inline.html | 2026-10-15 | Was seed Wed; confirmed live — Monteur + Industriekletterer training |
 | StepStone DE (source) | DE | https://www.stepstone.de/jobs/industriekletterer — detail pages carry JSON-LD datePosted/validThrough + hiringOrganization | 2026-10-14 | NEW source Wed; curl works (python-requests timed out); 8 new DE rope ads first run; diff it every run |
 | Ventotec Solution | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html | 2026-10-14 | NEW Wed; Rostock blade rope access; text asks SZP L2/3 = stretch |
 | Vogtmann Montage- & Klettertechnik | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html | 2026-10-14 | NEW Wed; Mönchengladbach Industriekletterer; German + trade training |

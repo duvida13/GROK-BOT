@@ -1,5 +1,16 @@
 # Learnings log
 
+## 2026-10-15 (Thursday, IE/CZ/PT/LV long-tail)
+
+1. **BA API v6 was the main NEW yield:** 8 DE Industriekletterer ads not previously in the ledger (Erdmann Quereinstieg Reddelich, Tobias Holl Rosengarten, Griesemann Wesseling, Kompetenz im Seil Kaltenholzhausen, AP Worx Mettmann, MDS Ludwigshafen, Vertikalis Freital, plus Höhenpass via StepStone). Skipped Schwarzheide Actief/Adecco/INDUVARO as ACB/WISAG clones.
+2. **Deadline reminder fired:** CAN FR 214GGPR closes 22 Oct (=7 days). Hytech 28/31 Oct and CGS 29 Nov still ahead.
+3. **Closures:** three more MOTIV FT cards 404 (214MRVB/214MRVZ/214RMJJ), NET CONCEPT 214HCQV 404, OCEANE Ustaritz 214KBFH 404 (sister 215DRJV still live), Muehlhan IRATA 3 8516863 → 410 (listed yesterday), Ventotec StepStone validThrough 14 Oct → expired.
+4. **Thursday long-tail:** IE blocked (irishjobs 403, Bidvest still 410, Agua-Clean LinkedIn-only). CZ no NEW (Raamar/PAVOUCI/zlana still open). PT Net-Empregos: no new rope cards. LV: NEW Windfield Rīga on ss.lv (13 Oct, beginners OK); Diavers still watch; Ultra Wind stays closed.
+5. **Groupe NA:** NEW chargé d'affaires 8547407/8547396 (one lead, stretch). 8484577 BTH Mouscron still live but same lead as closed 8371043 — logged, not re-listed.
+6. **ANETVA:** Descuelgue + Eix re-dated 14 Oct only. Cards stamped "14 de octubre" with Fecha 2023 are board noise — not NEW.
+7. **OLX:** python-requests 403; curl 200. INFRAD&D Skrzeszew alpinista NEW. "wygasło" appears only in i18n JS, not the ad.
+8. **Blocked/dry:** jobbland CGS 403 today (kept prior live status), seilwerker timeout, stepstone.at 403, irata.org staff-only, jobindex/karriere.at no rope yield.
+
 ## 2026-10-14 (Wednesday, BE/DK/AT light rotation)
 
 1. **StepStone DE is a real yield source:** `stepstone.de/jobs/industriekletterer` gave 7 unlogged DE rope ads (Ventotec Rostock blade, Vogtmann Mönchengladbach, Harbig Troisdorf, Sapiatz Berlin, Piepenbrock/3KER Hamburg, Supianek Hilden, Scherbaum Kassel). Detail pages carry JSON-LD datePosted/validThrough/hiringOrganization; curl works where python-requests timed out. StepStone validThrough is rolling (renewed), so only a past date matters.

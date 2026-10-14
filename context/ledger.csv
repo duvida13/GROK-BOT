@@ -1,299 +1,312 @@
 key,company,title,country,first_seen,last_seen,last_listed,times_listed,status,last_page_date,deadline,notes_flag,last_checked,last_http
-anetva.org/oferta-de-empleo/operario-trabajos-verticales-3,Eix Grup,Operario Trabajos Verticales,Spain,2026-09-11,2026-10-14,2026-10-11,21,live,2026-10-13,,board re-dates,2026-10-14,200
-anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35,Descuelgue,Técnicos en trabajos verticales,Spain,2026-09-11,2026-10-14,2026-10-11,21,live,2026-10-13,,board re-dates,2026-10-14,200
-gridinta.eu/careers,Gridinta,Rope Access Specialist,Lithuania,2026-09-11,2026-10-14,2026-10-11,21,live,,,,2026-10-14,200
-sky-access.com/vacatures,Sky-Access B.V.,Rope Access Technician / supervisor,Netherlands,2026-09-11,2026-10-14,2026-10-11,21,live,,,,2026-10-14,200
-spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495,SPIE Wind,Wind Turbine Rope Access Technician – Rotor Blades (2026-149,Germany,2026-09-11,2026-10-14,2026-10-11,21,live,,,,2026-10-14,200
-fenderbv.com/vacancies/rope-access-technician,Fender BV,Rope Access Technician,Netherlands,2026-09-14,2026-10-14,2026-10-11,20,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/%f0%9f%a7%97%e2%99%82%ef%b8%8f-altifusion-recrute-technicien-cordiste-h-f-lyon,ALTIFUSION International,Technicien Cordiste Lyon,France,2026-09-15,2026-10-14,2026-10-11,19,live,,,,2026-10-14,200
-stsgroupuk.co.uk/work-us,StS Group UK,Work for us (CV intake),United Kingdom,2026-09-11,2026-10-14,2026-10-11,19,live,,,,2026-10-14,200
-7ocean.no/all-vacancies/rope-access-technicians,7ocean,Rope Access Technicians L1–3,Norway,2026-09-11,2026-10-14,2026-10-11,18,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-qualifie-sur-lyon,Moretton Travaux Acrobatique,Cordiste qualifié,France,2026-09-11,2026-10-14,2026-10-11,18,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44,Techniques Verticales Grand Ouest,Technicien Cordiste (Rennes),France,2026-09-11,2026-10-14,2026-10-11,18,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f,ACCÈS SERVICE,Cordiste BTP / Futur Cordiste,France,2026-09-15,2026-10-14,2026-10-11,17,live,,,,2026-10-14,200
-sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere,StS-ISONOR,Tilkomstteknikere og sikringsledere,Norway,2026-09-11,2026-10-14,2026-10-11,17,live,,,,2026-10-14,200
-career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-rope-access-sverige-blade-repair-technicians-2026,Swire / Rope Access Sverige,Blade Repair Technicians 2026,Sweden,2026-09-21,2026-10-14,2026-10-11,15,live,,,duplicate-row,2026-10-14,200
-jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301,Bilfinger Height Specialists,Rope Access Technician,Netherlands,2026-09-11,2026-10-14,2026-10-01,15,live,,,,2026-10-14,200
-gears-gmbh.de/jobs,GEARS GmbH,Handwerker/Monteur (trained to Industriekletterer),Germany,2026-09-22,2026-10-14,2026-10-11,14,live,,,,2026-10-14,200
-hightorqueropeaccess.co.uk/careers,High Torque Rope Access,IRATA Level 1 & 2 Operatives,United Kingdom,2026-09-15,2026-10-14,2026-10-11,14,live,,,,2026-10-14,200
+anetva.org/oferta-de-empleo/operario-trabajos-verticales-3,Eix Grup,Operario Trabajos Verticales,Spain,2026-09-11,2026-10-15,2026-10-11,21,live,2026-10-14,,board re-dates,2026-10-15,200
+anetva.org/oferta-de-empleo/tecnicos-en-trabajos-verticales-35,Descuelgue,Técnicos en trabajos verticales,Spain,2026-09-11,2026-10-15,2026-10-11,21,live,2026-10-14,,board re-dates,2026-10-15,200
+gridinta.eu/careers,Gridinta,Rope Access Specialist,Lithuania,2026-09-11,2026-10-15,2026-10-11,21,live,,,,2026-10-15,200
+sky-access.com/vacatures,Sky-Access B.V.,Rope Access Technician / supervisor,Netherlands,2026-09-11,2026-10-15,2026-10-11,21,live,,,,2026-10-15,200
+spie.de/karriere/stellenangebote/Wind-Turbine-Rope-Access-Technician--Rotor-Blades-m-f-d-2026-1495,SPIE Wind,Wind Turbine Rope Access Technician – Rotor Blades (2026-149,Germany,2026-09-11,2026-10-15,2026-10-11,21,live,,,,2026-10-15,200
+fenderbv.com/vacancies/rope-access-technician,Fender BV,Rope Access Technician,Netherlands,2026-09-14,2026-10-15,2026-10-11,20,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/%f0%9f%a7%97%e2%99%82%ef%b8%8f-altifusion-recrute-technicien-cordiste-h-f-lyon,ALTIFUSION International,Technicien Cordiste Lyon,France,2026-09-15,2026-10-15,2026-10-11,19,live,,,,2026-10-15,200
+stsgroupuk.co.uk/work-us,StS Group UK,Work for us (CV intake),United Kingdom,2026-09-11,2026-10-15,2026-10-11,19,live,,,,2026-10-15,200
+7ocean.no/all-vacancies/rope-access-technicians,7ocean,Rope Access Technicians L1–3,Norway,2026-09-11,2026-10-15,2026-10-11,18,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-qualifie-sur-lyon,Moretton Travaux Acrobatique,Cordiste qualifié,France,2026-09-11,2026-10-15,2026-10-11,18,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-44,Techniques Verticales Grand Ouest,Technicien Cordiste (Rennes),France,2026-09-11,2026-10-15,2026-10-11,18,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/offre-demploi-cordiste-btp-futur-cordiste-h-f,ACCÈS SERVICE,Cordiste BTP / Futur Cordiste,France,2026-09-15,2026-10-15,2026-10-11,17,live,,,,2026-10-15,200
+sts-isonor.teamtailor.com/jobs/7400922-tilkomstteknikere-og-sikringsledere,StS-ISONOR,Tilkomstteknikere og sikringsledere,Norway,2026-09-11,2026-10-15,2026-10-11,17,live,,,,2026-10-15,200
+career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-rope-access-sverige-blade-repair-technicians-2026,Swire / Rope Access Sverige,Blade Repair Technicians 2026,Sweden,2026-09-21,2026-10-15,2026-10-11,15,live,,,duplicate-row,2026-10-15,200
+jobs.bilfinger.com/job/Rotterdam-Rope-Access-Technician-ZH-3082KV/1006540301,Bilfinger Height Specialists,Rope Access Technician,Netherlands,2026-09-11,2026-10-15,2026-10-01,15,live,,,,2026-10-15,200
+gears-gmbh.de/jobs,GEARS GmbH,Handwerker/Monteur (trained to Industriekletterer),Germany,2026-09-22,2026-10-15,2026-10-11,14,live,,,,2026-10-15,200
+hightorqueropeaccess.co.uk/careers,High Torque Rope Access,IRATA Level 1 & 2 Operatives,United Kingdom,2026-09-15,2026-10-15,2026-10-11,14,live,,,,2026-10-15,200
 careers.bidvestnoonan.com/vacancies/24279/rope_access_technician--industrial_cleaning.html,Bidvest Noonan,Rope Access Technician (Industrial Cleaning),Ireland,2026-09-17,2026-10-05,2026-10-05,13,closed,,,,2026-10-14,410
 morson.com/jobs/oil-and-gas/contract/aberdeenshire/rope-access-plater,Morson Edge,Rope Access Plater (offshore),United Kingdom,2026-09-22,2026-10-09,2026-10-09,13,closed,,2026-10-16,closure-mentioned,2026-10-14,200
-ttrinternational.com/ofertas-de-empleo/tecnicos-trabajos-verticales-para-trabajar-en-barcelona,Vertigen,Técnicos Trabajos Verticales Cataluña,Spain,2026-09-11,2026-10-14,2026-09-29,13,live,,,,2026-10-14,200
-anetva.org/oferta-de-empleo/trabajadores-especialistas-en-trabajos-verticales,Altura-S,Trabajadores especialistas,Spain,2026-09-11,2026-10-14,2026-09-28,12,live,2026-10-13,,; board re-dates,2026-10-14,200
-cri-ropeaccess.com/pages/en/vacature.html,C.R.I.,Rope technician / touwtechnieker,Belgium,2026-09-11,2026-10-14,2026-10-11,12,live,,,,2026-10-14,200
-riggeritalia.com/jobs,Rigger Italia,Tecnico Specializzato / Rope Access,Italy,2026-09-11,2026-10-14,2026-10-11,12,live,,,,2026-10-14,200
-2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2,2High,Operatore in fune – LOMBARDIA,Italy,2026-09-14,2026-10-14,2026-10-11,11,live,,,,2026-10-14,200
+ttrinternational.com/ofertas-de-empleo/tecnicos-trabajos-verticales-para-trabajar-en-barcelona,Vertigen,Técnicos Trabajos Verticales Cataluña,Spain,2026-09-11,2026-10-15,2026-09-29,13,live,,,,2026-10-15,200
+anetva.org/oferta-de-empleo/trabajadores-especialistas-en-trabajos-verticales,Altura-S,Trabajadores especialistas,Spain,2026-09-11,2026-10-15,2026-09-28,12,live,2026-10-13,,; board re-dates,2026-10-15,200
+cri-ropeaccess.com/pages/en/vacature.html,C.R.I.,Rope technician / touwtechnieker,Belgium,2026-09-11,2026-10-15,2026-10-11,12,live,,,,2026-10-15,200
+riggeritalia.com/jobs,Rigger Italia,Tecnico Specializzato / Rope Access,Italy,2026-09-11,2026-10-15,2026-10-11,12,live,,,,2026-10-15,200
+2high.it/offerte-di-lavoro/operatore-in-fune-lombardia-2,2High,Operatore in fune – LOMBARDIA,Italy,2026-09-14,2026-10-15,2026-10-11,11,live,,,,2026-10-15,200
 kaeferenergy.no/karriere/tilkomstteknikere-og-sikringsledere,KAEFER Energy,Tilkomstteknikere og sikringsledere,Norway,2026-09-11,2026-10-01,2026-10-01,11,closed,,,,2026-10-14,404
 vakanser.se/jobb/vi+anstaller+fler+reptekniker,CGS Nordic,Reptekniker,Sweden,2026-09-16,2026-09-30,2026-09-30,11,expired-deadline,,,,2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-milano,Acrobatica,Muratore/Operaio Edile – Reggio Emilia / Latina / La Spezia ,Italy,2026-09-11,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/cordiste-h-f-197,DFI Intérim,Cordiste H/F Port-de-Bouc,France,2026-09-28,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee,Granada SME,Cordiste patrimoine (Granada),Spain,2026-09-28,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-redak-services.com/nl/werken-bij/vacature-bladspecialist,Redak Service & Maintenance,Bladspecialist,Netherlands,2026-09-28,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-skywork.dk/erhvervsklatring/job,Sky-Work,Erhvervsklatrer / faglært håndværker,Denmark,2026-09-11,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-zlana.cz/volna-mista,zlana.cz,Lanař (continuous),,2026-09-17,2026-10-14,2026-10-11,10,live,,,,2026-10-14,200
-2high.it/offerte-di-lavoro/operatore-in-fune-roma,2High,Operatore in fune – LAZIO (Roma),Italy,2026-09-21,2026-10-14,2026-10-11,9,live,,,,2026-10-14,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-milano,Acrobatica,Muratore/Operaio Edile – Reggio Emilia / Latina / La Spezia ,Italy,2026-09-11,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/cordiste-h-f-197,DFI Intérim,Cordiste H/F Port-de-Bouc,France,2026-09-28,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/enterprise-espagnole-de-restauration-du-patrimoine-cherche-cordiste-qualifiee,Granada SME,Cordiste patrimoine (Granada),Spain,2026-09-28,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+redak-services.com/nl/werken-bij/vacature-bladspecialist,Redak Service & Maintenance,Bladspecialist,Netherlands,2026-09-28,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+skywork.dk/erhvervsklatring/job,Sky-Work,Erhvervsklatrer / faglært håndværker,Denmark,2026-09-11,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+zlana.cz/volna-mista,zlana.cz,Lanař (continuous),,2026-09-17,2026-10-15,2026-10-11,10,live,,,,2026-10-15,200
+2high.it/offerte-di-lavoro/operatore-in-fune-roma,2High,Operatore in fune – LAZIO (Roma),Italy,2026-09-21,2026-10-15,2026-10-11,9,live,,,,2026-10-15,200
 bnlaltradservices.recruitee.com/o/uitvoerder-rope-access-drachten,Altrad Services B.V.,Uitvoerder Rope Access Drachten,Netherlands,2026-09-29,2026-10-13,2026-10-11,9,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214MRVB,MOTIV Intérim,Cordiste confirmé Le Havre,France,2026-09-29,2026-10-14,2026-10-11,9,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214MRVZ,MOTIV Intérim,Cordiste Paris,France,2026-09-29,2026-10-14,2026-10-11,9,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214MRVB,MOTIV Intérim,Cordiste confirmé Le Havre,France,2026-09-29,2026-10-14,2026-10-11,9,closed,,,,2026-10-15,404
+candidat.francetravail.fr/offres/recherche/detail/214MRVZ,MOTIV Intérim,Cordiste Paris,France,2026-09-29,2026-10-14,2026-10-11,9,closed,,,,2026-10-15,404
 davai.dk/en/job,Davai Bridge & Tunnel,Unsolicited IRATA rope access,Denmark,2026-09-23,2026-10-13,2026-10-11,9,unverified,,,,2026-10-14,0
 groupena.teamtailor.com/jobs/8371043-technicien-cordiste-h-f,BTH / Groupe NA,Technicien Cordiste H/F (CDI),Belgium,2026-09-23,2026-10-12,2026-10-11,9,closed,,,same Mouscron CDI ad also posted as 8484577 (1 Oct) - one lead,2026-10-14,410
-inverticale.it/lavora-con-noi,InVerticale,Muratore su fune (Vicenza–Verona–Brescia–Forlì–Cesena),Italy,2026-09-21,2026-10-14,2026-10-11,9,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/techniciens-cordistes-f-h-travaux-urbains-annecy-74,ALTISCENCE,Techniciens Cordistes Travaux Urbains Annecy,France,2026-09-29,2026-10-14,2026-10-11,9,live,,,,2026-10-14,200
+inverticale.it/lavora-con-noi,InVerticale,Muratore su fune (Vicenza–Verona–Brescia–Forlì–Cesena),Italy,2026-09-21,2026-10-15,2026-10-11,9,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/techniciens-cordistes-f-h-travaux-urbains-annecy-74,ALTISCENCE,Techniciens Cordistes Travaux Urbains Annecy,France,2026-09-29,2026-10-15,2026-10-11,9,live,,,,2026-10-15,200
 verticalline.wixsite.com/vlropeaccess,Vertical Line Rope Access,Open CV hire,Portugal,2026-09-15,2026-10-01,2026-10-01,9,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214BZGN,SARL T.G.H,Cordiste,France,2026-09-21,2026-10-14,2026-09-30,8,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214BZGN,SARL T.G.H,Cordiste,France,2026-09-21,2026-10-15,2026-09-30,8,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214HWNR,OCEANE Intérim,Cordiste (mécanique industrielle) Cléon-d'Andran,France,2026-09-29,2026-10-09,2026-10-09,8,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214LQLT,Panoramen,Couvreur/Zingueur/Charpentier → Futur Cordiste CDI,France,2026-09-29,2026-10-14,2026-10-11,8,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214LQLT,Panoramen,Couvreur/Zingueur/Charpentier → Futur Cordiste CDI,France,2026-09-29,2026-10-15,2026-10-11,8,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214NRFG,Missions Interim Toulon,CORDISTE CQP2 Clans,France,2026-09-30,2026-10-12,2026-10-11,8,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214NVGH,PROMAN / Cordial,Cordiste (PROMAN / Cordial multi-site),France,2026-09-30,2026-10-12,2026-10-11,8,closed,,,,2026-10-14,404
-daasgroup.pl/kariera,DAAS Group,Technik dostępu linowego (IRATA funded),Poland,2026-09-18,2026-10-14,2026-10-11,8,live,,,,2026-10-14,200
-futureservices.eu/onoffshore-rope-access-technician,Future Services Int.,On/Offshore Rope Access Technician,Belgium,2026-09-30,2026-10-14,2026-10-11,8,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/cordiste-electricien,Moretton Travaux Acrobatique,Cordiste-Électricien,France,2026-09-30,2026-10-14,2026-10-11,8,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-cdi-cdd,MAD SERVICES,Technicien Cordiste H/F – CDI/CDD,France,2026-09-30,2026-10-14,2026-10-11,8,live,,,,2026-10-14,200
+daasgroup.pl/kariera,DAAS Group,Technik dostępu linowego (IRATA funded),Poland,2026-09-18,2026-10-15,2026-10-11,8,live,,,,2026-10-15,200
+futureservices.eu/onoffshore-rope-access-technician,Future Services Int.,On/Offshore Rope Access Technician,Belgium,2026-09-30,2026-10-15,2026-10-11,8,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/cordiste-electricien,Moretton Travaux Acrobatique,Cordiste-Électricien,France,2026-09-30,2026-10-15,2026-10-11,8,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/technicien-cordiste-h-f-cdi-cdd,MAD SERVICES,Technicien Cordiste H/F – CDI/CDD,France,2026-09-30,2026-10-15,2026-10-11,8,live,,,,2026-10-15,200
 seilwerker.at/jobs,Seilwerker Höhenarbeiten,Industriekletterer (open application),Austria,2026-09-22,2026-10-13,2026-10-11,8,unverified,,,,2026-10-14,0
-abseiltechnieken.nl/vacatures,Abseiltechnieken (ATI),Allround Onderhoudsmedewerker / Rope Access Technician,Netherlands,2026-09-23,2026-10-14,2026-10-11,7,live,,,,2026-10-14,200
-allessauber.at/job-weinviertel-marchfeld-niederoesterreich-wien,Allessauber,Industriekletterer (FISAT L1+),Austria,2026-09-23,2026-10-14,2026-10-11,7,live,,,,2026-10-14,200
+abseiltechnieken.nl/vacatures,Abseiltechnieken (ATI),Allround Onderhoudsmedewerker / Rope Access Technician,Netherlands,2026-09-23,2026-10-15,2026-10-11,7,live,,,,2026-10-15,200
+allessauber.at/job-weinviertel-marchfeld-niederoesterreich-wien,Allessauber,Industriekletterer (FISAT L1+),Austria,2026-09-23,2026-10-15,2026-10-11,7,live,,,,2026-10-15,200
 alpinjet.pl/en/career,Alpinjet,Career / industrial cleaning + rope access,Poland,2026-09-11,2026-10-02,2026-10-02,7,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-alpinmax.ro/cariere,AlpinMax,Alpinisti utilitari (5 posts),Romania,2026-09-11,2026-10-14,2026-10-11,7,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214NSGJ,Travaux Technique Alpine (TTA),CORDISTE H/F (Le Havre),France,2026-10-01,2026-10-14,2026-10-11,7,live,,,,2026-10-14,200
+alpinmax.ro/cariere,AlpinMax,Alpinisti utilitari (5 posts),Romania,2026-09-11,2026-10-15,2026-10-11,7,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214NSGJ,Travaux Technique Alpine (TTA),CORDISTE H/F (Le Havre),France,2026-10-01,2026-10-15,2026-10-11,7,live,,,,2026-10-15,200
 groupena.teamtailor.com/jobs/8371065-technicien-cordiste-nucleaire-h-f,Services Voltige / Groupe NA,Technicien Cordiste nucléaire H/F,France,2026-10-01,2026-10-12,2026-10-11,7,closed,,,,2026-10-14,410
 groupena.teamtailor.com/jobs/8371067-technicien-cordiste-h-f,Services Voltige / Groupe NA,Technicien Cordiste H/F (La Rochelle),France,2026-10-01,2026-10-12,2026-10-11,7,closed,,,,2026-10-14,410
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer,IKH Hamburg,Industriekletterer,Germany,2026-09-17,2026-10-14,2026-09-25,7,live,,,duplicate-row,2026-10-14,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer,IKH Hamburg,Industriekletterer,Germany,2026-09-17,2026-10-15,2026-09-25,7,live,,,duplicate-row,2026-10-15,200
 jobs.ch/en/vacancies/detail/66120639-fea2-4240-8d83-d7c46c07fa82,ACTUAL Switzerland SA,Rope Access Technician / Cordiste (Geneva),Switzerland,2026-09-22,2026-10-05,2026-10-05,7,closed,2026-10-02,,,2026-10-14,200
-jobs.ch/en/vacancies/detail/e04a8e89-f655-4b12-8be7-3c4624c6e30f,Bossard & Geiser GmbH,Installer / Monteur (80–100%),Switzerland,2026-09-15,2026-10-14,2026-09-29,7,live,,,,2026-10-14,200
+jobs.ch/en/vacancies/detail/e04a8e89-f655-4b12-8be7-3c4624c6e30f,Bossard & Geiser GmbH,Installer / Monteur (80–100%),Switzerland,2026-09-15,2026-10-15,2026-09-29,7,live,,,,2026-10-15,200
 seilkletterarbeiten.at/jobs-industriekletterer-hoehenarbeiter,Proworker,Industriekletterer / Höhenarbeiter,Austria,2026-09-11,2026-09-30,2026-09-30,7,unverified,,,blocked/JS,2026-10-14,403
-ttrinternational.com/ofertas-de-empleo/tecnico-trabajos-verticales-lleida,Vercon,Técnico Trabajos Verticales (construcción),Spain,2026-09-21,2026-10-14,2026-09-29,7,live,,,,2026-10-14,200
-anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4,Garsansi Anor,Instalador de líneas de vida,Spain,2026-10-02,2026-10-14,2026-10-11,6,live,2026-10-13,,; board re-dates,2026-10-14,200
-brasov24.com/locuri-de-munca/alpinist-utilitar,RigZen Group,Alpinist utilitar Săcele/Brașov,Romania,2026-09-18,2026-10-14,2026-10-02,6,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214QQVC,RC Intérim,Cordiste coffreur ferrailleur (Andorre border),France,2026-10-02,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214QRNB,PROXIMA Intérim,Technicien Cordiste Urbain F/H (Toulon),France,2026-10-02,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214RGNF,PROXIMA Intérim,Cordiste (Sainte-Maxime),France,2026-10-02,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
+ttrinternational.com/ofertas-de-empleo/tecnico-trabajos-verticales-lleida,Vercon,Técnico Trabajos Verticales (construcción),Spain,2026-09-21,2026-10-15,2026-09-29,7,live,,,,2026-10-15,200
+anetva.org/oferta-de-empleo/instalador-de-lineas-de-vida-4,Garsansi Anor,Instalador de líneas de vida,Spain,2026-10-02,2026-10-15,2026-10-11,6,live,2026-10-13,,; board re-dates,2026-10-15,200
+brasov24.com/locuri-de-munca/alpinist-utilitar,RigZen Group,Alpinist utilitar Săcele/Brașov,Romania,2026-09-18,2026-10-15,2026-10-02,6,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214QQVC,RC Intérim,Cordiste coffreur ferrailleur (Andorre border),France,2026-10-02,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214QRNB,PROXIMA Intérim,Technicien Cordiste Urbain F/H (Toulon),France,2026-10-02,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214RGNF,PROXIMA Intérim,Cordiste (Sainte-Maxime),France,2026-10-02,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214RLZH,MOTIV Intérim,Cordiste Plouégat-Moysan (TP),France,2026-10-02,2026-10-13,2026-10-11,6,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214RMJJ,MOTIV Intérim,Cordiste Brantôme (TP),France,2026-10-02,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214RMJJ,MOTIV Intérim,Cordiste Brantôme (TP),France,2026-10-02,2026-10-14,2026-10-11,6,closed,,,,2026-10-15,404
 career.ropeaccess.se,Swire/RAS,Swire/RAS,Sweden,2026-09-11,2026-09-18,2026-09-18,6,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul,Solução Futuro,Pedreiros e Pintores de Alturas / Rapel,Portugal,2026-09-24,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
-net-empregos.com/15989428/freelancer-trabalhos-verticais,ALTURA 77,Freelancer trabalhos verticais,Portugal,2026-09-24,2026-10-14,2026-10-11,6,live,2026-10-11,,board re-dates,2026-10-14,200
-net-empregos.com/15998011/alpinista-industria,AACT,Alpinista indústria,Portugal,2026-09-24,2026-10-14,2026-10-11,6,live,2026-10-09,,board re-dates,2026-10-14,200
-net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas,WORKALPINDUSTRY,Alpinista Industrial / Técnico de Acesso por Cordas,Portugal,2026-09-24,2026-10-14,2026-10-11,6,live,2026-10-02,,board re-dates,2026-10-14,200
-offres.emploi-cordiste.fr/listing/cordiste-peintre,LIP Intérim,Cordiste peintre (Séez),France,2026-10-02,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
-stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians,StS Group,RAT Norway via UK,Norway,2026-09-11,2026-10-14,2026-09-18,6,live,,,,2026-10-14,200
-utilalpin.com/cariere-la-util-alpin-solutions,Util Alpin Solutions,Alpinisti utilitari (beginners trained),Romania,2026-09-11,2026-10-14,2026-10-11,6,live,,,,2026-10-14,200
+net-empregos.com/15979044/pedreiros-e-pintores-de-alturas-trabalhos-em-rapel-m-f-barreiro-margem-sul,Solução Futuro,Pedreiros e Pintores de Alturas / Rapel,Portugal,2026-09-24,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
+net-empregos.com/15989428/freelancer-trabalhos-verticais,ALTURA 77,Freelancer trabalhos verticais,Portugal,2026-09-24,2026-10-15,2026-10-11,6,live,2026-10-11,,board re-dates,2026-10-15,200
+net-empregos.com/15998011/alpinista-industria,AACT,Alpinista indústria,Portugal,2026-09-24,2026-10-15,2026-10-11,6,live,2026-10-09,,board re-dates,2026-10-15,200
+net-empregos.com/16019842/alpinista-industrial-tecnico-de-acesso-por-cordas,WORKALPINDUSTRY,Alpinista Industrial / Técnico de Acesso por Cordas,Portugal,2026-09-24,2026-10-15,2026-10-11,6,live,2026-10-02,,board re-dates,2026-10-15,200
+offres.emploi-cordiste.fr/listing/cordiste-peintre,LIP Intérim,Cordiste peintre (Séez),France,2026-10-02,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
+stsgroupuk.co.uk/news/were-recruiting-rope-access-technicians,StS Group,RAT Norway via UK,Norway,2026-09-11,2026-10-15,2026-09-18,6,live,,,,2026-10-15,200
+utilalpin.com/cariere-la-util-alpin-solutions,Util Alpin Solutions,Alpinisti utilitari (beginners trained),Romania,2026-09-11,2026-10-15,2026-10-11,6,live,,,,2026-10-15,200
 vertic.ch/Hoehenarbeiten,VERTIC pro AG,Seilzugangstechniker,Switzerland,2026-09-15,2026-09-29,2026-09-29,6,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-valdarno,Acrobatica,Muratore/Operaio Edile – Valdarno,Italy,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-anetva.org/oferta-de-empleo/peon-especialista-3,Sima Vertical,Peón Especialista,Spain,2026-09-11,2026-10-14,2026-09-17,5,live,2026-10-13,,; board re-dates,2026-10-14,200
-anetva.org/oferta-de-empleo/tecnico-a-de-reparacion-de-palas-para-trabajos-verticales-nacional,RES,Reparación de Palas,Spain,2026-09-14,2026-10-14,2026-09-18,5,live,2026-10-13,,; board re-dates,2026-10-14,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-valdarno,Acrobatica,Muratore/Operaio Edile – Valdarno,Italy,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+anetva.org/oferta-de-empleo/peon-especialista-3,Sima Vertical,Peón Especialista,Spain,2026-09-11,2026-10-15,2026-09-17,5,live,2026-10-13,,; board re-dates,2026-10-15,200
+anetva.org/oferta-de-empleo/tecnico-a-de-reparacion-de-palas-para-trabajos-verticales-nacional,RES,Reparación de Palas,Spain,2026-09-14,2026-10-15,2026-09-18,5,live,2026-10-13,,; board re-dates,2026-10-15,200
 apply.workable.com/j/C5AA4AA02F,Aerones,Rope Access Technician (EU),,2026-09-21,2026-09-25,2026-09-25,5,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 candidat.francetravail.fr/offres/recherche/detail/213QHPZ,PROXIMA,Cordiste TP 213QHPZ,France,2026-09-11,2026-09-17,2026-09-17,5,closed,2026-09-09,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214DTFB,IMOTEP,Technicien Cordiste Bâtiment,France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214DTFB,IMOTEP,Technicien Cordiste Bâtiment,France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214DZPL,STS (La Valette-du-Var),Cordiste TP,France,2026-10-05,2026-10-12,2026-10-11,5,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214FRVT,CRIT (Marmande),Cordiste débutant H/F,France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214GFBQ,ALTI PLUS,Technicien cordiste,France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214GGPR,CAN,Cordiste Risques Naturels: CQP formation puis contrat,France,2026-10-05,2026-10-14,2026-10-11,5,live,,2026-10-22,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214HCQV#net-concept-technicien-cordiste-eschau,NET CONCEPT,Technicien cordiste (Eschau),France,2026-10-05,2026-10-14,2026-10-11,5,live,,,duplicate-row,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214NQGH,HAD OC Solutions,Technicien mâts de mesures de vent,France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214FRVT,CRIT (Marmande),Cordiste débutant H/F,France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214GFBQ,ALTI PLUS,Technicien cordiste,France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214GGPR,CAN,Cordiste Risques Naturels: CQP formation puis contrat,France,2026-10-05,2026-10-15,2026-10-15,6,live,,2026-10-22,deadline-reminder-7d 2026-10-15,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214HCQV#net-concept-technicien-cordiste-eschau,NET CONCEPT,Technicien cordiste (Eschau),France,2026-10-05,2026-10-14,2026-10-11,5,closed,,,duplicate-row,2026-10-15,404
+candidat.francetravail.fr/offres/recherche/detail/214NQGH,HAD OC Solutions,Technicien mâts de mesures de vent,France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214PXNF,ADEQUAT INTERIM,Chef d'équipe cordiste Maçon (Toulouse),France,2026-10-01,2026-10-08,2026-10-08,5,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214RRQK,SOLUCES RH 3,Technicien cordiste (maçonnerie),France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214RRXZ,PNS Alsace-Sud,Cordiste Urbain H/F,France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214SFDH,ALTIBAT.FR,Technicien cordiste (diplômé ou à former),France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214SLSF,VCSP Route France / Corse Travaux (Vinci),Ouvrier cordiste (travaux publics),France,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-fairwind.com/en/job-opening/blade-technician-all-experience-levels,FairWind,Blade Technician (all experience levels),Portugal,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-finn.no/job/ad/477134741,Hytech Access & Inspection AS,Tilkomsttekniker med elektriker fagbrev (3 positions),Norway,2026-10-05,2026-10-14,2026-10-11,5,live,,2026-10-31,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214RRQK,SOLUCES RH 3,Technicien cordiste (maçonnerie),France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214RRXZ,PNS Alsace-Sud,Cordiste Urbain H/F,France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214SFDH,ALTIBAT.FR,Technicien cordiste (diplômé ou à former),France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214SLSF,VCSP Route France / Corse Travaux (Vinci),Ouvrier cordiste (travaux publics),France,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+fairwind.com/en/job-opening/blade-technician-all-experience-levels,FairWind,Blade Technician (all experience levels),Portugal,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+finn.no/job/ad/477134741,Hytech Access & Inspection AS,Tilkomsttekniker med elektriker fagbrev (3 positions),Norway,2026-10-05,2026-10-15,2026-10-11,5,live,,2026-10-31,,2026-10-15,200
 gigroup.it/offerte-lavoro-dettaglio/villar-san-costanzo-cuneo-rocciatore-addetto-a-lavori-in-fune-trasfertista/1367061,"Gi Group (Cuneo, for client)",Rocciatore / Addetto lavori in fune (Trasfertista),Italy,2026-10-05,2026-10-13,2026-10-11,5,closed,,,,2026-10-14,200
 heightsolutions.be,Height Solutions BVBA,Rope access open hire,Belgium,2026-09-23,2026-10-05,2026-10-05,5,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer-fisat-l1-3-open-hire,IKH Hamburg,Industriekletterer FISAT L1–3 (open hire),Germany,2026-10-05,2026-10-14,2026-10-11,5,live,,,duplicate-row,2026-10-14,200
-jobs.polytalent.de/o/industriekletterer-hohenarbeiter-mwd,PolyTALENT GmbH (agency),Industriekletterer / Höhenarbeiter (m/w/d),Germany,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-kubussafety.be/vacatures/touwtechnieker,Kubus Safety,Touwtechnieker,Belgium,2026-09-23,2026-10-14,2026-10-05,5,live,,,aging (published 4 Aug 2025),2026-10-14,200
-marisrl.com/lavora-con-noi,MA.RI. S.r.l.,Operaio mansione rocciatore,Italy,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-rebteknikeren.dk/vi-soeger-erhvervsklatrere-l1-l2-l3,Rebteknikeren ApS,Erhvervsklatrere L1 / L2 / L3,Denmark,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-toprope.it/lavora-con-noi,TOPrope di Franzo Marco,Operai per lavori su fune,Italy,2026-10-05,2026-10-14,2026-10-11,5,live,,,,2026-10-14,200
-vinci-construction.profils.org/offre-de-emploi/emploi-cordiste-f-h_132011.aspx,Océlian,Cordiste F/H (Océlian / VINCI Construction),France,2026-09-24,2026-10-14,2026-09-30,5,live,,,,2026-10-14,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer-fisat-l1-3-open-hire,IKH Hamburg,Industriekletterer FISAT L1–3 (open hire),Germany,2026-10-05,2026-10-15,2026-10-11,5,live,,,duplicate-row,2026-10-15,200
+jobs.polytalent.de/o/industriekletterer-hohenarbeiter-mwd,PolyTALENT GmbH (agency),Industriekletterer / Höhenarbeiter (m/w/d),Germany,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+kubussafety.be/vacatures/touwtechnieker,Kubus Safety,Touwtechnieker,Belgium,2026-09-23,2026-10-15,2026-10-05,5,live,,,aging (published 4 Aug 2025),2026-10-15,200
+marisrl.com/lavora-con-noi,MA.RI. S.r.l.,Operaio mansione rocciatore,Italy,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+rebteknikeren.dk/vi-soeger-erhvervsklatrere-l1-l2-l3,Rebteknikeren ApS,Erhvervsklatrere L1 / L2 / L3,Denmark,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+toprope.it/lavora-con-noi,TOPrope di Franzo Marco,Operai per lavori su fune,Italy,2026-10-05,2026-10-15,2026-10-11,5,live,,,,2026-10-15,200
+vinci-construction.profils.org/offre-de-emploi/emploi-cordiste-f-h_132011.aspx,Océlian,Cordiste F/H (Océlian / VINCI Construction),France,2026-09-24,2026-10-15,2026-09-30,5,live,,,,2026-10-15,200
 zweiseil.at/jobs,Zweiseil,Industriekletterer (+ Ausbildung),Austria,2026-09-11,2026-09-23,2026-09-23,5,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 7ocean.no/all-vacancies,7ocean,7ocean,Norway,2026-09-11,2026-09-16,2026-09-16,4,closed,,,,2026-10-14,404
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-pistoia,Acrobatica,Muratore/Operaio Edile – Pistoia (su fune),Italy,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-sanremo,Acrobatica,Muratore/Operaio Edile – Sanremo (su fune),Italy,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-pistoia,Acrobatica,Muratore/Operaio Edile – Pistoia (su fune),Italy,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-sanremo,Acrobatica,Muratore/Operaio Edile – Sanremo (su fune),Italy,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
 aerones.com/de/unternehmen-2/karrieren,Aerones,RAT (EU multi / LV HQ),Latvia,2026-09-15,2026-09-18,2026-09-18,4,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 candidat.francetravail.fr/offres/recherche/detail/214JZNJ,Advance Emploi Corse,Cordiste TP Propriano,France,2026-09-30,2026-10-05,2026-10-05,4,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214LYML,BIRD Intérim Lyon Centre,"Monteur Poseur, travail en hauteur",France,2026-10-05,2026-10-09,2026-10-09,4,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214RDJX,ADEQUAT INTERIM,Cordiste Maçon (Paris),France,2026-10-02,2026-10-08,2026-10-08,4,closed,,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214TKBH,Paris urban rope firm (name not shown on FT),Cordiste BTP / Travaux Urbains (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-05,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214VCZP,GITEC HR / SOPRATEC,Cordiste (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-05,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214VMVY,CRIT Gros Oeuvre,Technicien Cordiste H/F,France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-05,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214VSCW,PROMAN BTP Orléans,Cordiste laveur de vitre (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214VWWV,NTS Telecom,Technicien Cordiste (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214TKBH,Paris urban rope firm (name not shown on FT),Cordiste BTP / Travaux Urbains (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-05,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214VCZP,GITEC HR / SOPRATEC,Cordiste (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-05,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214VMVY,CRIT Gros Oeuvre,Technicien Cordiste H/F,France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-05,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214VSCW,PROMAN BTP Orléans,Cordiste laveur de vitre (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214VWWV,NTS Telecom,Technicien Cordiste (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214VZPW,MOTIV Intérim Évreux,Cordiste (H/F),France,2026-10-07,2026-10-13,2026-10-11,4,closed,2026-10-06,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214WBBV,SOLCIS Nice,Cordiste urbain (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214WSSF,BATIBIG,Couvreur cordiste (H/F),France,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,,2026-10-14,200
-ed-height.eu/cz/volna-mista,ED-HEIGHT s.r.o.,Práce ve výškách a v laně (contractor/IČO),,2026-10-01,2026-10-14,2026-10-11,4,live,,,,2026-10-14,200
-finn.no/job/ad/477579644,Hytech Access & Inspection AS,Tilkomsttekniker mekaniker (3 positions),Norway,2026-10-07,2026-10-14,2026-10-11,4,live,,2026-10-28,,2026-10-14,200
-griehser.at/portfolio-item/industriekletterer-vollzeit,Griehser,Industriekletterer / Höhenarbeiter Vollzeit (m/w/x),Austria,2026-10-07,2026-10-14,2026-10-11,4,live,2026-07-31,,,2026-10-14,200
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer-open-hire,IKH Hamburg,Industriekletterer (open hire),Germany,2026-09-29,2026-10-14,2026-10-02,4,live,,,duplicate-row,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214WBBV,SOLCIS Nice,Cordiste urbain (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214WSSF,BATIBIG,Couvreur cordiste (H/F),France,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,,2026-10-15,200
+ed-height.eu/cz/volna-mista,ED-HEIGHT s.r.o.,Práce ve výškách a v laně (contractor/IČO),,2026-10-01,2026-10-15,2026-10-11,4,live,,,,2026-10-15,200
+finn.no/job/ad/477579644,Hytech Access & Inspection AS,Tilkomsttekniker mekaniker (3 positions),Norway,2026-10-07,2026-10-15,2026-10-11,4,live,,2026-10-28,,2026-10-15,200
+griehser.at/portfolio-item/industriekletterer-vollzeit,Griehser,Industriekletterer / Höhenarbeiter Vollzeit (m/w/x),Austria,2026-10-07,2026-10-15,2026-10-11,4,live,2026-07-31,,,2026-10-15,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-industriekletterer-open-hire,IKH Hamburg,Industriekletterer (open hire),Germany,2026-09-29,2026-10-15,2026-10-02,4,live,,,duplicate-row,2026-10-15,200
 jobs.rts-wind.de,RTS Wind AG,RTS Wind AG,Germany,2026-09-11,2026-09-16,2026-09-16,4,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-net-empregos.com/15866047/montador-de-andaimes-alpinista,undisclosed façade-rehab firm,Montador de Andaimes / Alpinista,Portugal,2026-10-07,2026-10-14,2026-10-11,4,live,2026-09-22,,,2026-10-14,200
-net-empregos.com/15956178/pedreiros-serventes-barradores-pintores-e-tecnico-de-acesso-por-cordas-alpinista,M M Branco Unipessoal,Pedreiros / Pintores / Técnico de Acesso por Cordas (Alpinis,Portugal,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-01,,,2026-10-14,200
-net-empregos.com/16037302/tecnicos-de-acesso-por-cordas-irata-nivel-1#gssp-global-skill-service-portugal-t-cnicos-de-acesso-por-cordas-irata-n-ve,GSSP – Global Skill Service Portugal,Técnicos de Acesso por Cordas IRATA Nível 1,Portugal,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-06,,board re-dates; duplicate-row,2026-10-14,200
-net-empregos.com/16057569/estamos-a-recrutar-alpinista#tinta-viva-estamos-a-recrutar-alpinista,Tinta Viva,Estamos a recrutar Alpinista,Portugal,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-10,,board re-dates; duplicate-row,2026-10-14,200
-net-empregos.com/16087185/tecnicos-de-acesso-em-rapel,Verticstep,Técnicos de acesso em rapel,Portugal,2026-10-07,2026-10-14,2026-10-11,4,live,2026-10-11,,board re-dates,2026-10-14,200
-pavouci.cz/kariera,PAVOUCI s.r.o.,IRATA L1–L3 open hire,,2026-10-01,2026-10-14,2026-10-11,4,live,,,,2026-10-14,200
-teton.pl/kariera,Teton Alpinistyka Przemysłowa,Alpinista przemysłowy / Serwisant,Poland,2026-09-25,2026-10-14,2026-10-11,4,live,,,,2026-10-14,200
-volnamista.cz/nabidka-prace/vyskovy-pracovnikhorolezec/210183986,"Raamar, s.r.o.",Výškový pracovník / horolezec (HPP),,2026-10-01,2026-10-14,2026-10-11,4,live,,,,2026-10-14,200
-zweiseil.at/jobs/industriekletterer,Zweiseil GmbH,Industriekletterer,Austria,2026-09-11,2026-10-14,2026-09-30,4,live,,,,2026-10-14,200
+net-empregos.com/15866047/montador-de-andaimes-alpinista,undisclosed façade-rehab firm,Montador de Andaimes / Alpinista,Portugal,2026-10-07,2026-10-15,2026-10-11,4,live,2026-09-22,,,2026-10-15,200
+net-empregos.com/15956178/pedreiros-serventes-barradores-pintores-e-tecnico-de-acesso-por-cordas-alpinista,M M Branco Unipessoal,Pedreiros / Pintores / Técnico de Acesso por Cordas (Alpinis,Portugal,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-01,,,2026-10-15,200
+net-empregos.com/16037302/tecnicos-de-acesso-por-cordas-irata-nivel-1#gssp-global-skill-service-portugal-t-cnicos-de-acesso-por-cordas-irata-n-ve,GSSP – Global Skill Service Portugal,Técnicos de Acesso por Cordas IRATA Nível 1,Portugal,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-06,,board re-dates; duplicate-row,2026-10-15,200
+net-empregos.com/16057569/estamos-a-recrutar-alpinista#tinta-viva-estamos-a-recrutar-alpinista,Tinta Viva,Estamos a recrutar Alpinista,Portugal,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-10,,board re-dates; duplicate-row,2026-10-15,200
+net-empregos.com/16087185/tecnicos-de-acesso-em-rapel,Verticstep,Técnicos de acesso em rapel,Portugal,2026-10-07,2026-10-15,2026-10-11,4,live,2026-10-11,,board re-dates,2026-10-15,200
+pavouci.cz/kariera,PAVOUCI s.r.o.,IRATA L1–L3 open hire,,2026-10-01,2026-10-15,2026-10-11,4,live,,,,2026-10-15,200
+teton.pl/kariera,Teton Alpinistyka Przemysłowa,Alpinista przemysłowy / Serwisant,Poland,2026-09-25,2026-10-15,2026-10-11,4,live,,,,2026-10-15,200
+volnamista.cz/nabidka-prace/vyskovy-pracovnikhorolezec/210183986,"Raamar, s.r.o.",Výškový pracovník / horolezec (HPP),,2026-10-01,2026-10-15,2026-10-11,4,live,,,,2026-10-15,200
+zweiseil.at/jobs/industriekletterer,Zweiseil GmbH,Industriekletterer,Austria,2026-09-11,2026-10-15,2026-09-30,4,live,,,,2026-10-15,200
 aguaclean.ie,Agua-Clean Services,Open CV intake (IRATA L1 Dublin),Ireland,2026-09-24,2026-10-11,2026-10-11,3,unverified,,,homepage only; vacancy seen on LinkedIn only,2026-10-14,200
-alpinbist.ro/angajari-alpinist-utilitar-cluj,Alpinbist SRL,Angajări alpinist utilitar Cluj,Romania,2026-10-02,2026-10-14,2026-10-11,3,live,,,,2026-10-14,200
+alpinbist.ro/angajari-alpinist-utilitar-cluj,Alpinbist SRL,Angajări alpinist utilitar Cluj,Romania,2026-10-02,2026-10-15,2026-10-11,3,live,,,,2026-10-15,200
 applavoro.it/annuncio-un-operatore-su-fune---manuten-27920,Samsic HR Italia,Un Operatore su fune – Manutentore,Italy,2026-10-05,2026-10-08,2026-10-08,3,closed,2026-10-07,,board re-dates,2026-10-14,410
-blade-power.com/ro/career,BLADE POWER Renewable Energy Services,Rope Access Technician – blade inspection & repair,Romania,2026-10-02,2026-10-14,2026-10-14,4,live,,,"REPOSTED 2026-10-14 (404 on 13 Oct, back 14 Oct)",2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214KBFH,OCEANE Intérim,Cordiste Ustaritz,France,2026-09-28,2026-10-14,2026-09-30,3,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214XGHP,RC Intérim,Cordiste ×2 (avalanche barriers),France,2026-10-08,2026-10-14,2026-10-11,3,live,2026-10-07,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214XRSL,MOTIV Intérim (Évreux agency),Cordiste (H/F),France,2026-10-08,2026-10-14,2026-10-11,3,live,2026-10-07,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214XTHN,OCEANE Intérim,Cordiste (H/F),France,2026-10-08,2026-10-14,2026-10-11,3,live,2026-10-07,,,2026-10-14,200
-career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#rope-access-sverige-ab-swire-rope-access-blade-repair-technicians-2026,Rope Access Sverige AB / Swire Rope Access,Blade Repair Technicians - 2026,,2026-09-11,2026-10-14,2026-09-15,3,live,,,duplicate-row,2026-10-14,200
+blade-power.com/ro/career,BLADE POWER Renewable Energy Services,Rope Access Technician – blade inspection & repair,Romania,2026-10-02,2026-10-15,2026-10-14,4,live,,,"REPOSTED 2026-10-14 (404 on 13 Oct, back 14 Oct)",2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214KBFH,OCEANE Intérim,Cordiste Ustaritz,France,2026-09-28,2026-10-14,2026-09-30,3,closed,,,,2026-10-15,404
+candidat.francetravail.fr/offres/recherche/detail/214XGHP,RC Intérim,Cordiste ×2 (avalanche barriers),France,2026-10-08,2026-10-15,2026-10-11,3,live,2026-10-07,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214XRSL,MOTIV Intérim (Évreux agency),Cordiste (H/F),France,2026-10-08,2026-10-15,2026-10-11,3,live,2026-10-07,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214XTHN,OCEANE Intérim,Cordiste (H/F),France,2026-10-08,2026-10-15,2026-10-11,3,live,2026-10-07,,,2026-10-15,200
+career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#rope-access-sverige-ab-swire-rope-access-blade-repair-technicians-2026,Rope Access Sverige AB / Swire Rope Access,Blade Repair Technicians - 2026,,2026-09-11,2026-10-15,2026-09-15,3,live,,,duplicate-row,2026-10-15,200
 irdarbs.lv/vakance/INDUSTRIALAIS-ALPINISTS:bo5t,SIA Ultra Wind Energy,Industriālais alpīnists,Latvia,2026-10-08,2026-10-13,2026-10-11,3,closed,,2026-10-12,,2026-10-14,404
 jobbsafari.se/jobb/vi-anstaller-fler-reptekniker-sasrb-20480883,CGS Nordic AB,CGS Nordic AB — Reptekniker,Sweden,2026-09-11,2026-09-15,2026-09-15,3,closed,,,superseded by jobbland 20625230 repost,2026-10-14,200
 linkedin.com/posts/kyle-pearce-378758105_kaefer-uk-irelandare-hiring-were-hiring-activity-7510257937114898432-x7Uo,KAEFER UK & Ireland,Rope Access Technicians L1 & L2 (permanent),United Kingdom,2026-10-07,2026-10-09,2026-10-09,3,unverified,,,linkedin-post watch (not live by rule B7),2026-10-14,200
 linkedin.com/posts/stratum-industrial-ltd_were-hiring-rope-access-technicians-activity-7510654355574784000-hL74,Stratum Industrial,IRATA Rope Access Technicians L1–3 (16-week workscope),United Kingdom,2026-10-07,2026-10-09,2026-10-09,3,unverified,,,linkedin-post watch (not live by rule B7),2026-10-14,200
-net-empregos.com/15884320/pintor-de-rapel,C.A. Equilíbrio & Engenharia,Pintor de Rapel,Portugal,2026-10-08,2026-10-14,2026-10-11,3,live,2026-10-11,,board re-dates,2026-10-14,200
-net-empregos.com/15979209/rapelista,GMOL – Soluções e Equipamentos,Rapelista / trabalhador polivalente,Portugal,2026-10-08,2026-10-14,2026-10-11,3,live,2026-09-22,,,2026-10-14,200
-net-empregos.com/16021005/recrutamento-pintores-em-andaime-e-rapel,Remodelimpa (Maximos Pintura e Limpezas),Pintores em Andaime e Rapel,Portugal,2026-10-08,2026-10-14,2026-10-11,3,live,2026-10-05,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/cordiste-h-f-nucleaire,SIGEDI,Cordiste nucléaire,France,2026-09-15,2026-10-14,2026-09-17,3,live,,,,2026-10-14,200
-publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajez-alpinisti-utilitari-in-bucuresti/4hf0d74dg16e77de1251f07849e7e089.html,Extreme Forest Climbing SRL,Alpinisti utilitari București,Romania,2026-10-02,2026-10-14,2026-10-11,3,live,2026-10-06,,board re-dates,2026-10-14,200
-rebteknikeren.dk/job,Rebteknikeren ApS,Erhvervsklatrere L1 / L2 / L3,Denmark,2026-09-30,2026-10-14,2026-10-02,3,live,,,,2026-10-14,200
-romjob.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajare-alpinist-utilitar-bucuresti/6df19ehh427i781411igf5930943g727.html,Kreativ Alpin,Alpinist utilitar București/Ilfov,Romania,2026-10-02,2026-10-14,2026-10-11,3,live,2026-10-05,,board re-dates,2026-10-14,200
+net-empregos.com/15884320/pintor-de-rapel,C.A. Equilíbrio & Engenharia,Pintor de Rapel,Portugal,2026-10-08,2026-10-15,2026-10-11,3,live,2026-10-11,,board re-dates,2026-10-15,200
+net-empregos.com/15979209/rapelista,GMOL – Soluções e Equipamentos,Rapelista / trabalhador polivalente,Portugal,2026-10-08,2026-10-15,2026-10-11,3,live,2026-09-22,,,2026-10-15,200
+net-empregos.com/16021005/recrutamento-pintores-em-andaime-e-rapel,Remodelimpa (Maximos Pintura e Limpezas),Pintores em Andaime e Rapel,Portugal,2026-10-08,2026-10-15,2026-10-11,3,live,2026-10-05,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/cordiste-h-f-nucleaire,SIGEDI,Cordiste nucléaire,France,2026-09-15,2026-10-15,2026-09-17,3,live,,,,2026-10-15,200
+publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajez-alpinisti-utilitari-in-bucuresti/4hf0d74dg16e77de1251f07849e7e089.html,Extreme Forest Climbing SRL,Alpinisti utilitari București,Romania,2026-10-02,2026-10-15,2026-10-11,3,live,2026-10-06,,board re-dates,2026-10-15,200
+rebteknikeren.dk/job,Rebteknikeren ApS,Erhvervsklatrere L1 / L2 / L3,Denmark,2026-09-30,2026-10-15,2026-10-02,3,live,,,,2026-10-15,200
+romjob.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajare-alpinist-utilitar-bucuresti/6df19ehh427i781411igf5930943g727.html,Kreativ Alpin,Alpinist utilitar București/Ilfov,Romania,2026-10-02,2026-10-15,2026-10-11,3,live,2026-10-05,,board re-dates,2026-10-15,200
 ttrinternational.com/ofertas-de-empleo,Vercon,TV construcción,Spain,2026-09-16,2026-09-18,2026-09-18,3,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-ttrinternational.com/ofertas-de-empleo/oferta-empleo-trabajos-verticales-construccion,Vercon (via TTR),Vercon (via TTR) — Técnico/a Trabajos Verticales (construcci,Spain,2026-09-11,2026-10-14,2026-09-15,3,live,,,,2026-10-14,200
-volnamista.cz/nabidka-prace/specialista-na-vyskove-prace/179456705,Službyzavás.cz,Specialista na výškové práce,,2026-10-08,2026-10-14,2026-10-11,3,live,,,,2026-10-14,200
-volnamista.cz/nabidka-prace/vyskovy-specialista/207993790,RIVA SERVIS s.r.o.,Výškový specialista,,2026-10-08,2026-10-14,2026-10-11,3,live,,,,2026-10-14,200
-yees.com.pl/about-yees/careers,YEES LTD,Blade Repair Technicians (Siemens Blade C/D),Poland,2026-10-02,2026-10-14,2026-10-11,3,live,,,,2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-la-spezia,Acrobatica,Muratore/Operaio Edile – La Spezia,Italy,2026-09-28,2026-10-14,2026-10-05,2,live,,,,2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-latina,Acrobatica,Muratore/Operaio Edile – Latina,Italy,2026-09-28,2026-10-14,2026-10-05,2,live,,,,2026-10-14,200
-acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-reggio-emilia,Acrobatica,Muratore/Operaio Edile – Reggio Emilia,Italy,2026-09-28,2026-10-14,2026-10-05,2,live,,,,2026-10-14,200
-alpinizmprzemyslowy.com.pl/kariera,RIS Kotes,Alpinista przemysłowy (open hire),Poland,2026-10-09,2026-10-14,2026-10-11,2,live,,,,2026-10-14,200
-anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2,Aprolan21 (contact info@aprolan21.eus),Peón Especialista en Trabajos Verticales,Spain,2026-10-09,2026-10-14,2026-10-11,2,live,2026-10-13,,; board re-dates,2026-10-14,200
+ttrinternational.com/ofertas-de-empleo/oferta-empleo-trabajos-verticales-construccion,Vercon (via TTR),Vercon (via TTR) — Técnico/a Trabajos Verticales (construcci,Spain,2026-09-11,2026-10-15,2026-09-15,3,live,,,,2026-10-15,200
+volnamista.cz/nabidka-prace/specialista-na-vyskove-prace/179456705,Službyzavás.cz,Specialista na výškové práce,,2026-10-08,2026-10-15,2026-10-11,3,live,,,,2026-10-15,200
+volnamista.cz/nabidka-prace/vyskovy-specialista/207993790,RIVA SERVIS s.r.o.,Výškový specialista,,2026-10-08,2026-10-15,2026-10-11,3,live,,,,2026-10-15,200
+yees.com.pl/about-yees/careers,YEES LTD,Blade Repair Technicians (Siemens Blade C/D),Poland,2026-10-02,2026-10-15,2026-10-11,3,live,,,,2026-10-15,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-la-spezia,Acrobatica,Muratore/Operaio Edile – La Spezia,Italy,2026-09-28,2026-10-15,2026-10-05,2,live,,,,2026-10-15,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-latina,Acrobatica,Muratore/Operaio Edile – Latina,Italy,2026-09-28,2026-10-15,2026-10-05,2,live,,,,2026-10-15,200
+acrobaticagroup.com/lavora-con-noi/posizionisc/muratore-operaio-edile-reggio-emilia,Acrobatica,Muratore/Operaio Edile – Reggio Emilia,Italy,2026-09-28,2026-10-15,2026-10-05,2,live,,,,2026-10-15,200
+alpinizmprzemyslowy.com.pl/kariera,RIS Kotes,Alpinista przemysłowy (open hire),Poland,2026-10-09,2026-10-15,2026-10-11,2,live,,,,2026-10-15,200
+anetva.org/oferta-de-empleo/peon-especialista-en-trabajos-verticales-2,Aprolan21 (contact info@aprolan21.eus),Peón Especialista en Trabajos Verticales,Spain,2026-10-09,2026-10-15,2026-10-11,2,live,2026-10-13,,; board re-dates,2026-10-15,200
 applavoro.it/annuncio-un-operatore-su-fune---manuten-27668,Samsic HR (client),Operatore su fune manutentore (Roma),Italy,2026-09-21,2026-09-22,2026-09-22,2,closed,2026-09-22,,board re-dates,2026-10-14,410
 beis.com/nl/career/detail/324,Brand Energy (BEIS),Brand Energy (BEIS),Netherlands,2026-09-15,2026-09-16,2026-09-16,2,closed,,,,2026-10-14,200
 candidat.francetravail.fr/offres/recherche/detail/213RGWJ#france-travail-france-travail-cordiste-le-de-france-int,France Travail,France Travail — Cordiste (Île-de-France interim),France,2026-09-15,2026-09-16,2026-09-16,2,closed,2026-09-10,,duplicate-row,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214NVCK,MOTIV Intérim,Cordiste nacelliste Tours,France,2026-09-30,2026-10-01,2026-10-01,2,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214NVDS,MOTIV Intérim,Cordiste Châtellerault,France,2026-09-30,2026-10-01,2026-10-01,2,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214TTTX,Interaction Sud Rhône,Cordiste (H/F),France,2026-10-07,2026-10-08,2026-10-08,2,closed,2026-10-05,,,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214YLSL,"SOLANO (Solano Multitech Salon, for a client)",Couvreur cordiste (H/F),France,2026-10-09,2026-10-14,2026-10-11,2,live,,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214YQXY,Nettoyage Vitresol,Cordiste laveur de vitres (H/F),France,2026-10-09,2026-10-14,2026-10-11,2,live,,,,2026-10-14,200
-career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-ras-blade-repair-technicians-2026,Swire/RAS,Blade Repair Technicians 2026,Sweden,2026-09-17,2026-10-14,2026-09-18,2,live,,,duplicate-row,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214YLSL,"SOLANO (Solano Multitech Salon, for a client)",Couvreur cordiste (H/F),France,2026-10-09,2026-10-15,2026-10-11,2,live,,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214YQXY,Nettoyage Vitresol,Cordiste laveur de vitres (H/F),France,2026-10-09,2026-10-15,2026-10-11,2,live,,,,2026-10-15,200
+career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-ras-blade-repair-technicians-2026,Swire/RAS,Blade Repair Technicians 2026,Sweden,2026-09-17,2026-10-15,2026-09-18,2,live,,,duplicate-row,2026-10-15,200
 ejobs.ro/user/locuri-de-munca/alpinist-utilitar/1985882,AlpAccess SRL,Alpinist utilitar (5 positions),Romania,2026-09-25,2026-10-02,2026-10-02,2,expired-deadline,,2026-10-11,,2026-10-14,200
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-ikh-hamburg,IKH Hamburg,IKH Hamburg,Germany,2026-09-15,2026-10-14,2026-09-16,2,live,,,duplicate-row,2026-10-14,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-ikh-hamburg,IKH Hamburg,IKH Hamburg,Germany,2026-09-15,2026-10-15,2026-09-16,2,live,,,duplicate-row,2026-10-15,200
 jobijoba.it/annunci-di-lavoro/13/a2297d780d1eab779dbe1ffcb9c2f1ad,Altameta (agency),Rocciatore Trasfertista,Italy,2026-10-05,2026-10-07,2026-10-07,2,closed,2026-10-04,,,2026-10-14,410
-jobs.rts-wind.de/stellenangebote/Rope-Access-Technician-Offshore-m-f-d-Berlin-RTS-Wind-AG--312131410,RTS Wind AG,RTS Wind AG — Rope Access Technician Offshore (m/f/d),Germany,2026-09-11,2026-10-14,2026-09-14,2,live,,,,2026-10-14,200
+jobs.rts-wind.de/stellenangebote/Rope-Access-Technician-Offshore-m-f-d-Berlin-RTS-Wind-AG--312131410,RTS Wind AG,RTS Wind AG — Rope Access Technician Offshore (m/f/d),Germany,2026-09-11,2026-10-15,2026-09-14,2,live,,,,2026-10-15,200
 linkedin.com/posts/enermechresourcing_enermech-ropeaccess-mechanicaltechnician-activity-7510970897348837377-XiB1,EnerMech,Rope Access Mechanical Technician ×2 (3-week offshore trip),United Kingdom,2026-10-08,2026-10-09,2026-10-09,2,unverified,2026-09-30,,linkedin-post watch (not live by rule B7),2026-10-14,200
-net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa,BestPlusGold Lda,Recrutamento Alpinistas,Portugal,2026-09-24,2026-10-14,2026-10-01,2,live,,,,2026-10-14,200
-olx.pl/oferta/praca/alpinista-operator-maszyn-budowlanych-CID4-ID1cyecz.html,company not named (Poznań contact for a German contractor),Alpinista / operator maszyn (avalanche-barrier installs in G,Poland,2026-10-09,2026-10-14,2026-10-11,2,live,,,,2026-10-14,200
-olx.pl/oferta/praca/alpinista-przemyslowy-prace-wysokosciowe-dniowka-od-700zl-CID4-ID17k3JS.html,Everest (Bydgoszcz),Alpinista przemysłowy / pracownik wysokościowy,Poland,2026-10-09,2026-10-14,2026-10-11,2,live,,,,2026-10-14,200
-publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/anunt/angajez-alpinisti-utilitari/7b0f627579606a53.html,Alpin profi,Alpinisti utilitari (beginners accepted),Romania,2026-10-09,2026-10-14,2026-10-11,2,live,2026-10-01,,,2026-10-14,200
-publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/anunt/pregatim-tineri-in-vederea-angajarii-pe-post-de-alpinist-utilitar/7b0061747868635f.html,Nera Alpin S.R.L.,Alpinist utilitar (training for young starters),Romania,2026-10-09,2026-10-14,2026-10-11,2,live,2026-10-05,,,2026-10-14,200
+net-empregos.com/15865464/recrutamento-alpinistas-trabalhos-em-altura-lisboa,BestPlusGold Lda,Recrutamento Alpinistas,Portugal,2026-09-24,2026-10-15,2026-10-01,2,live,,,,2026-10-15,200
+olx.pl/oferta/praca/alpinista-operator-maszyn-budowlanych-CID4-ID1cyecz.html,company not named (Poznań contact for a German contractor),Alpinista / operator maszyn (avalanche-barrier installs in G,Poland,2026-10-09,2026-10-15,2026-10-11,2,live,,,,2026-10-15,200
+olx.pl/oferta/praca/alpinista-przemyslowy-prace-wysokosciowe-dniowka-od-700zl-CID4-ID17k3JS.html,Everest (Bydgoszcz),Alpinista przemysłowy / pracownik wysokościowy,Poland,2026-10-09,2026-10-15,2026-10-11,2,live,,,,2026-10-15,200
+publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/anunt/angajez-alpinisti-utilitari/7b0f627579606a53.html,Alpin profi,Alpinisti utilitari (beginners accepted),Romania,2026-10-09,2026-10-15,2026-10-11,2,live,2026-10-01,,,2026-10-15,200
+publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/anunt/pregatim-tineri-in-vederea-angajarii-pe-post-de-alpinist-utilitar/7b0061747868635f.html,Nera Alpin S.R.L.,Alpinist utilitar (training for young starters),Romania,2026-10-09,2026-10-15,2026-10-11,2,live,2026-10-05,,,2026-10-15,200
 publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/sc-alpaccess-srl-angajeaza-alpinist-utilitar/42272fhg510475i6d9147g97d6013948.html,AlpAccess SRL,Alpinist utilitar,Romania,2026-10-09,2026-10-11,2026-10-11,2,expired-deadline,2026-10-07,2026-10-11,board re-dates,2026-10-14,200
 res-group.epreselec.com,RES Group,RES Group,Spain,2026-09-11,2026-09-14,2026-09-14,2,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-2high.it/offerte-di-lavoro/operatore-in-fune-emilia-romagna,2High,Operatore in fune – Emilia Romagna,Italy,2026-09-28,2026-10-14,2026-09-28,1,live,,,,2026-10-14,200
+2high.it/offerte-di-lavoro/operatore-in-fune-emilia-romagna,2High,Operatore in fune – Emilia Romagna,Italy,2026-09-28,2026-10-15,2026-09-28,1,live,,,,2026-10-15,200
 acrobaticagroup.com/lavora-con-noi,Acrobatica,Acrobatica,Italy,2026-09-11,2026-09-11,2026-09-11,1,closed,,,,2026-10-14,404
 acrobaticagroup.com/lavora-con-noi/posizionisc/addetto-a-multiservizi-su-fune-torino,Acrobatica,Addetto Multiservizi su fune Torino,Italy,2026-09-21,2026-09-21,2026-09-21,1,closed,,,,2026-10-14,404
 albon.ee/en,Albon Group,Albon Group,,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 allessauber.at/sonderreinigung/industrieklettern,Allessauber,Industriekletterer Level 1 & 2,Austria,2026-09-22,2026-09-22,2026-09-22,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 alpaccess.com/careers.html,AlpAccess,AlpAccess,Romania,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 altifusion.com,ALTIFUSION International,ALTIFUSION International,France,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-3,DOMINION E&C Iberia,Especialista trabajos verticales obra civil,,2026-09-11,2026-10-14,2026-09-11,1,live,2026-10-13,,; board re-dates,2026-10-14,200
+anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-3,DOMINION E&C Iberia,Especialista trabajos verticales obra civil,,2026-09-11,2026-10-15,2026-09-11,1,live,2026-10-13,,; board re-dates,2026-10-15,200
 asn-cordiste.fr,ACCÈS SERVICE / asn-cordiste,ACCÈS SERVICE / asn-cordiste,France,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 candidat.francetravail.fr/offres/recherche/detail/212XYFL,ACCÈS SERVICE,Cordiste BTP / Futur Cordiste,France,2026-09-25,2026-09-25,2026-09-25,1,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/213GVXG,VERTICAD,Technicien Cordiste / Travaux spéciaux / maçonnerie (H/F),,2026-09-11,2026-09-11,2026-09-11,1,closed,2026-09-03,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/213RCVV,PARTNAIRE (temp agency client),Cordiste (H/F),,2026-09-11,2026-09-11,2026-09-11,1,closed,2026-09-10,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/213RGWJ#france-travail-cordiste-213rgwj,France Travail,Cordiste 213RGWJ,France,2026-09-17,2026-09-17,2026-09-17,1,closed,2026-09-10,,duplicate-row,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/213RGWJ#motiv-int-rim-cordiste-le-de-france,MOTIV Intérim,Cordiste Île-de-France,France,2026-09-30,2026-09-30,2026-09-30,1,closed,,,duplicate-row,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214HCQV#france-travail-listing-technicien-cordiste-eschau,France Travail listing,Technicien cordiste (Eschau),France,2026-10-02,2026-10-14,2026-10-02,1,live,,,duplicate-row,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214HCQV#france-travail-listing-technicien-cordiste-eschau,France Travail listing,Technicien cordiste (Eschau),France,2026-10-02,2026-10-14,2026-10-02,1,closed,,,duplicate-row,2026-10-15,404
 candidat.francetravail.fr/offres/recherche/detail/214PKKQ,MOTIV Intérim,Cordiste Loches,France,2026-10-01,2026-10-01,2026-10-01,1,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214TYGW,AXION Grand Sud,Cordiste (H/F),France,2026-10-07,2026-10-07,2026-10-07,1,closed,,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214XPMQ,ADEQUAT Intérim (Adéquat T.G.H),Soudeur Cordiste (H/F),France,2026-10-08,2026-10-08,2026-10-08,1,closed,2026-10-07,,,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214XPNY,ADEQUAT Intérim (Adéquat T.G.H),Cordiste Couvreur (H/F),France,2026-10-08,2026-10-08,2026-10-08,1,closed,2026-10-07,,,2026-10-14,404
-career.muehlhan.com/jobs/8150264-tecnico-de-energia-eolica-sgre-portugal,Muehlhan Wind Service,Técnico de Energia Eólica (SGRE Portugal),Portugal,2026-10-11,2026-10-14,2026-10-11,1,live,,,,2026-10-14,200
-career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-rope-access-ras-swire-rope-access-ras-blade-repair-techn,Swire Rope Access (RAS),Swire Rope Access (RAS) — Blade Repair Technicians - 2026,Sweden,2026-09-16,2026-10-14,2026-09-16,1,live,,,duplicate-row,2026-10-14,200
+career.muehlhan.com/jobs/8150264-tecnico-de-energia-eolica-sgre-portugal,Muehlhan Wind Service,Técnico de Energia Eólica (SGRE Portugal),Portugal,2026-10-11,2026-10-15,2026-10-11,1,live,,,,2026-10-15,200
+career.ropeaccess.se/jobs/6921840-blade-repair-technicians-2026#swire-rope-access-ras-swire-rope-access-ras-blade-repair-techn,Swire Rope Access (RAS),Swire Rope Access (RAS) — Blade Repair Technicians - 2026,Sweden,2026-09-16,2026-10-15,2026-09-16,1,live,,,duplicate-row,2026-10-15,200
 careers.pendrich.com/jobs,Pendrich Height Services,Pendrich Height Services,United Kingdom,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 careers.vestas.com,Vestas,Vestas,Austria,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-careers.vestas.com/job/Wien-Blade-Technician-%28mwd%29-for-Wind-Turbines-Blades-in-Parndorf-Lowe/1400329433,Vestas,Blade Technician (m/w/d) for Wind Turbines Blades in Parndor,,2026-09-11,2026-10-14,2026-09-11,1,live,,,,2026-10-14,200
+careers.vestas.com/job/Wien-Blade-Technician-%28mwd%29-for-Wind-Turbines-Blades-in-Parndorf-Lowe/1400329433,Vestas,Blade Technician (m/w/d) for Wind Turbines Blades in Parndor,,2026-09-11,2026-10-15,2026-09-11,1,live,,,,2026-10-15,200
 careerstructure.com/jobs/rope-access/in-europe#careerstructure-careerstructure-level-3-rope-access-pain,CareerStructure,CareerStructure — Level 3 Rope Access Painter (Harwich),United Kingdom,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy); duplicate-row,2026-10-14,200
 careerstructure.com/jobs/rope-access/in-europe#linkit-resource-partnership-limited-client-via-careerstructure-rope-access-welder,Linkit Resource Partnership Limited (client via CareerStructure),Rope Access Welder,,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy); duplicate-row,2026-10-14,200
 cistenijelinek.cz,Čištění Jelínek,Čištění Jelínek,Czechia,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-fenderbv.com/vacancies/rope-access-supervisor,Fender BV,Fender BV — Rope access supervisor,Netherlands,2026-09-14,2026-10-14,2026-09-14,1,live,,,,2026-10-14,200
+fenderbv.com/vacancies/rope-access-supervisor,Fender BV,Fender BV — Rope access supervisor,Netherlands,2026-09-14,2026-10-15,2026-09-14,1,live,,,,2026-10-15,200
 gevwindpower.com/wind-turbine-technicians,GEV Wind Power,GEV Wind Power,United Kingdom,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-greenrecruitmentcompany.com/job/offshore-blade-technicians-irata-level-3-5989491,Green Recruitment Company,Green Recruitment Company — Offshore Blade Technicians - IRA,,2026-09-11,2026-10-14,2026-09-11,1,live,2026-08-07,,,2026-10-14,200
+greenrecruitmentcompany.com/job/offshore-blade-technicians-irata-level-3-5989491,Green Recruitment Company,Green Recruitment Company — Offshore Blade Technicians - IRA,,2026-09-11,2026-10-15,2026-09-11,1,live,2026-08-07,,,2026-10-15,200
 hexa-alpin.hu/en/jobs,Hexa-Alpin,Hexa-Alpin,,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-ikh-hamburg-industriekletterer-fisat-lev,IKH Hamburg,IKH Hamburg — Industriekletterer FISAT Level 1–3,Germany,2026-09-16,2026-10-14,2026-09-16,1,live,,,duplicate-row,2026-10-14,200
-industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#industrie-kletterer-hamburg-ikh-gmbh-industriekletterer-fisat-level-1-3,Industrie Kletterer Hamburg (IKH) GmbH,Industriekletterer FISAT Level 1–3,,2026-09-15,2026-10-14,2026-09-15,1,live,,,duplicate-row,2026-10-14,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#ikh-hamburg-ikh-hamburg-industriekletterer-fisat-lev,IKH Hamburg,IKH Hamburg — Industriekletterer FISAT Level 1–3,Germany,2026-09-16,2026-10-15,2026-09-16,1,live,,,duplicate-row,2026-10-15,200
+industrie-kletterer-hamburg.de/ueber-uns/jobs-bei-ikh#industrie-kletterer-hamburg-ikh-gmbh-industriekletterer-fisat-level-1-3,Industrie Kletterer Hamburg (IKH) GmbH,Industriekletterer FISAT Level 1–3,,2026-09-15,2026-10-15,2026-09-15,1,live,,,duplicate-row,2026-10-15,200
 infiniteam.net,Infiniteam,Infiniteam,,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-jobbland.se/jobb/vi-anstaller-fler-reptekniker-till-vart-goteborgsteam-sasrb-20625230,CGS Nordic AB,Reptekniker (Göteborg team),Sweden,2026-10-11,2026-10-14,2026-10-11,1,live,2026-10-04,2026-11-29,,2026-10-14,200
+jobbland.se/jobb/vi-anstaller-fler-reptekniker-till-vart-goteborgsteam-sasrb-20625230,CGS Nordic AB,Reptekniker (Göteborg team),Sweden,2026-10-11,2026-10-14,2026-10-11,1,unverified,2026-10-04,2026-11-29,,2026-10-15,403
 jobs.bilfinger.com,Bilfinger Height Specialists,Bilfinger Height Specialists,Netherlands,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-jobs.rts-wind.de/stellenangebote/Seilzugangstechniker-m-w-d-Rotorblattreparaturen-Bremen-RTS-Wind-AG--845269753,RTS Wind AG,Seilzugangstechniker Rotorblattreparaturen (m/w/d),Germany,2026-10-11,2026-10-14,2026-10-11,1,live,,,,2026-10-14,200
-jobscout24.ch/de/job/78e7c036-9015-4acd-8556-d3012d5f5197,Bellini Personal AG (agency; client in Chur),"Industriekletterer (m/w), direct permanent hire",Switzerland,2026-10-11,2026-10-14,2026-10-11,1,live,,,,2026-10-14,200
+jobs.rts-wind.de/stellenangebote/Seilzugangstechniker-m-w-d-Rotorblattreparaturen-Bremen-RTS-Wind-AG--845269753,RTS Wind AG,Seilzugangstechniker Rotorblattreparaturen (m/w/d),Germany,2026-10-11,2026-10-15,2026-10-11,1,live,,,,2026-10-15,200
+jobscout24.ch/de/job/78e7c036-9015-4acd-8556-d3012d5f5197,Bellini Personal AG (agency; client in Chur),"Industriekletterer (m/w), direct permanent hire",Switzerland,2026-10-11,2026-10-15,2026-10-11,1,live,,,,2026-10-15,200
 kaeferenergy.no/ledige-stillinger,KAEFER Energy,KAEFER Energy,Norway,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 lalineavertical.com,La Línea Vertical,La Línea Vertical,Spain,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 matchingmarines.nl/vacatures,Matching Marines,Matching Marines,Netherlands,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-net-empregos.com/16037302/tecnicos-de-acesso-por-cordas-irata-nivel-1#irata-n-vel-1-t-cnicos-de-acesso-por-cordas,IRATA Nível 1,Técnicos de Acesso por Cordas,Portugal,2026-10-01,2026-10-14,2026-10-01,1,live,,,duplicate-row,2026-10-14,200
-net-empregos.com/16057569/estamos-a-recrutar-alpinista#alpinista-estamos-a-recrutar,Alpinista,Estamos a Recrutar,Portugal,2026-10-01,2026-10-14,2026-10-01,1,live,,,duplicate-row,2026-10-14,200
-net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura,Nuvem Matizada Lda (3Up Vertical),Técnico acesso por cordas / alpinista (reparação e pintura),Portugal,2026-10-11,2026-10-14,2026-10-11,1,live,,,,2026-10-14,200
-nl.joblum.com/job/rope-access-technicus/925666,Oostendorp Apparatenbouw,Rope Access Technicus (also trainee),Netherlands,2026-10-11,2026-10-14,2026-10-11,1,live,2026-09-15,,,2026-10-14,200
+net-empregos.com/16037302/tecnicos-de-acesso-por-cordas-irata-nivel-1#irata-n-vel-1-t-cnicos-de-acesso-por-cordas,IRATA Nível 1,Técnicos de Acesso por Cordas,Portugal,2026-10-01,2026-10-15,2026-10-01,1,live,,,duplicate-row,2026-10-15,200
+net-empregos.com/16057569/estamos-a-recrutar-alpinista#alpinista-estamos-a-recrutar,Alpinista,Estamos a Recrutar,Portugal,2026-10-01,2026-10-15,2026-10-01,1,live,,,duplicate-row,2026-10-15,200
+net-empregos.com/16103208/tecnico-acesso-por-cordas-alpinista-reparacao-e-pintura,Nuvem Matizada Lda (3Up Vertical),Técnico acesso por cordas / alpinista (reparação e pintura),Portugal,2026-10-11,2026-10-15,2026-10-11,1,live,,,,2026-10-15,200
+nl.joblum.com/job/rope-access-technicus/925666,Oostendorp Apparatenbouw,Rope Access Technicus (also trainee),Netherlands,2026-10-11,2026-10-15,2026-10-11,1,live,2026-09-15,,,2026-10-15,200
 nordicaccess.fi,Nordic Access Oy,Nordic Access Oy,Finland,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 nordicaccess.fi/en/ropeaccess,Nordic Access Oy,IRATA technicians available 2026 (LinkedIn hire signal; no d,,2026-09-16,2026-09-16,2026-09-16,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-offres.emploi-cordiste.fr/listing/chef-cheffe-dequipe-cordiste-h-f,Techniques Verticales Grand Ouest,Techniques Verticales Grand Ouest — Chef d’équipe cordiste (,France,2026-09-11,2026-10-14,2026-09-11,1,live,,,,2026-10-14,200
-offres.emploi-cordiste.fr/listing/cheffe-dequipe-cordiste-urbain,Nord Acces Difficiles,Nord Acces Difficiles — Chef(fe) d'équipe cordiste urbain,France,2026-09-11,2026-10-14,2026-09-11,1,live,,,,2026-10-14,200
+offres.emploi-cordiste.fr/listing/chef-cheffe-dequipe-cordiste-h-f,Techniques Verticales Grand Ouest,Techniques Verticales Grand Ouest — Chef d’équipe cordiste (,France,2026-09-11,2026-10-15,2026-09-11,1,live,,,,2026-10-15,200
+offres.emploi-cordiste.fr/listing/cheffe-dequipe-cordiste-urbain,Nord Acces Difficiles,Nord Acces Difficiles — Chef(fe) d'équipe cordiste urbain,France,2026-09-11,2026-10-15,2026-09-11,1,live,,,,2026-10-15,200
 pracezarohem.cz/dl/jd/PZR-370455,Čištění Jelínek s.r.o.,Výškový pracovník na laně,,2026-09-15,2026-09-15,2026-09-15,1,closed,,,,2026-10-14,404
 rig-zen.com,RigZen Group,RigZen Group,Romania,2026-09-18,2026-09-18,2026-09-18,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 ropeaccess.ie/careers,Rope Access Solutions,Rope Access Solutions,Ireland,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 sts-isonor.teamtailor.com,StS-ISONOR,StS-ISONOR,Norway,2026-09-11,2026-09-11,2026-09-11,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 sts-isonor.teamtailor.com/jobs,StS-ISONOR,StS-ISONOR,Norway,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 toprope.ch/de/toprope/jobs,TOPROPE GmbH,TOPROPE GmbH,Switzerland,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
-ttrinternational.com/ofertas-de-empleo/tecnicos-palas-verticales,RES Energy Global Services / RES Group,Técnicos de Palas para Trabajos Verticales / Técnico/a de Re,,2026-09-11,2026-10-14,2026-09-11,1,live,,,,2026-10-14,200
-volnamista.cz/nabidka-prace/lanar/176177941,zlana.cz,Lanař,,2026-09-15,2026-10-14,2026-09-15,1,live,,,,2026-10-14,200
+ttrinternational.com/ofertas-de-empleo/tecnicos-palas-verticales,RES Energy Global Services / RES Group,Técnicos de Palas para Trabajos Verticales / Técnico/a de Re,,2026-09-11,2026-10-15,2026-09-11,1,live,,,,2026-10-15,200
+volnamista.cz/nabidka-prace/lanar/176177941,zlana.cz,Lanař,,2026-09-15,2026-10-15,2026-09-15,1,live,,,,2026-10-15,200
 winteg.com/careers.html,WINTEG,WINTEG,Poland,2026-09-15,2026-09-15,2026-09-15,1,unverified,,,seed-page (no dated vacancy),2026-10-14,200
 career.muehlhan.com/jobs/8406285-entry-level-technicians-vestas-eu,Muehlhan Wind Service,"Entry-level Wind Turbine Technician (Vestas onshore installation, EU)",Europe-wide,2026-10-12,2026-10-12,2026-10-12,1,closed,2026-09-18,,,2026-10-14,200
-career.muehlhan.com/jobs/8406332-entry-level-technicians-enercon-eu,Muehlhan Wind Service,"Rookie Wind Turbine Technician (ENERCON onshore installation, EU)",Europe-wide,2026-10-12,2026-10-14,2026-10-12,1,live,2026-09-18,,,2026-10-14,200
-groupena.teamtailor.com/jobs/8492607-technicien-cordiste-h-f,OCO Technical / Explotech (Groupe NA),"Techniciens cordistes (H/F), CDD to end of year",Belgium,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-02,,,2026-10-14,200
-arbeitsagentur.de/jobsuche/jobdetail/10001-1003822870-S,DYWIDAG-Systems International,Höhenarbeiter / Industriekletterer / Rope Access Technicians,Germany,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-08,,,2026-10-14,200
-arbeitsagentur.de/jobsuche/jobdetail/10000-1208170585-S,Hößl Personal GmbH (agency),Ausbildung zum Industriekletterer (trained to FISAT 1),Germany,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-06,,agency,2026-10-14,200
-arbeitsagentur.de/jobsuche/jobdetail/10001-1003809419-S,"ACB Job Agentur Cottbus (agency, client in Schwarzheide)",Industriekletterer / Höhenarbeiter – Industriereinigung (2 posts),Germany,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-06,,agency,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/215BHBL,CAPEB (Chambre Artisanale du Bâtiment) for a member firm,Cordiste (H/F),France,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-09,,,2026-10-14,200
+career.muehlhan.com/jobs/8406332-entry-level-technicians-enercon-eu,Muehlhan Wind Service,"Rookie Wind Turbine Technician (ENERCON onshore installation, EU)",Europe-wide,2026-10-12,2026-10-15,2026-10-12,1,live,2026-09-18,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8492607-technicien-cordiste-h-f,OCO Technical / Explotech (Groupe NA),"Techniciens cordistes (H/F), CDD to end of year",Belgium,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-02,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1003822870-S,DYWIDAG-Systems International,Höhenarbeiter / Industriekletterer / Rope Access Technicians,Germany,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-08,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10000-1208170585-S,Hößl Personal GmbH (agency),Ausbildung zum Industriekletterer (trained to FISAT 1),Germany,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-06,,agency,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1003809419-S,"ACB Job Agentur Cottbus (agency, client in Schwarzheide)",Industriekletterer / Höhenarbeiter – Industriereinigung (2 posts),Germany,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-06,,agency,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/215BHBL,CAPEB (Chambre Artisanale du Bâtiment) for a member firm,Cordiste (H/F),France,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-09,,,2026-10-15,200
 groupena.teamtailor.com/jobs/8472750-technicien-cordiste-h-f,Nord Access (Groupe NA),Technicien Cordiste H/F,France,2026-10-12,2026-10-12,2026-10-12,1,closed,2026-09-29,,,2026-10-14,410
 groupena.teamtailor.com/jobs/8479725-technicien-cordiste-h-f,NATS (Groupe NA),Technicien Cordiste H/F (TP),France,2026-10-12,2026-10-12,2026-10-12,1,closed,2026-09-30,,,2026-10-14,410
 groupena.teamtailor.com/jobs/8371045-technicien-cordiste-h-f,Groupe NA (Monaco branch),Technicien Cordiste H/F (Monaco),Monaco,2026-10-12,2026-10-12,2026-10-12,1,closed,2026-09-14,,,2026-10-14,410
 groupena.teamtailor.com/jobs/8371086-technicien-cordiste-h-f,Groupe NA (Cannes branch),Technicien Cordiste H/F (Cannes),France,2026-10-12,2026-10-12,2026-10-12,1,closed,2026-09-14,,,2026-10-14,410
-candidat.francetravail.fr/offres/recherche/detail/215BJVL,EdiliziAcrobatica France,Cordiste – Couvreur/Zingueur (H/F),France,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-09,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214ZVSV,SAS Nature Bois Elagage,Bûcheron cordiste / élagueur (H/F),France,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-09,,,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214ZDPS,ACTUAL Experts Rennes (agency),Chef d'équipe cordiste (H/F),France,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-08,,agency,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214WRGM,Service & Corde,Chef d'équipe cordiste (H/F),France,2026-10-12,2026-10-14,2026-10-12,1,live,2026-10-06,,,2026-10-14,200
-edilalto.it/lavora-con-noi#edilalto-operatore-su-fune,EdilAlto S.r.l.,Operatore su fune,Italy,2026-10-12,2026-10-14,2026-10-12,1,live,,,,2026-10-14,200
-consorziotrivenetorocciatori.it#ctr-personale-da-cantiere,Consorzio Triveneto Rocciatori (CTR),"Personale da cantiere (rocciatori, open hire)",Italy,2026-10-12,2026-10-14,2026-10-12,1,live,,,evergreen,2026-10-14,200
-riggeritalia.com/rigger-italia/jobs-at-rigger-italia#rigger-italia-elettricisti-su-fune,Rigger Italia,Elettricisti su fune,Italy,2026-10-12,2026-10-14,2026-10-12,1,live,,,,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/215BJVL,EdiliziAcrobatica France,Cordiste – Couvreur/Zingueur (H/F),France,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-09,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214ZVSV,SAS Nature Bois Elagage,Bûcheron cordiste / élagueur (H/F),France,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-09,,,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214ZDPS,ACTUAL Experts Rennes (agency),Chef d'équipe cordiste (H/F),France,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-08,,agency,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214WRGM,Service & Corde,Chef d'équipe cordiste (H/F),France,2026-10-12,2026-10-15,2026-10-12,1,live,2026-10-06,,,2026-10-15,200
+edilalto.it/lavora-con-noi#edilalto-operatore-su-fune,EdilAlto S.r.l.,Operatore su fune,Italy,2026-10-12,2026-10-15,2026-10-12,1,live,,,,2026-10-15,200
+consorziotrivenetorocciatori.it#ctr-personale-da-cantiere,Consorzio Triveneto Rocciatori (CTR),"Personale da cantiere (rocciatori, open hire)",Italy,2026-10-12,2026-10-15,2026-10-12,1,live,,,evergreen,2026-10-15,200
+riggeritalia.com/rigger-italia/jobs-at-rigger-italia#rigger-italia-elettricisti-su-fune,Rigger Italia,Elettricisti su fune,Italy,2026-10-12,2026-10-15,2026-10-12,1,live,,,,2026-10-15,200
 candidat.francetravail.fr/offres/recherche/detail/214VZMX,MOTIV Intérim,Cordiste (H/F),France,2026-10-07,2026-10-13,2026-10-07,1,closed,,,backfill-oct7-wave,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214VZTY,MOTIV Intérim,Cordiste (H/F),France,2026-10-07,2026-10-13,2026-10-07,1,closed,,,backfill-oct7-wave,2026-10-14,404
 candidat.francetravail.fr/offres/recherche/detail/214VZRX,MOTIV Intérim,Cordiste (H/F),France,2026-10-07,2026-10-13,2026-10-07,1,closed,,,backfill-oct7-wave,2026-10-14,404
-candidat.francetravail.fr/offres/recherche/detail/214ZVPQ,SAS Nature Bois Elagage,Ouvrier Forestier / Bûcheron Cordiste (saisonnière),France,2026-10-13,2026-10-14,,0,live,,,sister-of-214ZVSV-campaign,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/215CNSV,ALPI,Technicien / Technicienne cordiste (H/F),France,2026-10-13,2026-10-14,2026-10-13,1,live,,,,2026-10-14,200
-groupena.teamtailor.com/jobs/8529414-technicien-cordiste-h-f,Services Voltige / Groupe NA,Technicien Cordiste H/F,France,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,,2026-10-14,200
-groupena.teamtailor.com/jobs/8529409-technicien-cordiste-h-f,Monacro / Groupe NA,Technicien Cordiste H/F (Monaco),Monaco,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,,2026-10-14,200
-groupena.teamtailor.com/jobs/8529287-technicien-cordiste-h-f,Nord Access / Groupe NA,Technicien Cordiste H/F,France,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,,2026-10-14,200
-groupena.teamtailor.com/jobs/8529410-chef-d-equipe-cordiste-h-f,Monacro / Groupe NA,Chef d'équipe Cordiste H/F (Monaco),Monaco,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-groupena.teamtailor.com/jobs/8529406-chef-de-chantier-cordiste-h-f,Groupe NA,Chef de chantier Cordiste H/F,France,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-groupena.teamtailor.com/jobs/8529400-chef-d-equipe-cordiste-h-f,Groupe NA,Chef d'équipe Cordiste H/F (Avelin/Bourbourg),France,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-groupena.teamtailor.com/jobs/8529399-chef-d-equipe-cordiste-h-f,Nord Accès Difficiles / Groupe NA,Chef d'équipe Cordiste H/F (urbain),France,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-offres.emploi-cordiste.fr/listing/conducteur-de-travaux-travaux-sur-cordes-de-maconnerie-et-couverture-h-f,(emploi-cordiste listing),Conducteur de travaux (cordes maçonnerie/couverture) H/F,France,2026-10-13,2026-10-14,2026-10-13,1,live,,,stretch,2026-10-14,200
-offres.emploi-cordiste.fr/listing/chef-dequipe-macon-cordiste-h-f,(emploi-cordiste listing),Chef d'équipe maçon cordiste H/F,France,2026-10-13,2026-10-14,2026-10-13,1,live,,,stretch,2026-10-14,200
-net-empregos.com/16111228/montador-de-andaimes-alpinista,Revestepinta,Montador de Andaimes / Alpinista,Portugal,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-net-empregos.com/16111203/montador-de-andaimes-alpinista-mafra,Revestepinta,Montador de Andaimes / Alpinista (Mafra),Portugal,2026-10-13,2026-10-14,2026-10-13,1,live,2026-10-13,,stretch,2026-10-14,200
-jobs.ch/en/vacancies/detail/91cb04a9-efed-4f37-9c66-96b1b877a923,Bossard & Geiser GmbH,Project Manager Rope Access & Fall Protection (60–100%),Switzerland,2026-10-13,2026-10-14,2026-10-13,1,live,,,stretch,2026-10-14,200
-stepstone.be/jobs--Touwtechnieker-BOOM-Accent-NV--2250561-inline.html,Accent NV (agency),Touwtechnieker (telecom masts),Belgium,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-13,,agency,2026-10-14,200
-career.muehlhan.com/jobs/8478150-wind-turbine-technician,Muehlhan Wind Service,"Wind Turbine Technician (Vestas projects, Europe)",Europe-wide,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-30,,stretch,2026-10-14,200
-career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3,Muehlhan (PAS France),Rope Access Technician with IRATA 3,France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-08,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html,Ventotec Solution,Industriekletterer Rotorblatt Level 1–3 (Seil & Bühne),Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-29,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html,Vogtmann Montage- & Klettertechnik,"Industriekletterer (m/w/d), Vollzeit",Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-29,,,2026-10-14,200
-stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Industriekletterer-Bonn-Inh-Toni-Harbig--14117841-inline.html,Industriekletterer Bonn (Toni Harbig),Vorarbeiter als Industriekletterer (m/w/d),Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-07,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Dachdecker-Industriekletterer-m-w-d-Berlin-Sapiatz-GmbH--14493016-inline.html,Sapiatz GmbH,"Dachdecker, Industriekletterer (m/w/d)",Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-11,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Dachdecker-als-Industriekletterer-m-w-d-bei-3KER-RAS-GROUP-Altona-Hamburg-Hamburg-Piepenbrock-Unternehmensgruppe-GmbH-Co-KG--14594126-inline.html,Piepenbrock / 3KER RAS Group,Dachdecker als Industriekletterer (m/w/d),Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-09,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Monteur-m-w-d-fuer-Sanierungsprojekte-im-Bereich-Windkraftanlagen-Hilden-Supianek-Bauges-mbH--14517977-inline.html,Supianek Baugesellschaft,Monteur (m/w/d) Sanierungsprojekte Windkraftanlagen,Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-02,,stretch,2026-10-14,200
-stepstone.de/stellenangebote--Sachverstaendige-r-fuer-Windenergieanlagen-Kassel-Hessen-Dipl-Ing-Uwe-Scherbaum--14325180-inline.html,Dipl.-Ing. Uwe Scherbaum,Sachverständige/r für Windenergieanlagen,Germany,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-10,,stretch,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214WBQZ,OCEANE Intérim,Cordiste (H/F),France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-30,,agency,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/215DRJV,OCEANE Intérim,"Ouvrier cordiste (H/F), BTP maçonnerie / purge",France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-24,,agency,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/7508385,Solgaleon (partner ad),Conducteur de travaux – travaux sur cordes H/F,France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-10-09,,stretch,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/214WTCZ,BATIBIG,Chargé d'affaires cordiste (H/F),France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-30,,stretch,2026-10-14,200
-candidat.francetravail.fr/offres/recherche/detail/7231329,Mistras France (partner ad),Chargé d'affaires travaux sur cordes H/F,France,2026-10-14,2026-10-14,2026-10-14,1,live,2026-09-16,,stretch,2026-10-14,200
-offres.emploi-cordiste.fr/listing/charge-daffaires-travaux-dacces-difficile-h-f,LPA Lauragais Pyrénées Accès,Chargé d'affaires travaux d'accès difficile (H/F),France,2026-10-14,2026-10-14,2026-10-14,1,live,,,stretch,2026-10-14,200
-offres.emploi-cordiste.fr/listing/chef-dequipe-travaux-en-hauteur,"(emploi-cordiste listing, Occitanie firm)",Chef d'équipe travaux en hauteur,France,2026-10-14,2026-10-14,2026-10-14,1,live,,,stretch,2026-10-14,200
+candidat.francetravail.fr/offres/recherche/detail/214ZVPQ,SAS Nature Bois Elagage,Ouvrier Forestier / Bûcheron Cordiste (saisonnière),France,2026-10-13,2026-10-15,,0,live,,,sister-of-214ZVSV-campaign,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/215CNSV,ALPI,Technicien / Technicienne cordiste (H/F),France,2026-10-13,2026-10-15,2026-10-13,1,live,,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8529414-technicien-cordiste-h-f,Services Voltige / Groupe NA,Technicien Cordiste H/F,France,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8529409-technicien-cordiste-h-f,Monacro / Groupe NA,Technicien Cordiste H/F (Monaco),Monaco,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8529287-technicien-cordiste-h-f,Nord Access / Groupe NA,Technicien Cordiste H/F,France,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8529410-chef-d-equipe-cordiste-h-f,Monacro / Groupe NA,Chef d'équipe Cordiste H/F (Monaco),Monaco,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+groupena.teamtailor.com/jobs/8529406-chef-de-chantier-cordiste-h-f,Groupe NA,Chef de chantier Cordiste H/F,France,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+groupena.teamtailor.com/jobs/8529400-chef-d-equipe-cordiste-h-f,Groupe NA,Chef d'équipe Cordiste H/F (Avelin/Bourbourg),France,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+groupena.teamtailor.com/jobs/8529399-chef-d-equipe-cordiste-h-f,Nord Accès Difficiles / Groupe NA,Chef d'équipe Cordiste H/F (urbain),France,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+offres.emploi-cordiste.fr/listing/conducteur-de-travaux-travaux-sur-cordes-de-maconnerie-et-couverture-h-f,(emploi-cordiste listing),Conducteur de travaux (cordes maçonnerie/couverture) H/F,France,2026-10-13,2026-10-15,2026-10-13,1,live,,,stretch,2026-10-15,200
+offres.emploi-cordiste.fr/listing/chef-dequipe-macon-cordiste-h-f,(emploi-cordiste listing),Chef d'équipe maçon cordiste H/F,France,2026-10-13,2026-10-15,2026-10-13,1,live,,,stretch,2026-10-15,200
+net-empregos.com/16111228/montador-de-andaimes-alpinista,Revestepinta,Montador de Andaimes / Alpinista,Portugal,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+net-empregos.com/16111203/montador-de-andaimes-alpinista-mafra,Revestepinta,Montador de Andaimes / Alpinista (Mafra),Portugal,2026-10-13,2026-10-15,2026-10-13,1,live,2026-10-13,,stretch,2026-10-15,200
+jobs.ch/en/vacancies/detail/91cb04a9-efed-4f37-9c66-96b1b877a923,Bossard & Geiser GmbH,Project Manager Rope Access & Fall Protection (60–100%),Switzerland,2026-10-13,2026-10-15,2026-10-13,1,live,,,stretch,2026-10-15,200
+stepstone.be/jobs--Touwtechnieker-BOOM-Accent-NV--2250561-inline.html,Accent NV (agency),Touwtechnieker (telecom masts),Belgium,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-13,,agency,2026-10-15,200
+career.muehlhan.com/jobs/8478150-wind-turbine-technician,Muehlhan Wind Service,"Wind Turbine Technician (Vestas projects, Europe)",Europe-wide,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-30,,stretch,2026-10-15,200
+career.muehlhan.com/jobs/8516863-rope-access-technician-with-irata-3,Muehlhan (PAS France),Rope Access Technician with IRATA 3,France,2026-10-14,2026-10-14,2026-10-14,1,closed,2026-10-08,,stretch,2026-10-15,410
+stepstone.de/stellenangebote--Industriekletterer-Rotorblatt-Level-1-3-Seil-Buehne-Rostock-Ventotec-Solution--11566958-inline.html,Ventotec Solution,Industriekletterer Rotorblatt Level 1–3 (Seil & Bühne),Germany,2026-10-14,2026-10-14,2026-10-14,1,expired-deadline,2026-09-29,,stretch,2026-10-15,200
+stepstone.de/stellenangebote--Industriekletterer-m-w-d-in-Vollzeit-gesucht-Moenchengladbach-Vogtmann-Montage-Klettertechnik-e-K--14076960-inline.html,Vogtmann Montage- & Klettertechnik,"Industriekletterer (m/w/d), Vollzeit",Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-29,,,2026-10-15,200
+stepstone.de/stellenangebote--Vorarbeiter-als-Industriekletterer-m-w-d-Troisdorf-Industriekletterer-Bonn-Inh-Toni-Harbig--14117841-inline.html,Industriekletterer Bonn (Toni Harbig),Vorarbeiter als Industriekletterer (m/w/d),Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-07,,stretch,2026-10-15,200
+stepstone.de/stellenangebote--Dachdecker-Industriekletterer-m-w-d-Berlin-Sapiatz-GmbH--14493016-inline.html,Sapiatz GmbH,"Dachdecker, Industriekletterer (m/w/d)",Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-11,,stretch,2026-10-15,200
+stepstone.de/stellenangebote--Dachdecker-als-Industriekletterer-m-w-d-bei-3KER-RAS-GROUP-Altona-Hamburg-Hamburg-Piepenbrock-Unternehmensgruppe-GmbH-Co-KG--14594126-inline.html,Piepenbrock / 3KER RAS Group,Dachdecker als Industriekletterer (m/w/d),Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-09,,stretch,2026-10-15,200
+stepstone.de/stellenangebote--Monteur-m-w-d-fuer-Sanierungsprojekte-im-Bereich-Windkraftanlagen-Hilden-Supianek-Bauges-mbH--14517977-inline.html,Supianek Baugesellschaft,Monteur (m/w/d) Sanierungsprojekte Windkraftanlagen,Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-02,,stretch,2026-10-15,200
+stepstone.de/stellenangebote--Sachverstaendige-r-fuer-Windenergieanlagen-Kassel-Hessen-Dipl-Ing-Uwe-Scherbaum--14325180-inline.html,Dipl.-Ing. Uwe Scherbaum,Sachverständige/r für Windenergieanlagen,Germany,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-10,,stretch,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214WBQZ,OCEANE Intérim,Cordiste (H/F),France,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-30,,agency,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/215DRJV,OCEANE Intérim,"Ouvrier cordiste (H/F), BTP maçonnerie / purge",France,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-24,,agency,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/7508385,Solgaleon (partner ad),Conducteur de travaux – travaux sur cordes H/F,France,2026-10-14,2026-10-15,2026-10-14,1,live,2026-10-09,,stretch,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/214WTCZ,BATIBIG,Chargé d'affaires cordiste (H/F),France,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-30,,stretch,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/7231329,Mistras France (partner ad),Chargé d'affaires travaux sur cordes H/F,France,2026-10-14,2026-10-15,2026-10-14,1,live,2026-09-16,,stretch,2026-10-15,200
+offres.emploi-cordiste.fr/listing/charge-daffaires-travaux-dacces-difficile-h-f,LPA Lauragais Pyrénées Accès,Chargé d'affaires travaux d'accès difficile (H/F),France,2026-10-14,2026-10-15,2026-10-14,1,live,,,stretch,2026-10-15,200
+offres.emploi-cordiste.fr/listing/chef-dequipe-travaux-en-hauteur,"(emploi-cordiste listing, Occitanie firm)",Chef d'équipe travaux en hauteur,France,2026-10-14,2026-10-15,2026-10-14,1,live,,,stretch,2026-10-15,200
+candidat.francetravail.fr/offres/recherche/detail/215FSGX,MOTIV Intérim,Cordiste (H/F) — Falaise,France,2026-10-15,2026-10-15,2026-10-15,1,live,2026-10-14,,,2026-10-15,200
+stepstone.de/stellenangebote--Monteur-m-w-d-Koblenz-Hoehenpass-GmbH--14088916-inline.html,Höhenpass GmbH,Monteur (m/w/d) — train path to Industriekletterer,Germany,2026-10-15,2026-10-15,2026-10-15,1,live,2026-10-01,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1001550102-S,Andre Erdmann Special Rope Access,Industriekletterer / Quereinstieg (they train),Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1003292785-S,Tobias Holl Industriekletterer,Industriekletterer/-kletterin (m/w/d),Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1002776213-S,Griesemann Anlagentechnik,Industriekletterer (m/w/d),Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10000-1202281320-S,Kompetenz im Seil Thorsten Schröder,Industriekletterer / Allroundhandwerker (they train),Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10000-1206378458-S,AP Worx,Montagearbeit als Industriekletterer,Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10000-1207438755-S,MittelDeutscheSeiltechnik GmbH,Industriekletterer / Höhenarbeiter (m/w/d),Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,stretch,2026-10-15,200
+arbeitsagentur.de/jobsuche/jobdetail/10001-1003382565-S,Vertikalis GmbH,"Höhenarbeiter / Industriekletterer, Dachdecker, Tischler",Germany,2026-10-15,2026-10-15,2026-10-15,1,live,,,stretch,2026-10-15,200
+groupena.teamtailor.com/jobs/8547407-charge-e-d-affaires-travaux-en-hauteur-h-f,Groupe NA,Chargé(e) d'Affaires Travaux en Hauteur H/F,France,2026-10-15,2026-10-15,2026-10-15,1,live,2026-10-14,,stretch,2026-10-15,200
+olx.pl/oferta/praca/alpinista-przemyslowy-praca-na-wysokosci-zatrudnie-CID4-ID1cuBQC.html,INFRAD&D,Alpinista przemysłowy / praca na wysokości,Poland,2026-10-15,2026-10-15,2026-10-15,1,live,2026-09-28,,,2026-10-15,200
+ss.lv/msg/lv/work/are-required/climber/blhnfj.html,Windfield,Alpīnists / industriālais alpīnists (beginners OK),Latvia,2026-10-15,2026-10-15,2026-10-15,1,live,2026-10-13,,,2026-10-15,200
+groupena.teamtailor.com/jobs/8484577-technicien-cordiste-h-f,BTH / Groupe NA,"Technicien Cordiste H/F (CDI, Mouscron)",Belgium,2026-10-15,2026-10-15,2026-10-11,0,live,2026-10-01,,same lead as closed 8371043; already shown Oct 11 — not re-listed,2026-10-15,200
