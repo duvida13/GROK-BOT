@@ -193,3 +193,10 @@ Rules:
 5. Decide listing per A4; rank per C5.
 6. Write `finds/YYYY-MM-DD.md` per D; update `context/ledger.csv` and `context/learnings.md`.
 7. Message Luis with the link and Top picks.
+
+## E. Closed-page hardening (added 2026-10-14 after Muehlhan IRATA 3 case)
+- Closed phrases now include (any language): "This position is no longer active", "Either the position was filled, or the ad has expired", "no longer accepting", "position has been filled", "ad has expired". Check the raw HTML, not just the HTTP status: career.muehlhan.com (and similar ATS) serve closed ads with HTTP 200 plus that text.
+- HTTP 404 and 410 = closed, always.
+- Final re-check: immediately before pushing the day file, re-fetch every URL being listed and drop any that fail a gate.
+- Morning-after sweep: each run first re-checks every URL listed in the previous day's file; anything now closed goes under `## Closed since last run` with the date it was last seen live, and the ledger row is set to closed.
+- Fast-closing employers (Muehlhan and others seen closing within 24h): flag in notes as "apply same day".
