@@ -1,3 +1,14 @@
+## 2026-10-16 (Friday, PL/RO long-tail)
+
+1. **Top NEW is English blade:** Muehlhan Wind Service `career.muehlhan.com/jobs/8536778-blade-repair-technicians-with-irata-l1-l2` (also on muehlhan.teamtailor.com feed). IRATA L1/L2, Blades EU, Europe location, Apply form live. Sister L3 blade seat 8551836 logged as above-level only.
+2. **France Travail page1:** four Publié-hier cards not previously ledgered — 215GXHM Couvreur ADEQUAT Nantes, 215GXGZ Sprinklers ADEQUAT Aubigny, 215GLMM nacelliste MOTIV Boulogne-sur-Mer, 215GLHD Ouvrier OCEANE Toulon. Detail pages without cookies still need the search-card snippet for employer; title on detail is authoritative.
+3. **BA API v6:** NEW RPG Dachbau Berlin (PSAgA entry). Skipped Schwarzheide ACB/WISAG/Actief/Adecco/INDUVARO clones. IKH/Sapiatz/Piepenbrock/PolyTALENT BA mirrors already covered by prior careers/StepStone keys — do not re-list. Spie Wind StepStone 14532685 ≡ existing spie.de rotor-blade ledger seat.
+4. **Closures (morning-after + ledger):** three older FT cards 404 — SARL T.G.H 214BZGN, CRIT Marmande 214FRVT, RC Intérim avalanche 214XGHP. Yesterday's 12 digest URLs all still live (OLX via curl).
+5. **Deadlines:** CAN FR 214GGPR = 6 days (already had 7-day reminder 15 Oct — next at 2-day on 20 Oct). Hytech finn 477579644 still live, closes 28 Oct (12 days). CGS jobbland still 403.
+6. **Friday PL/RO:** OLX curl-only (requests 403). No NEW industrial alpinista; INFRAD/Everest/Poznań still live. publi24 Nera (12.10), Extreme Forest (13.10), AlpAccess (14.10) are re-dates — AlpAccess stays expired-deadline (no auto-revive). Blade Power /ro/career timed out. pracuj.pl dry. Alpinbist evergreen 200; daas kariera 404; teton timeout.
+7. **No change / dry:** ANETVA Descuelgue re-dated 15 Oct only; Net-Empregos Nuvem 16103208 + ALTURA 77 re-dated 15 Oct only; Groupe NA no new cordiste IDs; CareerStructure 0 rope/IRATA; emploi-cordiste added LPA chef couvreur stretch (garbage `dezd-dezdz` and Oct-2025 projeteur skipped; Nouvelle-Calédonie out of Europe scope).
+8. **Blocked:** jobbland, bladepower timeout, Indeed/Jooble/LinkedIn, jobat, werkzoeken, irata.org staff-only.
+
 # Learnings log
 
 ## 2026-10-15 (Thursday, IE/CZ/PT/LV long-tail)

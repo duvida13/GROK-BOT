@@ -1,9 +1,13 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-15.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-16.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Muehlhan Wind Service (Blade Repair IRATA L1/L2) | Europe | https://career.muehlhan.com/jobs/8536778-blade-repair-technicians-with-irata-l1-l2 | 2026-10-16 | NEW Fri; English; Blades EU; L1/L2; also L3 sister 8551836 |
+| RPG Dachbau GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002830343-S | 2026-10-16 | NEW Fri via BA; Berlin Industriekletterer; PSAgA entry |
+| ARCTEC services | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S | 2026-10-16 | NEW Fri BA; Pulheim agency Konstruktionsmechaniker/Industriekletterer |
+| LPA Lauragais Pyrénées Accès | FR | https://offres.emploi-cordiste.fr/listing/chef-dequipe-couvreur-zingueur-cordiste-h-f/ | 2026-10-16 | NEW Fri stretch; Toulouse chef couvreur-cordiste |
 | Windfield | LV | https://www.ss.lv/msg/lv/work/are-required/climber/blhnfj.html | 2026-10-15 | NEW Thu; Rīga industrial climbers, beginners OK; RU/LV ad 13 Oct |
 | Andre Erdmann Special Rope Access | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001550102-S | 2026-10-15 | NEW Thu; Reddelich Quereinstieg with accompanying rope cert |
 | Tobias Holl Industriekletterer | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003292785-S | 2026-10-15 | NEW Thu; Rosengarten; Quereinstieg; ~€21.50/h |
