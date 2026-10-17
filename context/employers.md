@@ -1,9 +1,30 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-16.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-18.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Tradivel Servicios Integrales S.L. | ES | https://tradivel.epreselec.com/Ofertas/Ofertas.aspx (epreselec ATS; list uses postback, open the card) | 2026-10-18 | NEW Sun; Técnico de verticales ANETVA/IRATA Alicante (15 Oct), IRATA 1–3 accepted, they train; gas-network work; Spanish. Same ad on InfoJobs (captcha) |
+| TGH (Eguilles) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215JGTB — chef 215JGQL | 2026-10-18 | NEW Sun; 50-person rope firm; Cordiste CDI + chef d'équipe (16 Oct) |
+| Toma Intérim (Toulouse) | FR | https://www.hellowork.com/fr-fr/emplois/84548115.html | 2026-10-18 | NEW Sun; HelloWork; 6-month cordiste TP/ouvrages d'art |
+| Sovitrat (Cassis) | FR | https://www.hellowork.com/fr-fr/emplois/84470128.html | 2026-10-18 | NEW Sun; HelloWork; mission 19–30 Oct, talus/falaises |
+| Solano Intérim / Solano Multitech (Avignon) | FR | https://www.hellowork.com/fr-fr/emplois/84478490.html | 2026-10-18 | NEW Sun; HelloWork; cordiste/couvreur, CQP; Salon agency ad 214YLSL already in ledger |
+| Ascenso | FR | https://www.hellowork.com/fr-fr/emplois/78067661.html — https://www.hellowork.com/fr-fr/emplois/78032609.html | 2026-10-18 | NEW Sun; HelloWork older IDs re-dated daily (Mortain CACES R482; Le Havre/Rouen) |
+| LIP Industrie Technique et Nucléaire (Passy) | FR | https://www.hellowork.com/fr-fr/emplois/84470168.html | 2026-10-18 | NEW Sun; HelloWork; Cordiste TP, CQP1/2/CATC + forage |
+| ACP Intérim (Paris) | FR | https://www.hellowork.com/fr-fr/emplois/83472177.html | 2026-10-18 | NEW Sun stretch; 3–5 yrs exp |
+| Infiniteam Bordeaux | FR | https://www.hellowork.com/fr-fr/emplois/83443429.html | 2026-10-18 | NEW Sun stretch; chef cordiste élagueur Cantal |
+| Les Cordistes Rhodaniens (Groupe LTR) | FR | https://candidat.francetravail.fr/offres/recherche/detail/212VPRJ | 2026-10-18 | Sun: chef d'équipe CQP2 card (>30 days) logged as stretch |
+| Altius (Poisy / Chalon-sur-Saône) | FR | https://candidat.francetravail.fr/offres/recherche/detail/7985713 | 2026-10-18 | NEW Sun stretch; chargé d'affaires; FT also shows Altius chef de chantier cordiste (not yet ledgered — check next run) |
+| EXTREM (Arreau) | FR | https://candidat.francetravail.fr/offres/recherche/detail/187YMGX | 2026-10-18 | NEW Sun stretch; chargé d'affaires (>30 days) |
+| ACTUAL SETT PACA (agency) | LU/BE | https://offres.emploi-cordiste.fr/listing/technicien-cordiste-foreur-h-f-2 — sett.paca@groupeactual.eu | 2026-10-18 | Sun stretch; cordiste foreur Clervaux LU / Charleroi BE, start 25 Aug |
+| Phenna Group / Stroma Specialist Access | UK | https://www.totaljobs.com/job/structures-examiner-roped-access/phenna-group-job108142395 | 2026-10-18 | NEW Sun stretch; English; Structures Examiner roped access, Sheffield; validThrough 23 Nov |
+| jouwtechniekbaan.nl (recruiter; blade repair Arnhem) | NL | https://www.jobbird.com/nl/vacature/25568251-service-technician-blade-repair-f-m-d (recruiter page JS-only) | 2026-10-18 | Sun stretch; Dutch required; posted 1 Aug (aging) |
+| HelloWork interim agencies (17 Oct batch) | FR/MC | Intersud 84523320, Partnaire 84519536, Avantage 84517777, Solcis Toulon 84517627, Temporis 84509496, 37 Intérim 84507241, Network Cannes 84497485, 2A Monaco 84492648 (hellowork.com/fr-fr/emplois/<id>.html) | 2026-10-18 | Found 17 Oct (unpublished), listed 18 Oct; HelloWork datePosted/validThrough roll daily — use the ID as the age proxy |
+| Height Solutions BVBA | BE | https://www.stepstone.be/jobs--Allround-technisch-medewerker-VREMDE-Height-Solutions-Bvba--2222214-inline.html | 2026-10-18 | Real vacancy now on StepStone BE (Vremde, no experience needed, Dutch) — supersedes the homepage-only row below |
+| Dachdienst Hamburg (Frank Schmäschke e.K.) | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208104279-S | 2026-10-18 | Found 17 Oct via BA; Quereinstieg, they train |
+| THOR GmbH (Delmenhorst) | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207614935-S | 2026-10-18 | Found 17 Oct via BA; tree + industrial rope mix (stretch) |
+| Vertical Access (UK, Mossley) | UK | https://www.verticalaccess.co.uk/news/now-hiring-irata-l1-2-3-technicians-structures-only — info@verticalaccess.co.uk | 2026-10-18 | Found 17 Oct; L1–L3 structures division, needs CSCS; text sits in the page header block (the text check strips header blocks, so it reads as short) |
+| InfoJobs ES watch (captcha detail pages) | ES | ALTTION (Castellón; also blade repair, administracion2.wind@alttion.com), SIMA Vertical (Pamplona), VÉRTIKA Soluciones (Valencia), DISET Control de Plagas (Barcelona), Nordic Conkret (Arganda), Prosilo (Palencia/Manresa), Blanq Pinturas (Palma), Acces Vertical (Palma/Carboneras), IMDEBA (Barcelona), Iman Tempo (Badajoz), Zubinor (Bilbao), Exterior AESA (Madrid/Barcelona/Andorra), Deuna Verticales, Alturia, Ischebeck Ibérica | 2026-10-18 | Watch; seen in the InfoJobs search JSON (13–16 Oct for the first 11), but detail pages are captcha → unverified. Trace each to its own careers page before listing |
 | Muehlhan Wind Service (Blade Repair IRATA L1/L2) | Europe | https://career.muehlhan.com/jobs/8536778-blade-repair-technicians-with-irata-l1-l2 | 2026-10-16 | NEW Fri; English; Blades EU; L1/L2; also L3 sister 8551836 |
 | RPG Dachbau GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002830343-S | 2026-10-16 | NEW Fri via BA; Berlin Industriekletterer; PSAgA entry |
 | ARCTEC services | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/15160-SNXRTQFCO121QT7R-S | 2026-10-16 | NEW Fri BA; Pulheim agency Konstruktionsmechaniker/Industriekletterer |
