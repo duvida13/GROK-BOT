@@ -1,9 +1,28 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-18.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-19.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| EdiliziAcrobatica Seregno (Lombardia) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/258507cf710d2fbf1d9ce8a7f648c8f4 (also 5db59023…, bd928dff…; lavori.co.it copy Cloudflare) | 2026-10-19 | NEW Mon (listed); operatore su fune, no experience needed, they train; €21–32k; was watch-only on 10-12 |
+| In Corda SRLS (Roma) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/f22d003a9b0a3591acf293d4170fa9e3 — caposquadra https://www.jobijoba.it/annunci-di-lavoro/13/775ef9e3efa08fcc37e784bc09d1e809 | 2026-10-19 | NEW Mon; operaio edile su fune (17 Oct) + caposquadra (18 Oct, stretch) |
+| Blackline Srls (Genova) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/143f46bb4da19793f8a6285b22eea14d | 2026-10-19 | NEW Mon stretch; 1 yr rope + attestato required |
+| DeA costruzioni in quota Srl (Firenze) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/9845c6347aecd788ea60a137ec8373e3 | 2026-10-19 | NEW Mon stretch; 4 muratori su fune, patentino ≥1 yr |
+| Orienta (agency, Rovereto) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/37074189f61509cbc775cbb08a1689ea | 2026-10-19 | NEW Mon stretch; caposquadra edile-rocciatore, San Lorenzo Dorsino (TN) |
+| Subito.it rope ads (unnamed firms) | IT | https://www.subito.it/offerte-lavoro/operatori-su-fune-palermo-664350942.htm (interventinfune@gmail.com) — https://www.subito.it/offerte-lavoro/rocciatore-aosta-662229097.htm | 2026-10-19 | NEW Mon; Palermo trains (13 Oct, ages 18–35); Aosta learners considered (26 Sep). Subito search `annunci-italia/vendita/offerte-lavoro/?q=rocciatore` works with curl |
+| Umana / In Job (agencies for 2High) | IT | Jobijoba 06f5aa4f… (Umana), ac0d1fce… (In Job; injob.com ad from 27 Feb) | 2026-10-19 | Logged as mirrors of 2High ledger rows; not listed |
+| Samsic HR Italia (Jobijoba copies) | IT | Jobijoba 13c97f92… (Roma, 3 Sep), d6e159bf… (Cinisello, 3 Sep) | 2026-10-19 | Watch only; aggregator copies of older Samsic ads, no employer page traced |
+| GP Solution (offshore DE rope access) | DE | https://gpsolution.app/job/8d83b5a0-9af7-4a31-b566-eef99164886c-rope-access-technician-level-2 | 2026-10-19 | Watch; employer + apply behind sign-in; closes 25 Oct; IRATA + renewable offshore, BOSIET/HUET, GWO 5 |
+| Crit (Orléans) | FR | https://www.hellowork.com/fr-fr/emplois/84432906.html | 2026-10-19 | NEW Mon; cordiste, interim → CDI, €12–15/h |
+| Toma Intérim (Tours) | FR | https://www.hellowork.com/fr-fr/emplois/83361489.html | 2026-10-19 | NEW Mon; cordiste TP |
+| KELYPS Lyon BTP | FR | https://www.hellowork.com/fr-fr/emplois/84428805.html | 2026-10-19 | NEW Mon; cordiste Lyon |
+| Temporis Intérim (La Ciotat; Laître-sous-Amance) | FR | https://www.hellowork.com/fr-fr/emplois/83490281.html — https://www.hellowork.com/fr-fr/emplois/84429610.html | 2026-10-19 | NEW Mon; two cordiste ads |
+| Geny Interim (Saint-Laurent-du-Var) | FR | https://www.hellowork.com/fr-fr/emplois/84435012.html | 2026-10-19 | NEW Mon |
+| Les Experts de l'emploi | FR | https://www.hellowork.com/fr-fr/emplois/84411992.html (+84411994/971/968/962/952/940) | 2026-10-19 | NEW Mon; one 7-city cordiste campaign |
+| Gezim France (cordistes) | FR | https://www.hellowork.com/fr-fr/emplois/83479767.html | 2026-10-19 | NEW Mon stretch; Aragnouet TP, CQP/CATC + drilling |
+| Menco (Saint-Herblain) | FR | https://www.hellowork.com/fr-fr/emplois/81418066.html | 2026-10-19 | NEW Mon stretch; cordiste ACQPA |
+| SOCOTEC CND | FR | https://www.hellowork.com/fr-fr/emplois/76748527.html | 2026-10-19 | NEW Mon above-level; IRATA 2–3 CDI |
+| Harmony Fire | UK | https://www.totaljobs.com/job/height-safety-service-engineer-london-se-midlands/harmony-fire-limted-job108175996 | 2026-10-19 | NEW Mon stretch; English; height safety service engineer; validThrough 25 Nov |
 | Tradivel Servicios Integrales S.L. | ES | https://tradivel.epreselec.com/Ofertas/Ofertas.aspx (epreselec ATS; list uses postback, open the card) | 2026-10-18 | NEW Sun; Técnico de verticales ANETVA/IRATA Alicante (15 Oct), IRATA 1–3 accepted, they train; gas-network work; Spanish. Same ad on InfoJobs (captcha) |
 | TGH (Eguilles) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215JGTB — chef 215JGQL | 2026-10-18 | NEW Sun; 50-person rope firm; Cordiste CDI + chef d'équipe (16 Oct) |
 | Toma Intérim (Toulouse) | FR | https://www.hellowork.com/fr-fr/emplois/84548115.html | 2026-10-18 | NEW Sun; HelloWork; 6-month cordiste TP/ouvrages d'art |
