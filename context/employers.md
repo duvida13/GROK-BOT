@@ -1,9 +1,30 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-19.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-20.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Bellini Personal AG (agency, axxeva group) | CH | https://www.jobscout24.ch/de/job/e008e3f0-2b1a-4093-aded-d1edb054c2a4/ (Chur; also 474c94bb Chur, 125c2a40/229288ca/91f52f3c Lungern, 4b0b9a58/9f4d8f35 Bern, 71123506 Brugg, 83d5f5cb Rapperswil, c80d20e7 Luzern) | 2026-10-20 | REPOSTED Tue; Industriekletterer direct permanent hire, campaign re-published 18 Oct with new IDs after old Chur card 78e7c036 went 410; jobscout24 detail pages carry the full text (no JSON-LD) — read client town from "Für unseren Kunden in …" |
+| PROMAN / Cordial Intérim (Rennes) | FR | https://www.hellowork.com/fr-fr/emplois/84576399.html (+84578365/349/277/260, 84577970/888/558/206, 84576787/721/657/650/531/331, 84575975) | 2026-10-20 | NEW Tue; 16-city cordiste campaign; most cards accept CQP1/CQP2/CATS or IRATA; €12.50–14/h + grand déplacement. Older FT multi-site row 214NVGH is closed |
+| LIP Industrie Technique et Nucléaire | FR | https://www.hellowork.com/fr-fr/emplois/84588060.html (+84588081/066/056/043/025/054/036; chef 84588061) | 2026-10-20 | NEW Tue; 8-city cordiste campaign for one rope client, CQP1/CQP2/CATC required, €13/h (chef €14/h). Earlier Passy card 84470168 listed 10-18 |
+| Solano Intérim (Multitech Aix) | FR | https://www.hellowork.com/fr-fr/emplois/84592759.html | 2026-10-20 | NEW Tue; Marseille cordiste couvreur, CQP1 |
+| asap.work | FR | https://www.hellowork.com/fr-fr/emplois/84584998.html | 2026-10-20 | NEW Tue; Marseille cordiste €14/h |
+| Logic Intérim | FR | https://www.hellowork.com/fr-fr/emplois/84583557.html | 2026-10-20 | NEW Tue; Strasbourg cordiste |
+| PNS Intérim (Nancy) | FR | https://www.hellowork.com/fr-fr/emplois/84563377.html | 2026-10-20 | NEW Tue; CQP1/2 + medical |
+| Temporis Intérim (Lyon Vaise) | FR | https://www.hellowork.com/fr-fr/emplois/83511463.html | 2026-10-20 | NEW Tue; étanchéité cordiste, 2-week renewable |
+| Sovitrat (Lyon) | FR | https://www.hellowork.com/fr-fr/emplois/76922002.html | 2026-10-20 | NEW Tue (older id); experienced cordiste |
+| Adéquat T.G.H (Paris 12e) | FR | https://www.hellowork.com/fr-fr/emplois/76853790.html | 2026-10-20 | NEW Tue (older id); cordiste couvreur €2,751–3,300/month |
+| Crit (Lourdes) | FR | https://www.hellowork.com/fr-fr/emplois/84581399.html | 2026-10-20 | NEW Tue stretch; CQP + 2–5 yrs |
+| Groupe Balas | FR | https://www.hellowork.com/fr-fr/emplois/76901144.html | 2026-10-20 | NEW Tue stretch; Gennevilliers CQP2 CDI |
+| Manpower Conseil Recrutement Corrèze (client: rope NDT firm) | FR | https://www.hellowork.com/fr-fr/emplois/83517462.html | 2026-10-20 | NEW Tue stretch; Tulle inspecteur CND cordiste CDI €30–40k |
+| Groupe NGE / NGE Fondations (Drap) | FR | https://www.hellowork.com/fr-fr/emplois/78102707.html (chef) — cordiste 78102725 | 2026-10-20 | NEW Tue stretch (chef d'équipe); cordiste card logged as likely mirror of FT 215CNSV ALPI Drap |
+| Piepenbrock / 3KER RAS Group (Hamburg) | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-3146611_4088538-S — L3: 13103-3146543_4088567-S — Dachdecker 13103-3146612_4088540-S — Maurer 13103-3146604_4088451-S | 2026-10-20 | NEW Tue via BA (first published 19 Oct); FISAT/IRATA L1–3 or trained; trade + good German; start 1 Dec. StepStone Dachdecker card 14594126 already in ledger |
+| Krafthoff GmbH (Recklinghausen) | DE | https://www.stepstone.de/stellenangebote--Maler-in-und-Lackierer-in-Bauten-und-Korrosionsschutz-Instandhaltung-Recklinghausen-Westfalen-Krafthoff-Gmbh--14129345-inline.html (+ Vorarbeiter 14212501) | 2026-10-20 | NEW Tue trade stretch; corrosion protection, Industriekletterer welcome |
+| XEIAD (British Engineering Services Group) | UK | https://www.totaljobs.com/job/structures-inspector/b-e-s-limited-job108139725 (+108142269, engineers 108142272/108156087) | 2026-10-20 | NEW Tue stretch; English; structures inspector using rope access/confined space, ~£40k |
+| Grupa POOD (Białystok) | PL | https://www.olx.pl/oferta/praca/alpinista-przemyslowy-pracownik-wysokosciowy-CID4-ID1cQum4.html — info at grupa-pood.pl | 2026-10-20 | NEW Tue; alpinista przemysłowy, beginners trained (OLX 19 Oct) |
+| Synsel Techniek (agency) | NL | https://www.jobbird.com/nl/vacature/26054225-sr-monteur-windturbines (+25919322, 25919323, 26053807) | 2026-10-20 | Watch; Lelystad Sr monteur windturbines (blade repair with rope access, NL+EN), Jobbird only, not found on synsel.nl/vacatures |
+| jouwtechniekbaan.nl (client: special services firm, Rotterdam) | NL | https://www.jobbird.com/nl/vacature/25857452-projectleider-special-services | 2026-10-20 | Watch; projectleider rope access/drones/painting (HBO), management only |
+| Acces Vertical SL (Palma) | ES | InfoJobs search JSON only (19 Oct "Técnico/a en trabajos verticales"); own site did not respond | 2026-10-20 | Watch; captcha detail, unverified |
 | EdiliziAcrobatica Seregno (Lombardia) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/258507cf710d2fbf1d9ce8a7f648c8f4 (also 5db59023…, bd928dff…; lavori.co.it copy Cloudflare) | 2026-10-19 | NEW Mon (listed); operatore su fune, no experience needed, they train; €21–32k; was watch-only on 10-12 |
 | In Corda SRLS (Roma) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/f22d003a9b0a3591acf293d4170fa9e3 — caposquadra https://www.jobijoba.it/annunci-di-lavoro/13/775ef9e3efa08fcc37e784bc09d1e809 | 2026-10-19 | NEW Mon; operaio edile su fune (17 Oct) + caposquadra (18 Oct, stretch) |
 | Blackline Srls (Genova) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/143f46bb4da19793f8a6285b22eea14d | 2026-10-19 | NEW Mon stretch; 1 yr rope + attestato required |
