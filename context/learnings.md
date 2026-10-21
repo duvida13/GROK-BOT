@@ -1,3 +1,14 @@
+## 2026-10-22 (Thursday, IE/CZ/PT/LV long-tail)
+
+1. **Muehlhan feed diff (jobs.json vs yesterday's copy) gave the only new English rope job:** Blade Repair Technician 8582599 (+8582582, identical text) posted 21 Oct, Blades EU, JSON-LD location Denmark, no IRATA level stated. Diffing the stored feed copy against today's is quicker than ledger lookups because most Muehlhan rows are non-rope roles we never ledger.
+2. **Employer careers-page sweep (106 URLs from employers.md for NL/UK/NO/IE/PT/ES/CZ/LV/BE/DK/SE) found FairWind blade-repair-technicians never listed** (Level I entry tier, datePublished 2026-06-08 → listed once as aging). Blade-D page (Jan) logged only. Bilfinger heightspecialists 2022 pages and Shorterm constructionjobboard 3726108 stay watch.
+3. **BA API v6:** Ge:Net Clausthal (met masts, FISAT/IRATA) NEW; RPG Dachbau Berlin old ref 10001-1002830343-S → 410 and new ref 10000-1208374295-S 21 Oct = REPOSTED. Rope Access / Seilzugangstechniker queries return 0.
+4. **France:** HelloWork p1 gave 11 unlogged ids (84.64–84.66M ≈ 21 Oct + Force 79220881, Ascenso 76814278/76814116 re-dated). Interaction + Artus Cholet = same client site as Allia 84621824 (listed 10-21), kept as separate agency postings. France Travail range page (`range=20-39`) now redirects to `/offres/emploi/cordiste/s9m21`, so ft1 = ft2; card text from the listing is the only detail source (detail pages are JS). FT 214XTHN OCEANE 404.
+5. **Italy (Jobijoba):** EDAC Seregno = REPOSTED Acrobatica Seregno (closed 10-20); ALPI Trieste rocciatore NEW; Milan P.IVA freelance stretch; Blackline Genova re-post with identical text = mirror.
+6. **Long-tail IE/CZ/PT/LV dry:** irishjobs 403, Indeed IE 403, jobs.ie/RecruitIreland no rope ads; volnamista search URLs 404 (`/hledani`) and the site is JS-only, so only known volnamista ads are re-checked; jobs.cz/prace.cz noise; Net-Empregos only WORKALPINDUSTRY re-post 16153039 (≡ 16019842); ss.lv only Falkors builders (Aug); cv.lv noise.
+7. **Altrad NL Recruitee:** web search showed 'Rope Access Supervisor (IRATA 3)' Drachten (published 13 Oct) but the /api/offers feed (17 offers) does not include it → treat as closed per B5.
+8. **Ledger:** 503 rows, 375 live, 80 closed, 4 expired-deadline, 44 unverified (Jobbird ×2 503). All 23 items listed 10-21 still live. 19 new + 2 reposts listed; 8 mirror/aging rows added. No 7/2-day reminders (next: Hytech 477134741 7-day on 10-24). CAN 214GGPR closes today → mark expired on 10-23.
+
 ## 2026-10-21 (Wednesday, BE + DK + AT light)
 
 1. **BA API:** `rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs` now returns 403; **v6** (`pc/v6/jobs?was=<q>&size=100&veroeffentlichtseit=7`, header `X-API-Key: jobboerse-jobsuche`) works; refs are in `referenznummer`. Gave Max Bögl Sengenthal (FISAT 1/2 or IRATA 1/2, wind towers; employer copy on finest-jobs 1328528), the day's best cert fit. Hößl Ausbildung (410 on 10-20) is back 200, edited 10-20, so it is listed as REPOSTED.

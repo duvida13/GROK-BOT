@@ -1,9 +1,28 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-21.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-22.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Ge:Net GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003890305-S | 2026-10-22 | NEW Thu; Clausthal-Zellerfeld wind-measurement masts, national + worldwide projects; trade apprenticeship + FISAT or IRATA; no local residence needed |
+| RPG Dachbau GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208374295-S (old 10001-1002830343-S 410 on 10-22) — jobs@rpg-gruppe.de (from the ad; never contact) | 2026-10-22 | REPOSTED Thu; Berlin roofs/façades Industriekletterer; FISAT/IRATA, PSAgA enough to start |
+| Muehlhan Wind Service (Blades EU) | EU | https://career.muehlhan.com/jobs.json — new 8582599 (+8582582 same text) Blade Repair Technician | 2026-10-22 | NEW Thu; English blade repair, location Europe/Denmark; no level stated; fast closer |
+| FairWind (blade) | PT / EU | https://fairwind.com/en/job-opening/blade-repair-technicians/ (datePublished 2026-06-08); blade-d-technicians (2026-01-23, Blade D cert) | 2026-10-22 | Blade Repair Level I entry tier listed once as aging Thu; Blade D logged only |
+| Interaction (Cholet) / Artus Intérim (Chemillé) | FR | https://www.hellowork.com/fr-fr/emplois/84643549.html — https://www.hellowork.com/fr-fr/emplois/84662879.html | 2026-10-22 | NEW Thu; same Cholet drilling/bolting site as Allia 84621824 (10-21) |
+| PROMAN (Lourdes) | FR | https://www.hellowork.com/fr-fr/emplois/84659093.html (+84658214 maçon) | 2026-10-22 | NEW Thu; cordiste manœuvre/maçon TP €12.72/h |
+| Crit (Dunkerque) | FR | https://www.hellowork.com/fr-fr/emplois/84652887.html | 2026-10-22 | NEW Thu stretch; CQP or IRATA + 2–5 yrs; Cormeilles-en-Parisis |
+| JOB & Vous | FR | https://www.hellowork.com/fr-fr/emplois/84643090.html | 2026-10-22 | NEW Thu stretch; Castanet-Tolosan urban cordiste 2 yrs |
+| Athena Intérim (Lyon) | FR | https://www.hellowork.com/fr-fr/emplois/84641644.html | 2026-10-22 | NEW Thu stretch; CQP1/2/CATC |
+| Force Intérim (Nice) | FR | https://www.hellowork.com/fr-fr/emplois/79220881.html | 2026-10-22 | NEW to us Thu; must live in 06; CQP or IRATA/CATC |
+| Ascenso (Domène/Chambéry hydro NDT client) | FR | https://www.hellowork.com/fr-fr/emplois/76814278.html (+76814116 chef) | 2026-10-22 | NEW to us Thu stretch; Bac+2 + CQP1, night shifts |
+| Triangle Intérim (Besançon) | FR | https://www.hellowork.com/fr-fr/emplois/84651905.html | 2026-10-22 | NEW Thu stretch; chef d'équipe |
+| Tout Corde d'Etat (TCE) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215MKYZ | 2026-10-22 | NEW Thu; Nice family rope firm, chef d'équipe CDI |
+| OCEANE Intérim (Montpellier) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215LYVJ | 2026-10-22 | NEW Thu; 214XTHN closed 404 same day |
+| Appel Intérim Briançon | FR | https://candidat.francetravail.fr/offres/recherche/detail/215KXRT | 2026-10-22 | NEW Thu; Montgenèvre technicien cordiste |
+| ALPI srl (Trieste) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/9b0cf6e2c694f9e69b2a1d9daa2fcc7b | 2026-10-22 | NEW Thu; rocciatore FVG, skilled or to be trained |
+| EdiliziAcrobatica (EDAC Seregno) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/19989b8859c496aa8c34e467a0367203 | 2026-10-22 | REPOSTED Thu (old 258507cf 410 on 10-20); trains beginners |
+| Bezpečnostzavás.cz | CZ | https://www.volnamista.cz/nabidka-prace/specialistatka-na-vyskove-prace/209783520 | 2026-10-22 | Aging (2026-01-23) Plzeň; sister of Službyzavás 179456705; logged only |
+| Altrad Services Benelux | NL | https://bnlaltradservices.recruitee.com/api/offers/ | 2026-10-22 | Feed has 17 offers, no rope access; IRATA 3 supervisor seen in web search not in feed = closed |
 | Max Bögl Bauservice GmbH & Co. KG | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2361028-S — employer ad copy https://www.finest-jobs.com/stellenanzeige/Industriekletterer-Servicetechniker-D-Fisat-Level--1328528?cp=BA | 2026-10-21 | NEW Wed; Sengenthal; wind-tower (concrete/hybrid/steel) repair on ropes; FISAT 1/2 or IRATA 1/2 accepted; German |
 | Start & Jobs (agency) | FR | https://www.hellowork.com/fr-fr/emplois/82481852.html | 2026-10-21 | NEW Wed; Reims cordiste €16/h for a rope-access firm (silos, industry, some wind); CQP or IRATA accepted |
 | Allia Intérim Angers | FR | https://www.hellowork.com/fr-fr/emplois/84621824.html | 2026-10-21 | NEW Wed; Cholet drilling/bolting cordiste €13.50/h |
