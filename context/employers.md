@@ -1,9 +1,28 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-22.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-23.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Dominion / Altac (ECIberia) | ES / PT | https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-irata/ — ECIberia-Altac@dominion-global.com (from the ad; never contact) | 2026-10-23 | NEW Fri; 2 IRATA vertical specialists for chimney civil works, zone Portugal; ANETVA card dated 22 Oct (seen on board 10-21/10-22 too) |
+| WNG Telecon sp. z o.o. (Telecon Systems GmbH group) | PL / DE | https://www.pracuj.pl/praca/alpinista-monter-konstrukcji-stalowych-niemcy,oferta,12325355 | 2026-10-23 | NEW Fri; telecom-mast steel assembly in Germany, no rope exp needed, German/English welcome, housing + travel paid; validThrough 2026-11-16 |
+| PUT KOSTRO Spółdzielnia Pracy (Płock) | PL | https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370 | 2026-10-23 | NEW Fri; alpinista przemysłowy, IRATA + English a plus |
+| GREKOM sp. z o.o. (Gdańsk) | PL | https://www.pracuj.pl/praca/alpinista-monter-gdansk-chwaszczynska-10,oferta,1005174130 | 2026-10-23 | NEW Fri; alpinista-monter, telecom towers, northern PL |
+| DABTELECOM (Alexandria) | RO | https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/firma-telecomunicatii-angajam-alpinist-utilitar/38072d7d28167g442e7de11h5g5f9f39.html | 2026-10-23 | NEW Fri; telecom alpinist, trains on the job, per diem + housing (7 Sep) |
+| Dinamic Alpin 78 (Galați) | RO | https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/muncitori-constructii/anunt/angajez-persoana-pt-curs-alpinism/fd6146fh01ff7d34d89d6f16i18gh1e6.html | 2026-10-23 | NEW Fri; beginners, free course (29 Sep) |
+| WWW Telecom Technologies SRL (Cluj) | RO | https://www.publi24.ro/anunturi/locuri-de-munca/it-telecomunicatii/anunt/alpinist-utilitar-si-sef-de-echipa-telecomunicatii/67e8i3f8612d73f1e731688gfei0239f.html | 2026-10-23 | NEW Fri; telecom alpinist + team lead (21 Oct) |
+| CRT (Târgoviște) / Ploiești telecom contractor | RO | publi24 118h7ee7 (+4i906ege, 67e9d499 copies); publi24 h32d4g6hh | 2026-10-23 | NEW Fri stretch; telecom climbers for Austria / 80% abroad |
+| SPIE SAG (CityNetworks & Grids) | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-fbdc561c-0b9c-464a--S (full ad on HeyJobs) | 2026-10-23 | NEW Fri; Rigger/Höhenarbeiter Messe Nürnberg |
+| MOTIV Intérim Évreux | FR | https://candidat.francetravail.fr/offres/recherche/detail/215NTDS (+7 campaign cards 215NVQQ/NVPJ/NMXG/NMWH/MCWQ/NMNB/NMMN) | 2026-10-23 | NEW Fri; 8-ad batch on 22 Oct, one lead |
+| TOMA Intérim (Orange) / CAMO 100 / INTEGRAL / ADEQUAT Saint-Nazaire | FR | FT 215NNMZ / 215NWHY / 215NVHW / 215NSWK | 2026-10-23 | NEW Fri; TOMA main, others team-lead/roofer stretch |
+| WellJob Intérim (Lyon) | FR | https://www.hellowork.com/fr-fr/emplois/84704201.html | 2026-10-23 | NEW Fri; level 1/2 rope course or equivalent |
+| Temporis Intérim (Cagnes-sur-Mer) | FR | https://www.hellowork.com/fr-fr/emplois/83597326.html | 2026-10-23 | NEW to us Fri; Nice, CQP or IRATA |
+| Start & Jobs (Lille) | FR | https://www.hellowork.com/fr-fr/emplois/82560960.html | 2026-10-23 | NEW to us Fri; Lille, CQP or equivalent (Reims ad 82481852 separate) |
+| CAN / KAEFER France / LPA / REZOLIBRI / Morgan / LIP | FR | HelloWork 75906232 / 81508705 / 81535243 / 84706625 / 84708610 / 84691395 / 84685878 | 2026-10-23 | NEW Fri stretch (team lead, IRATA 3 nuclear, 3–5 yrs, ACQPA, local-only) |
+| LavoropiÙ (Roma) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/30d2059c483e6bb01635e53e7d570b5b | 2026-10-23 | NEW Fri stretch; Modulo A + rope experience |
+| In Corda SRLS (Roma) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/f22d003a9b0a3591acf293d4170fa9e3 | 2026-10-23 | REPOSTED Fri (410 on 10-22, re-posted same URL 22 Oct) |
+| Kirata Ltd (UK) | UK | LinkedIn post only — dmitrij@kirataltd.co.uk (from post; never contact) | 2026-10-23 | Watch; L1/L2 window-cleaning Manchester, LinkedIn-only = not live |
+| EcoFarm Solutions (Faro) | PT | https://emprego24.pt/rope-access_faro-c398219/2026-10-ecofarm-solutions_i4238442515 | 2026-10-23 | Watch/unverified; emprego24 403, aggregator-only, 2 yrs exp |
 | Ge:Net GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003890305-S | 2026-10-22 | NEW Thu; Clausthal-Zellerfeld wind-measurement masts, national + worldwide projects; trade apprenticeship + FISAT or IRATA; no local residence needed |
 | RPG Dachbau GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1208374295-S (old 10001-1002830343-S 410 on 10-22) — jobs@rpg-gruppe.de (from the ad; never contact) | 2026-10-22 | REPOSTED Thu; Berlin roofs/façades Industriekletterer; FISAT/IRATA, PSAgA enough to start |
 | Muehlhan Wind Service (Blades EU) | EU | https://career.muehlhan.com/jobs.json — new 8582599 (+8582582 same text) Blade Repair Technician | 2026-10-22 | NEW Thu; English blade repair, location Europe/Denmark; no level stated; fast closer |

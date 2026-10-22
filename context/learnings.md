@@ -1,3 +1,14 @@
+## 2026-10-23 (Friday, PL/RO long-tail)
+
+1. **pracuj.pl keyword URLs work with curl** (`/praca/alpinista;kw`, `/praca/irata;kw`, `/praca/rope%20access;kw`): 3 NEW alpinista ads (WNG Telecon for Germany with German/English welcome, KOSTRO Płock, GREKOM Gdańsk). JSON-LD gives datePosted/validThrough. Earlier Fridays reported pracuj dry; keep it in the Friday set.
+2. **publi24 `?q=alpinist+utilitar` + `?q=alpinist`:** 5 NEW RO ads (DABTELECOM trains, Dinamic Alpin free course, WWW Telecom Cluj, Ploiești telecom 80% abroad, CRT Austria). The 'it-telecomunicatii' category is a new yield pocket. romjob mirrors share the publi24 id; logged as mirror rows. AlpAccess/Extreme Forest/Nera/Kreativ = re-dates only.
+3. **OLX:** only arborist/tree-felling and a Windar painter ad (not rope access). ejobs/bestjobs/hipo noise. PL/RO careers pages unchanged (no dated vacancies).
+4. **ANETVA Dominion/Altac 'Especialista trabajos verticales obra civil IRATA' (zone Portugal)** appeared in the 10-21/10-22 scans but was never ledgered; caught today by diffing scan output against the ledger rather than against yesterday's scan. Lesson: diff against the ledger, not only yesterday's scan file.
+5. **Totaljobs job pages now fail (HTTP/2 stream INTERNAL_ERROR, curl 000)** while the search page loads; 6 UK rows set unverified (not closed). B.E.S. 108150813/108142387 Structures Inspector cards seen on the search page, not verifiable, not ledgered.
+6. **France:** FT page 1 gave the MOTIV Évreux 8-ad batch (one lead + 7 campaign rows), TOMA Orange, CAMO, INTEGRAL, ADEQUAT Saint-Nazaire; Guadeloupe 215NBBC logged out of scope. HelloWork gave 5 new ids (84.68–84.70M ≈ 22 Oct) plus 7 older ids re-dated; Ascenso 76983929/77065222 logged as sisters of yesterday's listings.
+7. **Repost:** In Corda Roma jobijoba f22d003a 410 on 10-22 → live again today with datePosted 22 Oct = REPOSTED (closed then live, our check saw it closed). Jobijoba EdiliziAcrobatica Arezzo ca8bf7a6 appeared on the list but was 410 on fetch.
+8. **Ledger:** 554 rows, 401 live, 97 closed, 5 expired-deadline, 51 unverified. 18 closed this run (3 of yesterday's 21 listings; CAN 214GGPR deadline passed/404). Listed 26 new + 1 repost. No 7/2-day reminders today; Hytech 477134741 7-day reminder due 10-24, Hytech 477579644 2-day due 10-26.
+
 ## 2026-10-22 (Thursday, IE/CZ/PT/LV long-tail)
 
 1. **Muehlhan feed diff (jobs.json vs yesterday's copy) gave the only new English rope job:** Blade Repair Technician 8582599 (+8582582, identical text) posted 21 Oct, Blades EU, JSON-LD location Denmark, no IRATA level stated. Diffing the stored feed copy against today's is quicker than ledger lookups because most Muehlhan rows are non-rope roles we never ledger.
