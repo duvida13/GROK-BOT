@@ -1,9 +1,16 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-23.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-24.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Levelon (Madrid) | ES | https://www.anetva.org/oferta-de-empleo/peon-especialista-oficial-de-trabajos-verticales-albanil/ — contacto@levelon.es (from the ad; never contact) | 2026-10-24 | NEW Sat; 2 façade/masonry rope jobs, ANETVA OF-BASIC or IRATA 1 accepted, masonry experience required; ANETVA card dated 23 Oct |
+| Työ (TYO Travaux Spéciaux) | FR | https://www.hellowork.com/fr-fr/emplois/84725758.html | 2026-10-24 | NEW Sat; CDI cordistes, Le Havre dismantling project; IRATA/CQP/SPRAT appreciated |
+| Aboutir Emploi (La Baule) / Infiniteam Dijon / PNS Nice / Manpower Toulouse / Groupe Oxygène / LIP / CAN Meyreuil | FR | HelloWork 84735681 / 84731999 (+84731988 CQP2) / 84728501 / 84743383 / 81180686 / 84752163 (+84745640) / 80454222 | 2026-10-24 | NEW Sat; Aboutir + Infiniteam CQP1 main, rest stretch (CQP2/CATC, team lead, 3+ yrs) |
+| HelloWork agency re-issues (24 Oct) | FR | Avantage 84517777→84747993, Solcis 84517627→84744077 and 84515775→84742607, Intersud 84757019 (≡ 84523320) | 2026-10-24 | Old ids 'n'est plus disponible', same text re-issued 23 Oct = mirrors, not re-listed |
+| DeA costruzioni in quota Srl (Firenze) | IT | https://www.jobijoba.it/annunci-di-lavoro/13/4cca57d6891eeea4795e63d77ae5dff2 (old 9845c634 410 from 10-21) | 2026-10-24 | REPOSTED Sat (stretch) |
+| Ymatch (Rotterdam, for an insulation firm) | NL | https://www.ymatch.nl/vacatures/senior-rope-acces-technician-irata-level-3/ | 2026-10-24 | Watch/unverified; TLS error from box; IRATA 3 senior = stretch anyway |
+| Alpha Recruitment (Skipton) | UK | CareerJet/yorkshire.com only (careerjet.co.uk/jobad/gb16927a14b32e5c8a5188b578378f0eff) | 2026-10-24 | Watch; IRATA L1 geotechnical 2-week temp posted 12 Oct, aggregator-only, not live per B7 |
 | Dominion / Altac (ECIberia) | ES / PT | https://www.anetva.org/oferta-de-empleo/especialista-trabajos-verticales-obra-civil-irata/ — ECIberia-Altac@dominion-global.com (from the ad; never contact) | 2026-10-23 | NEW Fri; 2 IRATA vertical specialists for chimney civil works, zone Portugal; ANETVA card dated 22 Oct (seen on board 10-21/10-22 too) |
 | WNG Telecon sp. z o.o. (Telecon Systems GmbH group) | PL / DE | https://www.pracuj.pl/praca/alpinista-monter-konstrukcji-stalowych-niemcy,oferta,12325355 | 2026-10-23 | NEW Fri; telecom-mast steel assembly in Germany, no rope exp needed, German/English welcome, housing + travel paid; validThrough 2026-11-16 |
 | PUT KOSTRO Spółdzielnia Pracy (Płock) | PL | https://www.pracuj.pl/praca/alpinista-alpinistka-przemyslowy-plock-witolda-zglenickiego-42a,oferta,1005155370 | 2026-10-23 | NEW Fri; alpinista przemysłowy, IRATA + English a plus |

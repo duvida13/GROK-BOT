@@ -1,3 +1,12 @@
+## 2026-10-24 (Saturday, weekend catch-up: NL/UK/NO/ES/PT/IE/DK/BE)
+
+1. **Full ledger re-check (540 URLs) + curl retry:** 13 rows closed, all 27 items listed 10-23 still live. Hytech 477134741 7-day reminder shown (closes 31 Oct); Hytech 477579644 2-day reminder due 10-26.
+2. **HelloWork agency re-issues:** Avantage 84517777, Solcis 84517627/84515775 went 'n'est plus disponible' and the same text came back under new ids (84747993, 84744077, 84742607) on 23 Oct; Intersud 84757019 duplicates live 84523320. Logged as mirrors, not REPOSTED (same-day swap, no closed gap seen by us). Same rule for Jobijoba Gi Group Cuneo (d4fa06ee 410 → 41eb3721, listed as REPOSTED only 3 days ago).
+3. **DeA Toscana = REPOSTED:** old Jobijoba 9845c634 410 since 10-21, new copy 4cca57d6 dated 23 Oct (closed gap of 3 days seen by our checks).
+4. **Yield:** HelloWork p1–2 gave 12 new ids (84.72–84.75M ≈ 23 Oct; 9 listed, rest mirrors); ANETVA gave Levelon Madrid (IRATA 1 accepted, masonry experience). FT 215PMXP Job&Vous ≡ LPA Castanet.
+5. **Thin countries dry:** employer careers-page sweep (74 URLs from employers.md for NL/UK/NO/ES/PT/IE/DK/SE/BE/EU) found no new rope links; Altrad NL rope supervisor/uitvoerder Recruitee pages 404 and absent from /api/offers (web search still shows them = stale index). Web search: Ymatch IRATA 3 Rotterdam (TLS error, unverified), Alpha Recruitment Skipton L1 (CareerJet-only, 12 Oct, 2 weeks) = watch only. finn/NAV only Hytech. Muehlhan feed diff: 'Wind Turbine Technician' 8607940 = experienced service tech, not rope, not ledgered.
+6. **Blocked:** Indeed (403), cv-library, irishjobs, werkzoeken, bakeca (403), ymatch (TLS), globalenergyjobs/trovalavoro (no response). acrobaticagroup posizionisc feed only office roles.
+
 ## 2026-10-23 (Friday, PL/RO long-tail)
 
 1. **pracuj.pl keyword URLs work with curl** (`/praca/alpinista;kw`, `/praca/irata;kw`, `/praca/rope%20access;kw`): 3 NEW alpinista ads (WNG Telecon for Germany with German/English welcome, KOSTRO Płock, GREKOM Gdańsk). JSON-LD gives datePosted/validThrough. Earlier Fridays reported pracuj dry; keep it in the Friday set.
