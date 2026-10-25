@@ -1,3 +1,13 @@
+## 2026-10-26 (Monday, Italy long-tail)
+
+1. **Ledger re-check (574 URLs, curl retry 28):** 7 rows closed (Jobijoba 410: EDAC Seregno 19989b88, ALPI Trieste, Milano P.IVA, Blackline Genova, Gi Group Cuneo 41eb3721 [other Gi copies live]; FT 214NQGH 404; StepStone Scherbaum validThrough 25 Oct). All 6 items listed 10-25 still live. Hytech 477579644 2-day reminder shown (closes 28 Oct).
+2. **Yield (12 new + 1 REPOSTED):** UK 3 via web search (Interocean Aberdeen L1/2 = Top pick; SA Safety Troopr L1–3 aging; CAN Group L3 NDT detail page). IT 5 via Jobijoba IT (queries: operatore su fune, rocciatore, muratore su fune, irata, operatore in fune) + web search (lavoroperte Ravenna, deadline 2 Nov). FR 4 HelloWork p1 (old ids 77.1M/82.6M re-dated 25 Oct). REPOSTED: Samsic HR Rome operatore su fune (applavoro rows closed, new Jobijoba copy 22 Oct).
+3. **Italian blocker pattern:** most IT agency ads (Umana, Lavoropiù, Samsic) require the Italian 'Modulo A' rope certificate (D.Lgs 81/08); IRATA L1 alone may not satisfy it. Keep IT items in stretch unless the ad says 'formiamo noi' / IRATA accepted.
+4. **New sources:** Swire RE Recruitee feed `jobs.swire-re.com/api/offers/` (no Europe rope/blade ad newer than June; logged as aging extras); jobijoba.de (mirrors of known DE employers; RTS Wind German offshore Industriekletterer copies = same as English RTS row). Altrad Drachten L3 recruitee -22 = 404 (web index stale). oproma.de Hamburg L1–3 = 'nicht mehr verfügbar'. bebee PTSG Newport expired 19 Oct.
+5. **Mirrors logged, not listed:** ~25 EdiliziAcrobatica muratore city cards on Jobijoba (campaign), Umana Bologna cfa12682 (likely 2High), In Job Bologna 005d24f8 / 84056032, EDAC Romano di Lombardia 7627d10f (posted 17 Jun), EST Augusta duplicates.
+6. **Blocked:** Indeed (403), cv-library, irishjobs, werkzoeken, bakeca, jobat.be, prace.cz (403); InfoJobs ES (captcha); volnamista (404); trovalavoro / simacek (no response). Unverified today: High Torque UK careers, OLX Grupa POOD.
+7. **Deadlines ahead:** Hytech 477134741 31 Oct (2-day due 29 Oct); Ravenna lavoroperte 2 Nov; Ventotec 14 Nov; WNG Telecon 16 Nov; Peper / Industriekletterer Bonn 18 Nov; Phenna 23 Nov; Harmony Fire 25 Nov.
+
 ## 2026-10-25 (Sunday, weekend catch-up + health check)
 
 1. **Full ledger re-check (559 URLs, python-requests then curl for 58 failures):** 16 rows closed (Bellini CH JobScout24 campaign ×10 = 410 and search 0 results; HelloWork Intersud Cagnes 84523320 and Workplace LU 83564026 'n'est plus disponible'; Jobijoba In Corda caposquadra 775ef9e3 and Edilfuni 0e0b755b 410; Net-Empregos 15866047 / 15865464). All 11 items listed 10-24 still live.

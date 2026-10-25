@@ -1,9 +1,19 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-25.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-26.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Interocean Marine Services Ltd (Aberdeen) | UK | https://scotjobsnet.co.uk/job/rope-access-technician-irata-l1-2-aberdeen/ (Scotjobsnet card; own site not traced) | 2026-10-26 | NEW Mon (Top pick): IRATA L1/2 short industrial project, full GWO + DONUT + confined-space awareness, local preferred |
+| SA Safety (South Brent, Devon) | UK | https://www.troopr.co.uk/opportunities/2655155 (Troopr copy) — https://sasafety.co.uk/rope-access-jobs-in-devon/ | 2026-10-26 | Listed Mon as aging CV intake: IRATA L1–3, Plymouth long-term; employer page dated Apr 2026 |
+| CAN Group (Barrow-in-Furness) | UK | https://www.cangroup.net/rope-access-level-3-ndt-technician/ — personnel@cangroup.net (from the ad; never contact) | 2026-10-26 | Detail page found Mon: L3 + PCN L2 UT, 2/2 from 29 Oct (stretch, listed) |
+| Lavoropiù (agency, Roma) / Umana Roma / Samsic HR (Bologna branch, Roma + Cinisello) | IT | Jobijoba d536b7a5 / 72c580b4 / c9eb8668 (+ f02bf603, d6651b42 older copies) | 2026-10-26 | Mon: listed as stretch (Italian Modulo A rope certificate needed); Samsic Rome = REPOSTED |
+| EST Europea Servizi Terminalistici (ISLA group, Augusta port) | IT | Jobijoba 4adf9132 (+ ~8 copies: dc516ad2, 9b1c4b18, a628ea05, b765bddf, 1bafefa8, bae32cd4, d9943b76, 41b3835e) | 2026-10-26 | NEW Mon (stretch): IRATA L2/3 container lashing + wind cargo; own careers page not traced |
+| Emilia-Romagna regional job agency (lavoroperte) | IT | https://lavoroperte.regione.emilia-romagna.it/offerte-lavoro/ravenna/muratore-ravenna/525818 | 2026-10-26 | NEW Mon: 3 muratori su fune Ravenna, deadline 2 Nov; public board worth a weekly 'fune' search |
+| Scutieri Costruzioni (Catanzaro) | IT | Jobijoba ae16c4a8 | 2026-10-26 | NEW Mon: building labourer with rocciatore training |
+| Groupe Balas (Gennevilliers) + anonymous intérim agencies (Seurre, Imphy, Azerailles) | FR | HelloWork 77125094 / 82611820 / 82613661 / 82609019 | 2026-10-26 | NEW Mon (stretch, CQP/SS4); old ids re-dated 25 Oct |
+| Swire Renewable Energy (Recruitee) | DK / NL / UK | https://jobs.swire-re.com/api/offers/ (feed) | 2026-10-26 | NEW source Mon: Europe blade/rope ads all Apr–Jun 2026 (aging, summer windows passed); diff weekly for new season ads |
+| jobijoba.de (board) | DE | https://www.jobijoba.de/query/?what=industriekletterer | 2026-10-26 | NEW board Mon: mirrors RTS Wind, SPIE, Bilfinger, Deutsche Windtechnik, PolyTALENT, Ge:Net, RPG, Ventotec ads; useful as a cross-check |
 | Tecnorenova Renovables (Vilalba, Lugo) | ES | https://tecnorenova.com/ofertas-empleo/ (card: https://tecnorenova.com/ofertas-empleo/tecnico-a-irata-l2/) — rrhh.es@tecnorenova.com (from the ad; never contact) | 2026-10-25 | NEW Sun (stretch); Técnico/a IRATA L2 for wind projects, Spain + abroad, datePosted 2 Oct; also posts 'técnico de mantenimiento eólico' (not rope). Careers page is plain HTML with JSON-LD: diff it each ES run |
 | COMANTUR (via TTR board) | ES | https://ttrinternational.com/ofertas-de-empleo/oferta-labora-irata-gwo/ — rrhh@comantur.net (from the ad; never contact) | 2026-10-25 | Listed once Sun as aging (TTR card dated 26 Feb 2025): IRATA L1/L2 + GWO BST required, wind, Spain + abroad; direct cert match but old = treat as CV intake. Find the employer's own careers page |
 | Actua (Lille agency) / Toma Intérim Toulouse / Adéquat T.G.H Saint-Nazaire | FR | HelloWork 83672381 / 84771790 / 81606562 | 2026-10-25 | NEW Sun; Actua accepts IRATA (main); Toma + Adéquat need CQP (stretch) |
