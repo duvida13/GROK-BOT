@@ -1,9 +1,45 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-26.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-27.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Bellini Personal AG (agency, axxeva group) | CH | https://www.jobscout24.ch/de/job/efe84eac-c065-432d-9604-ef52429ee24f/ | 2026-10-27 | REPOSTED Tue: Industriekletterer (m/w) – direct hire with clients in Chur, Lungern, Bern, Brugg, Luzern, Rapperswil |
+| IMPERUNICA LDA | PT | https://www.net-empregos.com/16171516/pintor-rapel-construcao-civil/ | 2026-10-27 | NEW Tue (Top pick): Pintor rapel / técnico de acesso por cordas – Lisboa |
+| Casa Otimista | PT | https://www.net-empregos.com/16167813/pintor-industrial-predial-em-rappel-acesso-por-cordas/ | 2026-10-27 | NEW Tue (Top pick): Pintor industrial/predial em rappel (acesso por cordas) – Lisboa |
+| ALTTION | ES | https://www.infojobs.net/castellon-de-la-plana-castello-de-la-plana/tecnico-trabajos-verticales/of-i2cff15b85f4682b617c52fa361d9a7 | 2026-10-27 | NEW Tue (Top pick): Técnico de trabajos verticales (Castellón, projects across Spain) |
+| ACCES VERTICAL SL | ES | https://www.infojobs.net/palma-de-mallorca/tecnico-trabajos-verticales/of-i68aec6036d4960b37d01ed225eee33 | 2026-10-27 | NEW Tue (Top pick): Técnico/a en trabajos verticales (Palma de Mallorca) |
+| VÉRTIKA SOLUCIONES SL | ES | https://www.infojobs.net/valencia/oficial-trabajos-verticales/of-i763ba2f3444410b4dc5ac13cfabe66 | 2026-10-27 | NEW Tue (Top pick): Oficial 1ª/2ª en trabajos verticales (Comunidad Valenciana) |
+| DISET Control de Plagas S.L. | ES | https://www.infojobs.net/barcelona/operario-trabajos-verticales/of-i76ea0fab2045d184048e78c97c3118 | 2026-10-27 | NEW Tue (main): Operario/a trabajos verticales – bird-control installs + glass cleaning (Barcelona, 2 jobs) |
+| Sistemas y Servicios PROSILO | ES | https://www.infojobs.net/palencia/operario-trabajos-verticales/of-i1f275bbf4a4ed7b1c9f6639f6099fe | 2026-10-27 | NEW Tue (Top pick): Operario/a de trabajos verticales – silo cleaning (Palencia, travel) |
+| ALTURIA Trabajos Verticales SL | ES | https://www.infojobs.net/valencia/oficial-trabajos-verticales/of-i5be856475246f5999f8f8eefac0e80 | 2026-10-27 | NEW Tue (stretch): Oficial 1ª/2ª en trabajos verticales (Valencia) |
+| DEUNA Verticales SL | ES | https://www.infojobs.net/valencia/tecnico-trabajos-verticales/of-i8bc97ed9a94a90800c5e353ff33524 | 2026-10-27 | NEW Tue (stretch): Técnico/a en trabajos verticales (Valencia) |
+| CIMBRAS VERTICAL SL | ES | https://www.infojobs.net/jaen/oficial-trabajos-verticales/of-i067941d824467081d5945db3b39d90 | 2026-10-27 | NEW Tue (stretch): Oficial/operario de trabajos verticales (Jaén, 2 jobs) |
+| GRUPO VERTICAL SUR C.B. | ES | https://www.infojobs.net/madrid/especialista-trabajos-verticales/of-i8d4fa2699f47588b4d499888fb767e | 2026-10-27 | NEW Tue (stretch): Especialista / oficial en trabajos verticales (Madrid) |
+| TPI Composites (via JR Spain / Eurojobs) | ES | https://www.eurojobs.com/jobs/35255613/job-35255613 | 2026-10-27 | NEW Tue (stretch): Wind Blade Field Service Technician (Madrid base, EMEA travel) |
+| Alpha Access Ltd (via StudySmarter Talents) | UK | https://talents.studysmarter.co.uk/companies/alpha-access/london/irata-level-1-rope-access-technician-28958006/ | 2026-10-27 | NEW Tue (main): IRATA Level 1 Rope Access Technician – London |
+| Muehlhan Wind Service | EU | https://career.muehlhan.com/jobs/8551836-blade-repair-technician-with-irata-level-3 | 2026-10-27 | NEW Tue (stretch): Blade Repair Technician with IRATA Level 3 (Blades EU) |
+| Stadler + Schaaf Mess- und Regeltechnik GmbH | DE | https://www.finest-jobs.com/stellenanzeige/industriekletterer-elektrotechnik-d-1311876 | 2026-10-27 | NEW Tue (stretch): Industriekletterer Elektrotechnik (Ludwigshafen) |
+| h2concepts Facility Management GmbH | AT | https://www.h2concepts.at/jobs/industriekletterer-hoehenfacharbeiter-im-bereich-spezialreinigungen-und-montagearbeiten-w-m-d/ | 2026-10-27 | NEW Tue (stretch): Industriekletterer / Höhenfacharbeiter – special cleaning & installation (Graz) |
+| WellJob Intérim (Cagnes-sur-Mer) | FR | https://www.hellowork.com/fr-fr/emplois/84785790.html | 2026-10-27 | NEW Tue (stretch): Cordiste urbain (Cagnes-sur-Mer / Alpes-Maritimes) |
+| WellJob Intérim (Nice) | FR | https://www.hellowork.com/fr-fr/emplois/84785753.html | 2026-10-27 | NEW Tue (stretch): Cordiste urbain (Cannes) |
+| Workeez | FR | https://www.hellowork.com/fr-fr/emplois/80573675.html | 2026-10-27 | NEW Tue (stretch): Cordiste / cordiste urbain – all levels (Seclin / Avelin) |
+| Proxima Intérim | FR | https://www.hellowork.com/fr-fr/emplois/84792708.html | 2026-10-27 | NEW Tue (stretch): Cordiste TP (La Valette-du-Var, 1 month) |
+| Temporis (Toulon) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215QWMF | 2026-10-27 | NEW Tue (stretch): Cordiste TP / génie civil (Le Beausset) |
+| Temporis Intérim (Toulon) | FR | https://www.hellowork.com/fr-fr/emplois/83763044.html | 2026-10-27 | NEW Tue (stretch): Cordiste TP (La Garde) |
+| Advance Emploi | FR | https://www.hellowork.com/fr-fr/emplois/84792509.html | 2026-10-27 | NEW Tue (stretch): Cordiste TP (Aléria, Corsica) |
+| Toma Intérim | FR | https://www.hellowork.com/fr-fr/emplois/83755596.html | 2026-10-27 | NEW Tue (stretch): Cordiste (Le Cannet, 3 months) |
+| PNS (Saint-Laurent-du-Var) | FR | https://candidat.francetravail.fr/offres/recherche/detail/215PYXW | 2026-10-27 | NEW Tue (stretch): Cordiste urbain (Nice) |
+| OCEANE Intérim | FR | https://candidat.francetravail.fr/offres/recherche/detail/215RHBJ | 2026-10-27 | NEW Tue (stretch): Ouvrier cordiste – pose de filets (Dreux) |
+| Temporis Intérim | FR | https://www.hellowork.com/fr-fr/emplois/83792222.html | 2026-10-27 | NEW Tue (stretch): Cordiste maçon (Chalon-sur-Saône, 6 months) |
+| TECHMO HYGIENE | FR | https://www.hellowork.com/fr-fr/emplois/83757876.html | 2026-10-27 | NEW Tue (stretch): Cordiste – anti-bird protection (Le Blanc-Mesnil / Île-de-France, CDI) |
+| CALYS Digital (for a roofing firm) | FR | https://www.hellowork.com/fr-fr/emplois/83794427.html | 2026-10-27 | NEW Tue (stretch): Couvreur-zingueur cordiste (Paris, CDI) |
+| Satis Jobs Center | FR | https://www.hellowork.com/fr-fr/emplois/80613011.html | 2026-10-27 | NEW Tue (stretch): Cordiste TP (Ugine, Savoie) |
+| Brawo | FR | https://www.hellowork.com/fr-fr/emplois/80593062.html | 2026-10-27 | NEW Tue (stretch): Cordiste industrie (Bollène, CDI) |
+| Sigma (temp agency, Valais) | CH | https://www.sigma.tech/offres-d-emploi/canton-du-valais/cordiste-h-f-h-f/101852-1322 | 2026-10-27 | Web-search hit; page 410 today (closed before listing); re-check sigma.tech list page on CH days |
+| Transactive SA (Lausanne) | CH | (no job page on own site; ad seen on Indeed CH only, 403) — contact email shown in ad, never contact | 2026-10-27 | Watch: IRATA 1–3 or building trainees; list only if a verifiable ad page appears |
+| BHS Höhenarbeit & Service (Wien) | AT | https://bhs.wien/jobs-karriere | 2026-10-27 | Evergreen careers page (Industriekletterer, Absturzsicherung monteur); too thin to verify as dated ad; watch |
+| CB&I Asset Solutions (Aberdeen) | UK | https://jobsinuk.app/job/cb-i-electrical-rope-access-technician-remote-aberdeen-scotland | 2026-10-27 | Electrical rope access (bp ETAP) ad expired; seed for UK offshore electrical |
 | Interocean Marine Services Ltd (Aberdeen) | UK | https://scotjobsnet.co.uk/job/rope-access-technician-irata-l1-2-aberdeen/ (Scotjobsnet card; own site not traced) | 2026-10-26 | NEW Mon (Top pick): IRATA L1/2 short industrial project, full GWO + DONUT + confined-space awareness, local preferred |
 | SA Safety (South Brent, Devon) | UK | https://www.troopr.co.uk/opportunities/2655155 (Troopr copy) — https://sasafety.co.uk/rope-access-jobs-in-devon/ | 2026-10-26 | Listed Mon as aging CV intake: IRATA L1–3, Plymouth long-term; employer page dated Apr 2026 |
 | CAN Group (Barrow-in-Furness) | UK | https://www.cangroup.net/rope-access-level-3-ndt-technician/ — personnel@cangroup.net (from the ad; never contact) | 2026-10-26 | Detail page found Mon: L3 + PCN L2 UT, 2/2 from 29 Oct (stretch, listed) |
