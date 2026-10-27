@@ -1,9 +1,19 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-27.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-28.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| KAEFER Technik und Service GmbH | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-Hoehenarbeiter-w-m-d-Bremen-KAEFER-Technik-und-Service-GmbH--14688175-inline.html | 2026-10-28 | NEW Wed: Industriekletterer / Höhenarbeiter Bremen (FISAT team, German, includes supervision) |
+| Tekno Consulting srl | IT | https://www.jobijoba.it/annunci-di-lavoro/13/5041ce58ba74d0846676857018954ba8 | 2026-10-28 | NEW Wed: Operatore su fune Roma (P.IVA); aggregator only, no employer page found |
+| ALTITUDE TS (Groupe M) | FR | https://www.hellowork.com/fr-fr/emplois/82739525.html | 2026-10-28 | NEW Wed: Cordiste nucléaire/industrie Malataverne, CDI, funds training |
+| Groupe Marc | FR | https://www.hellowork.com/fr-fr/emplois/59517481.html | 2026-10-28 | NEW Wed: Cordiste TP Brest CDI (natural-hazard works) |
+| Sup Intérim | FR | https://www.hellowork.com/fr-fr/emplois/84866021.html | 2026-10-28 | NEW Wed: Cordiste with diving team, Vaufrey |
+| AD HOC intérim & recrutement | FR | https://www.hellowork.com/fr-fr/emplois/84850410.html | 2026-10-28 | NEW Wed: Cordiste élagueur Marseille |
+| Geny Intérim (Pompey) | FR | https://www.hellowork.com/fr-fr/emplois/84867746.html | 2026-10-28 | NEW Wed: Cordiste industrial silos, Lorraine |
+| STRABAG (AT) | AT | https://jobboerse.strabag.at/job-detail.php?ReqId=req69987 | 2026-10-28 | Watch: Industriekletterer:in Wien; page loads empty (JS) |
+| QWC.dk ApS | DK | (seen only on europeos.es aggregator; no employer URL verified) | 2026-10-28 | Watch: IRATA L3 supervisor Glostrup (Sept), English ok — L3 stretch |
+| InfoJobs (board) | ES | https://www.infojobs.net/jobsearch/search-results/list.xhtml?keyword=trabajos+verticales | 2026-10-28 | Job pages bot-walled 28 Oct (search lists ok) → items unverified |
 | Bellini Personal AG (agency, axxeva group) | CH | https://www.jobscout24.ch/de/job/efe84eac-c065-432d-9604-ef52429ee24f/ | 2026-10-27 | REPOSTED Tue: Industriekletterer (m/w) – direct hire with clients in Chur, Lungern, Bern, Brugg, Luzern, Rapperswil |
 | IMPERUNICA LDA | PT | https://www.net-empregos.com/16171516/pintor-rapel-construcao-civil/ | 2026-10-27 | NEW Tue (Top pick): Pintor rapel / técnico de acesso por cordas – Lisboa |
 | Casa Otimista | PT | https://www.net-empregos.com/16167813/pintor-industrial-predial-em-rappel-acesso-por-cordas/ | 2026-10-27 | NEW Tue (Top pick): Pintor industrial/predial em rappel (acesso por cordas) – Lisboa |
