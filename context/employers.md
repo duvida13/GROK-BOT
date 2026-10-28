@@ -459,3 +459,14 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Vertical Alpin BL | RO | https://www.verticalalpin.com/lucreaza-cu-noi/ — office@verticalalpin.com | 2026-09-25 | Watch; form only |
 | Life-Line S.r.l. | IT | info@lifelineromaprati.com — https://www.life-line.it/ | 2026-10-05 | Watch; lavori.co.it detail 403; no careers page |
 | SIMACEK GmbH | AT | https://job.simacek.at/ | 2026-09-29 | Wien Industriekletterer 410 Closed |
+| FLEX WIND POLAND sp. z o.o. | PL/EU | https://www.pracuj.pl/praca/rope-access-blade-technician-szczecin,oferta,1005181752 (pracuj.pl; no own careers feed found) | 2026-10-29 | NEW Live Thu; Rope Access Blade Technician, IRATA L1–3, English, B2B, accommodation/travel paid; needs blade/composite experience; valid to 25 Nov |
+| Kessler Group (via TTR International) | ES/EU | https://ttrinternational.com/ofertas-de-empleo/ (TTR board) | 2026-10-29 | NEW Live Thu; freelance IRATA industrial painter, naval projects in Europe; Spain residence required |
+| Seilkraft Industriekletterer GmbH | DE | Bundesagentur v6 (BA 10001-1003924514-S, 10001-1003924968-S); no own feed checked | 2026-10-29 | NEW Live Thu; Düsseldorf; Elektriker / Schlosser als Industriekletterer, mentor training |
+| SIA Aerogate Latvia | LV | https://www.irdarbs.lv/vakance/INDUSTRIALAIS-ALPINISTS:bpbi (NVA ad) | 2026-10-29 | NEW Live Thu (aging, published 27 Aug); pylons + wind maintenance, training offered; deadline 29 Nov |
+| BIERNAT | FR | France Travail 215SVYZ | 2026-10-29 | NEW Live Thu; Paris technicien cordiste CDI, CQP1 or equivalent |
+| Réseau Jade | FR | France Travail 215TRGQ | 2026-10-29 | NEW Live Thu; Wasquehal compagnon cordiste CDD |
+| Crit (Blois/Orléans) | FR | HelloWork 84909887 (+4 twin cards) | 2026-10-29 | NEW Live Thu; cordiste, beginners accepted, temp-to-CDI |
+| Cetim | FR | HelloWork 79484502 | 2026-10-29 | NEW Live Thu; Grenoble technicien CND cordiste, 3–5 yrs NDT |
+| Groupe Carrion | FR | HelloWork 81815274 | 2026-10-29 | NEW Live Thu; Vaulx-en-Velin cordiste maçon CDI |
+| Ven-to | DK/EU | (employer careers URL 404; climatechangejobs.com/jobs/692342921 aggregator only) | 2026-10-29 | Watch; blade repair IRATA L1–3, needs blade experience + Vestas certs |
+| GEV Wind Power | UK/PL/IE/EU | https://gevgroupltd.recruitee.com/api/offers | 2026-10-29 | Feed checked Thu: no EU IRATA ad (irata-level-12-offshore-eu gone); only 2027 WTG/supervisor + USA ads |
