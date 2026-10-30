@@ -1,9 +1,17 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-28.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-31.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| SIA Ultra Wind Energy | LV | https://www.ss.lv/msg/lv/work/are-required/climber/blkcpp.html (ss.lv; reg. 40203529486; no own site checked) | 2026-10-31 | NEW Sat: Alpīnists for wind-tower concrete blocks (GWO) + pylon erection, 20–50 m, apply by phone |
+| Soluces RH Cordistes – ACCRO | FR | HelloWork 83883846 (IdF) / 83884084 (Grand Est) | 2026-10-31 | NEW Sat: rope-access temp agency; beginners considered |
+| NS Management | FR | HelloWork 84942373 / France Travail 215VNXT | 2026-10-31 | NEW Sat: poseur de filets cordiste CDI Cébazat/Royat |
+| Artemis Success | FR | HelloWork 83838235 | 2026-10-31 | NEW Sat: couvreur cordiste CDI Paris, 5 yrs |
+| MC Intérim (Thionville) | FR | HelloWork 83854912 | 2026-10-31 | NEW Sat: cordiste résidentiel, 3 yrs |
+| Uitzendbureau (Jobbird advertiser, Franeker) | NL | https://www.jobbird.com/nl/vacature/26013370-sr-monteur-windturbines | 2026-10-31 | NEW Sat: senior monteur windturbines with rope access + blade repair (Dutch) |
+| Bilfinger ISP Offshore Norway | NO | https://jobs.bilfinger.com/job/Stavanger-Tilkomsttekniker-niv%C3%A5-2-3-Sikringsleder-11-4033/1374233033/ | 2026-10-31 | Closed ('stillingen er besatt'); Scandinavian + NS 9600 required anyway |
+| Flyper | PT | (emprego24.pt aggregator only, Cloudflare 403) | 2026-10-31 | Watch: industrial alpinist Funchal, posted 17 Oct; unverified |
 | KAEFER Technik und Service GmbH | DE | https://www.stepstone.de/stellenangebote--Industriekletterer-Hoehenarbeiter-w-m-d-Bremen-KAEFER-Technik-und-Service-GmbH--14688175-inline.html | 2026-10-28 | NEW Wed: Industriekletterer / Höhenarbeiter Bremen (FISAT team, German, includes supervision) |
 | Tekno Consulting srl | IT | https://www.jobijoba.it/annunci-di-lavoro/13/5041ce58ba74d0846676857018954ba8 | 2026-10-28 | NEW Wed: Operatore su fune Roma (P.IVA); aggregator only, no employer page found |
 | ALTITUDE TS (Groupe M) | FR | https://www.hellowork.com/fr-fr/emplois/82739525.html | 2026-10-28 | NEW Wed: Cordiste nucléaire/industrie Malataverne, CDI, funds training |
