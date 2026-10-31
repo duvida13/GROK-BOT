@@ -1,9 +1,19 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-10-31.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-01.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Monteil & Cie | FR | https://www.hellowork.com/fr-fr/emplois/83923673.html | 2026-11-01 | NEW Sun: cordiste CDI Paris (Haussmann roofs/façades); beginners considered; CQP, CATC or IRATA accepted |
+| SKYWORK (Groupe CAN) | FR | HelloWork 83941398 / 83939834 / 83939644 | 2026-11-01 | NEW Sun: Orléans CDI chef de chantier éolien (blades) + industrie + magasinier-cordiste; all need 5–7 yrs |
+| Start & Jobs | FR | HelloWork 83938897 (Strasbourg) / 83938887 (Verdun); earlier 82481852 Reims, 82560960 Lille | 2026-11-01 | Recruitment agency for a rope-access contractor; Strasbourg/Verdun cards accept IRATA |
+| Intérim Qualité Dunkerque | FR | https://www.hellowork.com/fr-fr/emplois/83985210.html | 2026-11-01 | NEW Sun: cordiste Grande-Synthe, industrial maintenance client |
+| AVS Emploi | FR | https://www.hellowork.com/fr-fr/emplois/82844649.html | 2026-11-01 | NEW Sun: cordiste CQP2 mécanique, Saillant dam (Brive), 15 days |
+| Emploi DomTom (AXION Saint-Denis) | FR (La Réunion) | https://www.hellowork.com/fr-fr/emplois/85018437.html | 2026-11-01 | NEW Sun: cordiste temp, CQP 1/2; overseas department |
+| MARA | IT | https://www.jobijoba.it/annunci-di-lavoro/13/a1927713120253f0e05062f451268923 (Jobijoba only; no own site checked) | 2026-11-01 | NEW Sun (aging, 27 May): operatore lavori in fune Sondrio, rockfall nets/avalanche barriers |
+| BTH (Groupe NA) | BE | https://groupena.teamtailor.com/jobs/8633773-technicien-cordiste-h-f (Groupe NA Teamtailor feed /jobs.json) | 2026-11-01 | REPOSTED Sun: Mouscron technicien cordiste CDI, CQP1 or IRATA L1 minimum, experience optional, from €17.12/h |
+| Muehlhan Wind Service (Canada) | CA | https://career.muehlhan.com/jobs/8644876-blade-repair-technician-irata-level-1-level-2 | 2026-11-01 | Out of scope: IRATA L1/L2 blade repair 2027 season, Canada work authorisation required |
+| Nexavision Inc. / NextSolutions / EcoFarm Solutions | PT | (emprego24.pt aggregator only; Cloudflare 403) | 2026-11-01 | Watch only: Porto/Faro alpinist ads, no employer page found; low-quality aggregator pattern |
 | SIA Ultra Wind Energy | LV | https://www.ss.lv/msg/lv/work/are-required/climber/blkcpp.html (ss.lv; reg. 40203529486; no own site checked) | 2026-10-31 | NEW Sat: Alpīnists for wind-tower concrete blocks (GWO) + pylon erection, 20–50 m, apply by phone |
 | Soluces RH Cordistes – ACCRO | FR | HelloWork 83883846 (IdF) / 83884084 (Grand Est) | 2026-10-31 | NEW Sat: rope-access temp agency; beginners considered |
 | NS Management | FR | HelloWork 84942373 / France Travail 215VNXT | 2026-10-31 | NEW Sat: poseur de filets cordiste CDI Cébazat/Royat |
