@@ -1,9 +1,18 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-01.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-02.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Baltic DIA (SIA, Riga) | LV / DE / NL projects | https://baltic-dia.eu/for-job-seekers/irata-technicians/ (info@ address and phone shown on the page; never contact) | 2026-11-02 | NEW Mon (web search): English page, IRATA technicians for a Germany WTG equipment-installation project (EU citizenship, GWO onshore, OGUK); undated page with an old week-25 NL project; re-check weekly for text changes |
+| EST Europea Servizi Terminalistici (ISLA group) | IT | https://www.careers-page.com/isla-fowt-palermo/job/4R847WV7 (own career page) | 2026-11-02 | REPOSTED Mon: Tecnico IRATA L2/3 Augusta; Jobijoba copies swap ids, so diff the career page instead |
+| Groupe EPC | FR (New Caledonia) | https://offres.emploi-cordiste.fr/listing/mission-nouvelle-caledonie/ | 2026-11-02 | NEW Mon: industrial cordiste, nickel site; CQP/CATC or IRATA 1/2 + 1 year in industry |
+| Satis Jobs Center – Cordistes | FR | HelloWork 80782354 (Chooz TP); earlier 80393263/80393262/80613011 | 2026-11-02 | Cordiste temp agency (France, DOM-TOM, CH); asks for CQP/CATC |
+| 7in (Grenoble temp agency) | FR | https://www.hellowork.com/fr-fr/emplois/84332961.html | 2026-11-02 | NEW Mon: chef d'équipe cordiste Saint-Fons, CQP2 or IRATA 2 |
+| Axia Intérim | FR | https://www.hellowork.com/fr-fr/emplois/82859818.html | 2026-11-02 | NEW Mon: cordiste polyvalent Lorient/Vannes, CQP or equivalent |
+| APL Network | IT | Jobijoba 1d3d06e0 (Bardi) / 89537cfd (Pieve Emanuele) | 2026-11-02 | NEW Mon: agency; muratore edile with rope work where needed (rope licence for rope roles) |
+| GP Solution (aggregator) | DE (offshore) | https://gpsolution.app/job/8d83b5a0-9af7-4a31-b566-eef99164886c-rope-access-technician-level-2 | 2026-11-02 | Watch only: employer and apply route behind sign-in; offshore crane-vessel rope job, closes 8 Nov |
+| mncjobs.co.uk (aggregator) | UK | Bedford L1/L2 6–12 months (4570511); Stowen L3 Lowestoft (4145642) | 2026-11-02 | Timed out (504) today; unverified; retry next UK run |
 | Monteil & Cie | FR | https://www.hellowork.com/fr-fr/emplois/83923673.html | 2026-11-01 | NEW Sun: cordiste CDI Paris (Haussmann roofs/façades); beginners considered; CQP, CATC or IRATA accepted |
 | SKYWORK (Groupe CAN) | FR | HelloWork 83941398 / 83939834 / 83939644 | 2026-11-01 | NEW Sun: Orléans CDI chef de chantier éolien (blades) + industrie + magasinier-cordiste; all need 5–7 yrs |
 | Start & Jobs | FR | HelloWork 83938897 (Strasbourg) / 83938887 (Verdun); earlier 82481852 Reims, 82560960 Lille | 2026-11-01 | Recruitment agency for a rope-access contractor; Strasbourg/Verdun cards accept IRATA |
