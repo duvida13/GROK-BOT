@@ -497,3 +497,8 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 | Groupe Carrion | FR | HelloWork 81815274 | 2026-10-29 | NEW Live Thu; Vaulx-en-Velin cordiste maçon CDI |
 | Ven-to | DK/EU | (employer careers URL 404; climatechangejobs.com/jobs/692342921 aggregator only) | 2026-10-29 | Watch; blade repair IRATA L1–3, needs blade experience + Vestas certs |
 | GEV Wind Power | UK/PL/IE/EU | https://gevgroupltd.recruitee.com/api/offers | 2026-10-29 | Feed checked Thu: no EU IRATA ad (irata-level-12-offshore-eu gone); only 2027 WTG/supervisor + USA ads |
+
+## Added 2026-11-03
+- OceanCrew (board) / SA World-Recruitment Services — international offshore board — https://oceancrew.org/vacancies/ — last checked 2026-11-03 (Baltic Sea rope access, English)
+- 7in (Lyon/Grenoble temp agency) — France — via HelloWork (Genas, Arbin, Saint-Fons) — last checked 2026-11-03
+- CAN Group — UK — https://www.cangroup.net/ (vacancy pages per job, e.g. /rope-access-ndt-technician-overseas/) — last checked 2026-11-03

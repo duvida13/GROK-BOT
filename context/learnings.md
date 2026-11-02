@@ -444,3 +444,4 @@
 4. Norway: StS UK path usable; pure NO ads need NS 9600 + Scandinavian.
 5. Altrad NL Recruitee L3 links 404 → Company watch.
 6. Rigg Access / Indeed often agent-hostile.
+- 2026-11-03 (Tue, CH+AT long-tail): 9 new (FR 5 HelloWork LIP campaign/7in x3/WellJob, IT 2 Acrobatica new cities via Jobijoba, UK 1 CAN Group NDT overseas, offshore 1 OceanCrew Baltic). PROMAN re-issued all HelloWork cards again under new ids (30 Oct ids now "n'est plus disponible"): treated as same jobs, rows added as mirrors. Web search found OceanCrew (new board, English offshore ads) and CAN Group overseas page. CH/AT boards zero new. finn.no 403 today. ANETVA listing exposes old May–Sept cards not in ledger: not listed (aging). Ledger 957 rows.
