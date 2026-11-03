@@ -502,3 +502,10 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - OceanCrew (board) / SA World-Recruitment Services — international offshore board — https://oceancrew.org/vacancies/ — last checked 2026-11-03 (Baltic Sea rope access, English)
 - 7in (Lyon/Grenoble temp agency) — France — via HelloWork (Genas, Arbin, Saint-Fons) — last checked 2026-11-03
 - CAN Group — UK — https://www.cangroup.net/ (vacancy pages per job, e.g. /rope-access-ndt-technician-overseas/) — last checked 2026-11-03
+
+## Added 2026-11-04
+- Wellner & Höfer GmbH & Co. KG (corrosion protection on HV pylons) — Germany (Elterlein) — via Bundesagentur jobdetail 10000-1208521915-S; contact info@wh-Korrosionsschutz.de — last checked 2026-11-04
+- RTS Wind Group (group careers page) — Europe — https://www.rts-wind.com/careers/ (German jobs also on jobs.rts-wind.de) — last checked 2026-11-04
+- QWC.dk ApS (window cleaning, new rope access dept) — Denmark (Glostrup) — seen via EURES copy on europeos.es; no own careers URL confirmed — last checked 2026-11-04
+- Height Solutions — Belgium (Vremde) — via JobFunders — last checked 2026-11-04
+- Workplace (agency, Luxembourg) — Luxembourg — via HelloWork — last checked 2026-11-04
