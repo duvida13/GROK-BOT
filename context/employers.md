@@ -509,3 +509,11 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - QWC.dk ApS (window cleaning, new rope access dept) — Denmark (Glostrup) — seen via EURES copy on europeos.es; no own careers URL confirmed — last checked 2026-11-04
 - Height Solutions — Belgium (Vremde) — via JobFunders — last checked 2026-11-04
 - Workplace (agency, Luxembourg) — Luxembourg — via HelloWork — last checked 2026-11-04
+
+## Added 2026-11-05
+- CNA Travail Temporaire (Alsace agency) — France (Schiltigheim) — via HelloWork — last checked 2026-11-05
+- HUMANYS Travail Temporaire — France (Gap/Briançon) — via HelloWork — last checked 2026-11-05
+- VINCI Construction – Corse Travaux — France (Aléria) — via HelloWork 83031066 / France Travail — last checked 2026-11-05
+- Net Team (telecom tower climbers) — Romania (Bucharest) — via publi24 — last checked 2026-11-05
+- Alpinex (fall-protection installer) — Poland (Piła) — via olx.pl — last checked 2026-11-05
+- Hytech Access & Inspection — Norway — Recman pages https://hytech.recman.io/job/<id> are JS-only (use the finn.no copy to verify) — last checked 2026-11-05
