@@ -1,9 +1,15 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-02.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-06.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| Triangle Intérim (Lormont) | FR | https://www.hellowork.com/fr-fr/emplois/85209786.html | 2026-11-06 | NEW Fri: cordiste interim, Saint-Sulpice-et-Cameyrac (33); rope qualification, first experience wished |
+| DLSI France | FR | https://www.hellowork.com/fr-fr/emplois/85206692.html | 2026-11-06 | NEW Fri: cordiste CDI Lyon; CQP Cordiste or CATC required |
+| NATS (Groupe NA) | FR | https://groupena.teamtailor.com/jobs/8669782-chef-de-chantier-cordiste-h-f (twin 8669777) | 2026-11-06 | NEW Fri: chef de chantier cordiste, Grans / Aix-en-Provence, CDD 6 months, CQP confirmé; published 5 Nov |
+| OCO Technical / Explotech (Groupe NA) | BE | https://groupena.teamtailor.com/jobs/8655234-chef-d-equipe-cordiste-h-f | 2026-11-06 | NEW Fri: chef d'équipe cordiste, Manhay, natural sites; IRATA 2 or CQP2; published 3 Nov |
+| Europersonal GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003971316-S | 2026-11-06 | NEW Fri: painter / corrosion protection, München; FISAT ideal, not required; temp-to-hire |
+| Carl Personal Management GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4991442283-S | 2026-11-06 | Schwarzheide industrial-cleaning Industriekletterer via compleet; same client pocket as ACB/WISAG clones; not listed |
 | Baltic DIA (SIA, Riga) | LV / DE / NL projects | https://baltic-dia.eu/for-job-seekers/irata-technicians/ (info@ address and phone shown on the page; never contact) | 2026-11-02 | NEW Mon (web search): English page, IRATA technicians for a Germany WTG equipment-installation project (EU citizenship, GWO onshore, OGUK); undated page with an old week-25 NL project; re-check weekly for text changes |
 | EST Europea Servizi Terminalistici (ISLA group) | IT | https://www.careers-page.com/isla-fowt-palermo/job/4R847WV7 (own career page) | 2026-11-02 | REPOSTED Mon: Tecnico IRATA L2/3 Augusta; Jobijoba copies swap ids, so diff the career page instead |
 | Groupe EPC | FR (New Caledonia) | https://offres.emploi-cordiste.fr/listing/mission-nouvelle-caledonie/ | 2026-11-02 | NEW Mon: industrial cordiste, nickel site; CQP/CATC or IRATA 1/2 + 1 year in industry |
