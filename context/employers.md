@@ -1,9 +1,13 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-06.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-07.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
+| WISAG Produktionsservice GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a68253001-S | 2026-11-07 | NEW Sat: Industriekletterer Industriereinigung Schwarzheide |
+| INDUVARO GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/19155-02d9a15f_JB5258176-S | 2026-11-07 | NEW Sat: Industriekletterer als Industriereiniger |
+| BUCHEN EnergyServices GmbH | DE | https://www.arbeitsagentur.de/jobsuche/jobdetail/14332-00002f2a88c001-S | 2026-11-07 | NEW Sat: Aufsichtsführender Höhenarbeiter / Industriekletterer |
+| Artus Interim (Guadeloupe) | FR (971) | https://www.hellowork.com/fr-fr/emplois/85237308.html | 2026-11-07 | NEW Sat: Cordiste Basse-Terre; CQP/CATC; DOM |
 | Triangle Intérim (Lormont) | FR | https://www.hellowork.com/fr-fr/emplois/85209786.html | 2026-11-06 | NEW Fri: cordiste interim, Saint-Sulpice-et-Cameyrac (33); rope qualification, first experience wished |
 | DLSI France | FR | https://www.hellowork.com/fr-fr/emplois/85206692.html | 2026-11-06 | NEW Fri: cordiste CDI Lyon; CQP Cordiste or CATC required |
 | NATS (Groupe NA) | FR | https://groupena.teamtailor.com/jobs/8669782-chef-de-chantier-cordiste-h-f (twin 8669777) | 2026-11-06 | NEW Fri: chef de chantier cordiste, Grans / Aix-en-Provence, CDD 6 months, CQP confirmé; published 5 Nov |
