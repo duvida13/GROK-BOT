@@ -527,3 +527,11 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Net Team (telecom tower climbers) — Romania (Bucharest) — via publi24 — last checked 2026-11-05
 - Alpinex (fall-protection installer) — Poland (Piła) — via olx.pl — last checked 2026-11-05
 - Hytech Access & Inspection — Norway — Recman pages https://hytech.recman.io/job/<id> are JS-only (use the finn.no copy to verify) — last checked 2026-11-05
+## Added 2026-11-08
+- De La Rosa Pintors SL (vertical work + painting at height) — Spain (Granollers, Barcelona) — via TTR https://ttrinternational.com/ofertas-de-empleo/05-11-2026-tecnico-de-trabajos-verticales-en-valles-oriental-y-barcelona/ ; delarosapintorssl@gmail.com — last checked 2026-11-08
+- TOPFORT (event rigging / truss) — Spain (Barcelona) — via TTR https://ttrinternational.com/ofertas-de-empleo/operarios-de-riggin-y-montaje-de-eventos/ — last checked 2026-11-08
+- WORKALP Industry, Lda. (WORKALPINDUSTRY) — Portugal (Coimbra) — new Net-Empregos ad 16225271 (old 16019842 closed) — last checked 2026-11-08
+- Ernest Gordon Recruitment (agency; rope-access estimator for a structural consultancy) — UK (London/Northfleet) — Reed 57533253 / Totaljobs 108286708 — last checked 2026-11-08
+- OffTEC Base GmbH & Co. KG (offshore training centre) — Germany (Enge-Sande) — Bundesagentur 10001-1003969216-S — last checked 2026-11-08
+- Todos.it (infrastructure, rope technicians Pisogne/Gessate) — Italy — via Jobijoba 62c0adf4 — last checked 2026-11-08
+- Muehlhan Wind Service feed note: https://career.muehlhan.com/jobs.json also carries USA/Canada blade-repair seasons (out of scope) and UK TT-I installation ads — last checked 2026-11-08
