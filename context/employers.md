@@ -1,6 +1,6 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-07.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-09.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
@@ -535,3 +535,17 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - OffTEC Base GmbH & Co. KG (offshore training centre) — Germany (Enge-Sande) — Bundesagentur 10001-1003969216-S — last checked 2026-11-08
 - Todos.it (infrastructure, rope technicians Pisogne/Gessate) — Italy — via Jobijoba 62c0adf4 — last checked 2026-11-08
 - Muehlhan Wind Service feed note: https://career.muehlhan.com/jobs.json also carries USA/Canada blade-repair seasons (out of scope) and UK TT-I installation ads — last checked 2026-11-08
+
+## Added 2026-11-09
+- Contractor UK (board) — UK (Holmfirth / Huddersfield) — https://www.contractoruk.com/job/529754-rope_access_technician_level_1 — L1/L2 school-roof job, employer not named on the card; posted 6 Nov; start 16 Nov — last checked 2026-11-09
+- GEV Wind Power — UK & Europe — https://gevgroupltd.recruitee.com/o/experienced-blade-technicians-uk-europe-2027 (feed https://gevgroupltd.recruitee.com/api/offers) — 2027 blade intake, posted 6 Nov; asks for proven blade roles — last checked 2026-11-09
+- Gheller — Italy — https://gheller.it/lavora-con-noi/rocciatore/ — evergreen rocciatore page (datePublished 2023-10-02); trains beginners; phone on the page — last checked 2026-11-09
+- SAS Nature Bois Élagage — France (Nouaillé-Maupertuis) — France Travail 216CGGT (twin 216CFYK) — forestry cordiste; old cards 214ZVSV/214ZVPQ are 404 — last checked 2026-11-09
+- Gezim France — France (Château-Larcher) — HelloWork 83103336 — urban cordiste; CQP1 or CATC; older id re-dated 8 Nov — last checked 2026-11-09
+- AVS Emploi — France (Saint-Vulbas) — HelloWork 84225052 — nuclear cordiste; IRATA or CQP — last checked 2026-11-09
+- Ideal Profeel — France (Paris) — HelloWork 84215569 cordiste and 84222920 conducteur de travaux — CQP required; older ids re-dated 8 Nov — last checked 2026-11-09
+- 2KM Travaux en Hauteur — France (Béziers) — https://2km.fr/offre-emploi-technicien-cordiste.html — CQP or IRATA L1; posted 15 Jan 2026; open to 31 Dec — last checked 2026-11-09
+- Ouest Acro — France (Le Havre) — https://careers.werecruit.io/fr/ouest-acro/offres/cordiste-industrie-d3e65b — industrial cordiste CDI; datePosted 2025-10-07 — last checked 2026-11-09
+- PHM Group company (org 526541908, Råde / Oslo) — Norway — finn.no 477769040 (Oslo) and 477785971 (Råde) — tilkomsttekniker / servicemedarbeider; ad does not give a brand name beyond PHM Group — last checked 2026-11-09
+- LinjePartner AS — Norway — https://www.finn.no/job/ad/479284601 — energimontør, deadline 20 Nov 2026 — last checked 2026-11-09
+- Forcis Trabajos Verticales SL — Spain (Noia) — InfoJobs of-i96d9afdce94fe0988cc5bde5d150a8 — search card 8 Nov; detail page is a bot wall; unverified — last checked 2026-11-09
