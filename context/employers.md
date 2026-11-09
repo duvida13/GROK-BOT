@@ -549,3 +549,14 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - PHM Group company (org 526541908, Råde / Oslo) — Norway — finn.no 477769040 (Oslo) and 477785971 (Råde) — tilkomsttekniker / servicemedarbeider; ad does not give a brand name beyond PHM Group — last checked 2026-11-09
 - LinjePartner AS — Norway — https://www.finn.no/job/ad/479284601 — energimontør, deadline 20 Nov 2026 — last checked 2026-11-09
 - Forcis Trabajos Verticales SL — Spain (Noia) — InfoJobs of-i96d9afdce94fe0988cc5bde5d150a8 — search card 8 Nov; detail page is a bot wall; unverified — last checked 2026-11-09
+
+## Added 2026-11-10
+- iRopeAccess LTD — United Kingdom (London) — https://cowstail.app/jobs/d8mq2cmef6 — one-day gutter/downpipe repair, L1 £180/day, 12 Nov; posted on Cowstail — last checked 2026-11-10
+- Cowstail (job board for UK rope access) — United Kingdom — https://cowstail.app/jobs (8 open jobs; sitemap https://cowstail.app/sitemap.xml; job pages carry JSON-LD validThrough) — most cards are "shared by a tech from a trade group" with contact behind login, so only direct-company posts count — last checked 2026-11-10
+- Pemsa — Switzerland (Fribourg) — https://www.pemsa.ch/de/job/seilkletterer-fur-arbeiten-an-felswanden-m-w-2701214/ — temp agency, rock-face rope climbers (IRATA/CQP) — last checked 2026-11-10
+- Zweiseil GmbH — Austria (Linz) — https://www.zweiseil.at/jobs/elektro-verkabelung/ — electrician + IRATA L2; the general Industriekletterer page is already in the ledger — last checked 2026-11-10
+- SA Safety Ltd — United Kingdom (Plymouth) — https://sasafety.co.uk/irata-l3-tech-job/ — L3 contractors; email onboarding@sasafety.co.uk — last checked 2026-11-10
+- Bell Access & Engineering — United Kingdom (Tebay) — https://bell-access.com/careers/ — evergreen freelance L1-3 intake (rail, highways, nuclear); logged only — last checked 2026-11-10
+- Industrie Kletterer Hamburg IKH GmbH — Germany (Hamburg) — Bundesagentur 12811-2335416-S and 12811-2335417-S — BA pages near-empty, unverified — last checked 2026-11-10
+- BASF SE (Ludwigshafen), Piepenbrock / 3KER RAS Group (Hamburg), PolyTALENT (Clausthal-Zellerfeld), Vestas Deutschland (Berchtesgaden blade repair) — Germany — Bundesagentur ids 16852-44407678-828-S, 13103-3134107_4061579-S, 18659-16702889-S, 10001-1003263531-S — last checked 2026-11-10
+- Fender BV — Netherlands — careers moved to https://fenderbv.nl/vacatures/rope-access-technician/ (old fenderbv.com URL still loads); both live; ledger keeps the .com key — last checked 2026-11-10
