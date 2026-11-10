@@ -1,6 +1,6 @@
 # Employers memory
 
-Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-09.
+Growing list of firms that hire rope access in Europe. Memory only — never invent URLs. Last updated 2026-11-11.
 
 | Employer | Country | Careers / contact URL if seen | Last checked | Note |
 |---|---|---|---|---|
@@ -560,3 +560,9 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Industrie Kletterer Hamburg IKH GmbH — Germany (Hamburg) — Bundesagentur 12811-2335416-S and 12811-2335417-S — BA pages near-empty, unverified — last checked 2026-11-10
 - BASF SE (Ludwigshafen), Piepenbrock / 3KER RAS Group (Hamburg), PolyTALENT (Clausthal-Zellerfeld), Vestas Deutschland (Berchtesgaden blade repair) — Germany — Bundesagentur ids 16852-44407678-828-S, 13103-3134107_4061579-S, 18659-16702889-S, 10001-1003263531-S — last checked 2026-11-10
 - Fender BV — Netherlands — careers moved to https://fenderbv.nl/vacatures/rope-access-technician/ (old fenderbv.com URL still loads); both live; ledger keeps the .com key — last checked 2026-11-10
+- Zweiseil GmbH (Linz, AT) — Austria — English careers index https://www.zweiseil.at/en/careers/ (pages: building-and-heritage-cleaning [IRATA L1], trainee-rope-access-technician, trainee-without-trade-qualification, sheet-metal-and-roofing, masonry-rendering-and-facades, metalwork-and-installation [L2], electrical-and-cabling [L2, ledgered 11-10 as German page], arborist-linz); German twins under /jobs/; apply office@zweiseil.at — last checked 2026-11-11
+- Aprojob (Craponne-sur-Arzon, FR), Empleo (Nîmes, FR) — France — HelloWork ids 85386810, 85360168 — last checked 2026-11-11
+- Relizont (Padova), Samsic HR Italia (Milano) — Italy — Jobijoba mirror ids e8bcc9d0…, 2b72b507… (employer pages not traced) — last checked 2026-11-11
+- Sapiatz GmbH (Berlin), HÖRMANN Kommunikation & Netze (Zwönitz) — Germany — Bundesagentur 10001-1003642783-S, 15176-0067179540-S (aging) — last checked 2026-11-11
+- Stowen Clean Energy (Great Yarmouth) — UK — https://www.stowengroup.com/careers lists only IRATA L3 (11-11); L1/L2 offshore ad is aggregator-only (windspellers/jobrise/adzuna) — not listed
+- Sky-Energy (Kolding, DK; blade L1/L2) — aggregator-only (thebigjobsite); no employer URL found — watch
