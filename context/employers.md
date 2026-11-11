@@ -566,3 +566,13 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Sapiatz GmbH (Berlin), HÖRMANN Kommunikation & Netze (Zwönitz) — Germany — Bundesagentur 10001-1003642783-S, 15176-0067179540-S (aging) — last checked 2026-11-11
 - Stowen Clean Energy (Great Yarmouth) — UK — https://www.stowengroup.com/careers lists only IRATA L3 (11-11); L1/L2 offshore ad is aggregator-only (windspellers/jobrise/adzuna) — not listed
 - Sky-Energy (Kolding, DK; blade L1/L2) — aggregator-only (thebigjobsite); no employer URL found — watch
+
+## Added 2026-11-12
+- Sutro Group (Cardiff / Newport / South West England; Gdańsk office) — UK — https://www.sutrogroup.co.uk/careers/rope-access-roles/ (L1/L2/L3 evergreen intake; email info@sutrogroup.co.uk, contact form) — last checked 2026-11-12
+- Groupe NA (cordiste) — France — Teamtailor feed https://groupena.teamtailor.com/jobs.json; new Technicien Cordiste id 8695355 (10 Nov) — last checked 2026-11-12
+- SKY'CORD (Saint-Ouen-l'Aumône), LPA Lauragais Pyrénées Accès (Castanet-Tolosan) — France — France Travail 216HBVP, 216FTRN — last checked 2026-11-12
+- TOPrope srl (Jesolo) — Italy — Jobijoba b7335871… (card dated 24 June, aging) — last checked 2026-11-12
+- Muehlhan jobs.json 12 Nov: new Vestas Service Technician Denmark (8704161, no rope scope); USA blade repair L1/L2 and L3 ads (8653652, 8653708) are outside Europe, not listed
+- Gridinta (Klaipėda) rope access specialist page requires L1-L3 + VCA + BOSIET + GWO: ledgered, stretch; Aerones Riga blade repair engineer needs 3+ yrs blade experience: not a fit
+- Watch only (unverifiable): OLX.pt Everest Lisboa and Marvila alpinista ads (JS-only pages); emprego24.pt auto-generated ads (Faro, Porto) stay unverified; IE LinkedIn-only posts (Agua-Clean Dublin L1, Muehlhan Ireland blade, Niall McDonagh Kerry)
+- Ventotec Rostock careers: https://ventotec-solution.de/home/jobs (role listed, no date on page) — last checked 2026-11-12
