@@ -576,3 +576,11 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Gridinta (Klaipėda) rope access specialist page requires L1-L3 + VCA + BOSIET + GWO: ledgered, stretch; Aerones Riga blade repair engineer needs 3+ yrs blade experience: not a fit
 - Watch only (unverifiable): OLX.pt Everest Lisboa and Marvila alpinista ads (JS-only pages); emprego24.pt auto-generated ads (Faro, Porto) stay unverified; IE LinkedIn-only posts (Agua-Clean Dublin L1, Muehlhan Ireland blade, Niall McDonagh Kerry)
 - Ventotec Rostock careers: https://ventotec-solution.de/home/jobs (role listed, no date on page) — last checked 2026-11-12
+
+## Added 2026-11-13
+- Kayroma (kayroma.com/jobs?lang=en) — B2B job portal for industrial climbers/height workers (Poland/Czech/Germany/Spain etc.); ETB SOLUTIONS (Lubliniec PL) posts Cuxhaven IRATA L1 (offer 6631, valid to 13 Nov), Rostock L2 electrical (6621, to 13 Nov) and ETB Gruppe Valencia facade conservator (6980, to 22 Nov). Offers have English URL variants (/jobs/<city>/germany/.../offer-N-en-...) and validThrough JSON-LD; worth checking weekly. Last checked 2026-11-13
+- BCN Treballs d'alçada (Barcelona) — hires via TTR International ofertas-de-empleo (oficial de trabajos verticales, IRATA/ANETVA); apply info@bcntreballsdalcada.com. Last checked 2026-11-13
+- Rotor Control GmbH (Struckum, DE) — blade repair/service; BA ad 10000-1208587846-S (start 31 Mar 2027, Quereinstieg). Last checked 2026-11-13
+- Workwise GmbH (DE staffing) — 4 blade-service ads on BA 11-12 (Bremen x2, Karlsruhe x2), BA stubs link to XING only; unverified/not listed
+- Encon Staffing Associates Ltd (UK) — Meltham/Huddersfield L1 school-roof job, named on procontractjobs.com/jobs/4623970 (same ad as Contractor UK 529754)
+- Watch/not listed: MK TECH sp. z o.o. (money.pl aggregator, expires ~15 Nov); Palfinger Marine Qatar L1 (outside Europe); Tecnorenova L2 and 7ocean (L1-3, Scandinavian language) unchanged
