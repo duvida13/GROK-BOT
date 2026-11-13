@@ -584,3 +584,10 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Workwise GmbH (DE staffing) — 4 blade-service ads on BA 11-12 (Bremen x2, Karlsruhe x2), BA stubs link to XING only; unverified/not listed
 - Encon Staffing Associates Ltd (UK) — Meltham/Huddersfield L1 school-roof job, named on procontractjobs.com/jobs/4623970 (same ad as Contractor UK 529754)
 - Watch/not listed: MK TECH sp. z o.o. (money.pl aggregator, expires ~15 Nov); Palfinger Marine Qatar L1 (outside Europe); Tecnorenova L2 and 7ocean (L1-3, Scandinavian language) unchanged
+
+## Added 2026-11-14
+- TEXO Recruitment Limited (UK agency) — Yorkshire Water rope-access L1/2 plater/pipefitter ads on Totaljobs (job108313687 / job108313722); employer site not checked. Last checked 2026-11-14.
+- Le Cercle Intérimaire (FR agency) — HelloWork cordiste/couvreur-cordiste ads (Saint-Denis, Ivry). Last checked 2026-11-14.
+- Høydesikring Access AS (NO, Dovre) — finn.no 480758034 electrician with tilkomst training. Last checked 2026-11-14.
+- Groupe NA Teamtailor feed https://groupena.teamtailor.com/jobs.json re-issues ads under new ids; diff weekly. Last checked 2026-11-14.
+- Monitored but unverifiable: Amco Giffen (amcogiffen.current-vacancies.com, template page), Dron & Dickson (Aberdeen, StudySmarter only), Building Up BV (Haarlem, LinkedIn only).
