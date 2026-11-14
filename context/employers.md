@@ -591,3 +591,9 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Høydesikring Access AS (NO, Dovre) — finn.no 480758034 electrician with tilkomst training. Last checked 2026-11-14.
 - Groupe NA Teamtailor feed https://groupena.teamtailor.com/jobs.json re-issues ads under new ids; diff weekly. Last checked 2026-11-14.
 - Monitored but unverifiable: Amco Giffen (amcogiffen.current-vacancies.com, template page), Dron & Dickson (Aberdeen, StudySmarter only), Building Up BV (Haarlem, LinkedIn only).
+
+## Run notes 2026-11-15 (Sun)
+- Gravitat Formación (Montcada i Reixac, ES) posts jobs for Barcelona-area firms: https://gravitat.com/project/tecnico-para-trabajos-verticales/ (SERVERTIK VERTICALS, Vallès Occidental, IRATA) — NEW source, last checked 2026-11-15. Watch gravitat.com/project/ for more.
+- Ventotec Rostock careers https://ventotec-solution.de/home/jobs — role still shown but stated deadline 2026-11-14 passed; ledger expired-deadline; last checked 2026-11-15.
+- Groupe NA Teamtailor jobs.json diffed 2026-11-15: no new cordiste ids (2 admin roles logged only). Muehlhan jobs.json: no new rope Europe roles.
+- Sky-Work (DK) skywork.dk/erhvervsklatring: info page only, no vacancy. Vyn (SE) Göteborg L3 post dated 23 Jun 2026 (aging, L3). Euspert (IT aggregator) mirrors EdiliziAcrobatica ads.
