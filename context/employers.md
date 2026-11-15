@@ -597,3 +597,8 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Ventotec Rostock careers https://ventotec-solution.de/home/jobs — role still shown but stated deadline 2026-11-14 passed; ledger expired-deadline; last checked 2026-11-15.
 - Groupe NA Teamtailor jobs.json diffed 2026-11-15: no new cordiste ids (2 admin roles logged only). Muehlhan jobs.json: no new rope Europe roles.
 - Sky-Work (DK) skywork.dk/erhvervsklatring: info page only, no vacancy. Vyn (SE) Göteborg L3 post dated 23 Jun 2026 (aging, L3). Euspert (IT aggregator) mirrors EdiliziAcrobatica ads.
+- Specialist Access Technicians (SAT), Edinburgh UK: https://www.specialistaccesstechnicians.co.uk/recruitment/ (IRATA Technicians, L3 supervisors, rope-access roofers/stonemasons; ongoing intake) — NEW 2026-11-16.
+- Delta Funi Srl (Abruzzo, IT): https://deltafuni.it/lavora-con-noi (rope operator, foreman, apprentice) — NEW 2026-11-16.
+- Evoluzione Edilizia (Lazio/Toscana, IT): https://www.evoluzionedilizia.it/operatore-su-fune/ — NEW 2026-11-16.
+- Grimm Service Linee (IT): https://www.grimmservicelinee.it/p/it/lavora-con-noi/posizioni-aperte/64/ — NEW 2026-11-16.
+- Vertical Lab (Veneto, IT): https://verticallabgroup.com/lavora-con-noi/ (thin CV form, unverified). YCE Blades (Sicily/Sardinia blade service): https://www.yceblades.it/en/career/ (no open vacancy shown, last checked 2026-11-16). Bilfinger Height Specialists NL: heightspecialists.com/vacatures/ (alias of jobs.bilfinger.com), last checked 2026-11-16.
