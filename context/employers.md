@@ -602,3 +602,11 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - Evoluzione Edilizia (Lazio/Toscana, IT): https://www.evoluzionedilizia.it/operatore-su-fune/ — NEW 2026-11-16.
 - Grimm Service Linee (IT): https://www.grimmservicelinee.it/p/it/lavora-con-noi/posizioni-aperte/64/ — NEW 2026-11-16.
 - Vertical Lab (Veneto, IT): https://verticallabgroup.com/lavora-con-noi/ (thin CV form, unverified). YCE Blades (Sicily/Sardinia blade service): https://www.yceblades.it/en/career/ (no open vacancy shown, last checked 2026-11-16). Bilfinger Height Specialists NL: heightspecialists.com/vacatures/ (alias of jobs.bilfinger.com), last checked 2026-11-16.
+
+## Added 2026-11-18
+- Repair Abseiling Ltd (London, UK): https://repairabseiling.co.uk/abseiling-rope-access-job-in-london/ (fresh L1 apprentices, email repairabseiling@gmail.com) — NEW 2026-11-18.
+- Flex Wind open application (ATS traffit): https://flexwind.traffit.com/public/form/a/516d5219be942b7364bf64495ecf92a23071627a ; careers: https://www.flex-wind.com/en/join-our-flex-wind-team.htm — NEW 2026-11-18.
+- Attensam Hausbetreuung (Wien, AT): https://www.attensam.at/offene-stellen/ (Höhenarbeiter Taubenabwehr, pays FISAT/IRATA) — NEW 2026-11-18.
+- StS-ISONOR (Bergen, NO): https://www.stsisonor.com/karriere/ledige-stillinger/ — NEW 2026-11-18.
+- Global Wind Service (Fredericia, DK): https://globalwindservice.com/join-us/open-positions/ — NEW 2026-11-18.
+- RODOPI Holding (DE): rodopi.de/jobs/ rope-access-technician-l1-l2-l3 returned 404 on 2026-11-18; recheck.
