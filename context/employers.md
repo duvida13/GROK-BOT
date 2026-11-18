@@ -610,3 +610,11 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - StS-ISONOR (Bergen, NO): https://www.stsisonor.com/karriere/ledige-stillinger/ — NEW 2026-11-18.
 - Global Wind Service (Fredericia, DK): https://globalwindservice.com/join-us/open-positions/ — NEW 2026-11-18.
 - RODOPI Holding (DE): rodopi.de/jobs/ rope-access-technician-l1-l2-l3 returned 404 on 2026-11-18; recheck.
+
+## Added 2026-11-19
+- Vertex Access Group (Chesterfield, UK): https://www.vertexaccess.co.uk/rope-access-jobs (evergreen CV intake, jobs@vertexaccess.co.uk) — NEW 2026-11-19.
+- Max Bögl Bauservice (Sengenthal, DE): https://jobportal.max-boegl.de/ (FISAT/IRATA L1-2 wind tower service ad j2240) — NEW 2026-11-19.
+- Industriekletterer Dortmund (DE): https://industriekletterer-dortmund.de/karriere/ (SPRAT/IRATA/FISAT or in-house training) — NEW 2026-11-19.
+- KAEFER Technik und Service Bremen (DE): https://jobs.kaefer.com/ (ad 5196, FISAT/IRATA min L2) — NEW 2026-11-19.
+- SIA Tirdzniecības un noliktavas servisa pakalpojumi (Mārupe, LV): izdosies.lv/darbs/nva-261027-2 (NVA mirror), email info@vpsprojects.lv — NEW 2026-11-19.
+- Seen, not listed: Vertical Sieves (Ericeira, PT) https://verticalsieves.pt/recrutamento/ (406 to scripts, evergreen intake); RTS Wind Bremen ads via fuchsjobs.de only (jobs.rts-wind.de list is JS-only).
