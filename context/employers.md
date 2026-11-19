@@ -618,3 +618,12 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - KAEFER Technik und Service Bremen (DE): https://jobs.kaefer.com/ (ad 5196, FISAT/IRATA min L2) — NEW 2026-11-19.
 - SIA Tirdzniecības un noliktavas servisa pakalpojumi (Mārupe, LV): izdosies.lv/darbs/nva-261027-2 (NVA mirror), email info@vpsprojects.lv — NEW 2026-11-19.
 - Seen, not listed: Vertical Sieves (Ericeira, PT) https://verticalsieves.pt/recrutamento/ (406 to scripts, evergreen intake); RTS Wind Bremen ads via fuchsjobs.de only (jobs.rts-wind.de list is JS-only).
+
+## Added 2026-11-20
+- Climbex (Opole, PL): https://climbex.pl/praca/alpinista-przemyslowy-pracownik-dostepu-linowego/ (kadry@climbex.pl) — NEW 2026-11-20.
+- RIGZEN GROUP SRL (Sacele, RO): ANOFM ad 3363395, info@rig-zen.com — NEW posting row 2026-11-20 (company already known via rig-zen.com).
+- Group Alpin (București, RO): groupalpin.ro; OLX ad IDjsO8W — NEW 2026-11-20.
+- TEHNOTERM 2000 / VERTIQUEST (București, RO): https://alpinism-industrial.ro/recrutari.php (office@alpinism-industrial.ro) — NEW 2026-11-20.
+- NAK Access Solutions (London, UK): https://www.nakaccesssolutions.co.uk/careers/ (info@nakaccesssolutions.co.uk; CSCS essential) — NEW 2026-11-20.
+- BRV Group (Norway): https://brvgroup.no/en/karriere/ (open application) — NEW 2026-11-20.
+- Seen, not listed: GREKOM Gdańsk (already in ledger via pracuj; joblum copy 2327630); SUPORTALPIN Ploiești (ANOFM 3443815 now 404); Nera Alpin Sibiu (already in ledger); StudySmarter One to One Personnel trainee ads (datePosted Sept 2025, stale); Langset Rope Access (karrierestart 995427, page would not render).
