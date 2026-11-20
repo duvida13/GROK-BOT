@@ -627,3 +627,12 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - NAK Access Solutions (London, UK): https://www.nakaccesssolutions.co.uk/careers/ (info@nakaccesssolutions.co.uk; CSCS essential) — NEW 2026-11-20.
 - BRV Group (Norway): https://brvgroup.no/en/karriere/ (open application) — NEW 2026-11-20.
 - Seen, not listed: GREKOM Gdańsk (already in ledger via pracuj; joblum copy 2327630); SUPORTALPIN Ploiești (ANOFM 3443815 now 404); Nera Alpin Sibiu (already in ledger); StudySmarter One to One Personnel trainee ads (datePosted Sept 2025, stale); Langset Rope Access (karrierestart 995427, page would not render).
+
+## Added 2026-11-21
+- Klätterservice AB (Stockholm, SE): https://jobb.klatterservice.se/ (Teamtailor-like job board; L2/L3, hires continuously) — NEW 2026-11-21.
+- Vyn (Malmö/Göteborg, SE): https://vyn.se/karriar/ and https://vyn.se/nyheter/ (L3 ads; info@vyn.se, ben@vyn.se) — NEW 2026-11-21.
+- ProAccess (Sweden): https://proaccess.se/jobba-som-reptekniker/ (Swedish required; Cloudflare 454 on bot fetch, unverified).
+- Skoupi Anlagenbau GmbH (DE, mobile masts): https://www.skoupi.de/karriere.html (info@skoupi.de) — NEW 2026-11-21.
+- MOVE Vertical Concepts (Düsseldorf, DE): oproma portal ad ID-14281189 — NEW 2026-11-21.
+- WaveSolutions (Aalborg, DK): JobLeads copy only (Cloudflare), seen not listed. Sky-Work ApS (Sunds/Aarhus DK) also advertised via lokalnytherning.dk.
+- Rope Access Sverige / Swire (Göteborg): blade technician 2026 ad now HTTP 410; career.ropeaccess.se is the current host.
