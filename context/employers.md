@@ -637,3 +637,5 @@ Growing list of firms that hire rope access in Europe. Memory only — never inv
 - WaveSolutions (Aalborg, DK): JobLeads copy only (Cloudflare), seen not listed. Sky-Work ApS (Sunds/Aarhus DK) also advertised via lokalnytherning.dk.
 - Rope Access Sverige / Swire (Göteborg): blade technician 2026 ad now HTTP 410; career.ropeaccess.se is the current host.
 - 2026-11-22: added Devers (devers.fr/emploi, Rupt-sur-Moselle FR), MittelDeutsche Seiltechnik (mds-md.de, via oproma), SEILWORX Aachen (seilworx.de/jobs, jobs@seilworx.de). Last checked 2026-11-22.
+
+- 2026-11-23: RTS Wind Group careers https://www.rts-wind.com/careers/rotor-blade-technician-rope-access/ (group intake PT/UK/DE/AT); Swire Renewable Energy https://jobs.swire-re.com/o/blade-technician-season-2026 (Recruitee-style page, multi-site); VERTIKALIA (Asturias) contact mola@vertikalia.es via ANETVA; trovolavoro.com and lavoratorio.it fetchable IT aggregators (last checked 2026-11-23); YCE Blades PDF 2022 only, no vacancy.
